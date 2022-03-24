@@ -1,0 +1,8655 @@
+{
+	"Afghanistan": {
+		"All": {
+			"confirmed": 177255,
+			"recovered": 0,
+			"deaths": 7656,
+			"country": "Afghanistan",
+			"population": 35530081,
+			"sq_km_area": 652090,
+			"life_expectancy": "45.9",
+			"elevation_in_meters": null,
+			"continent": "Asia",
+			"abbreviation": "AF",
+			"location": "Southern and Central Asia",
+			"iso": 4,
+			"capital_city": "Kabul",
+			"lat": "33.93911",
+			"long": "67.709953",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Albania": {
+		"All": {
+			"confirmed": 273146,
+			"recovered": 0,
+			"deaths": 3489,
+			"country": "Albania",
+			"population": 2930187,
+			"sq_km_area": 28748,
+			"life_expectancy": "71.6",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "AL",
+			"location": "Southern Europe",
+			"iso": 8,
+			"capital_city": "Tirana",
+			"lat": "41.1533",
+			"long": "20.1683",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Algeria": {
+		"All": {
+			"confirmed": 265573,
+			"recovered": 0,
+			"deaths": 6873,
+			"country": "Algeria",
+			"population": 41318142,
+			"sq_km_area": 2381741,
+			"life_expectancy": "69.7",
+			"elevation_in_meters": 800,
+			"continent": "Africa",
+			"abbreviation": "DZ",
+			"location": "Northern Africa",
+			"iso": 12,
+			"capital_city": "Alger",
+			"lat": "28.0339",
+			"long": "1.6596",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Andorra": {
+		"All": {
+			"confirmed": 39234,
+			"recovered": 0,
+			"deaths": 153,
+			"country": "Andorra",
+			"population": 76965,
+			"sq_km_area": 468,
+			"life_expectancy": "83.5",
+			"elevation_in_meters": "1,996",
+			"continent": "Europe",
+			"abbreviation": "AD",
+			"location": "Southern Europe",
+			"iso": 20,
+			"capital_city": "Andorra la Vella",
+			"lat": "42.5063",
+			"long": "1.5218",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Angola": {
+		"All": {
+			"confirmed": 99058,
+			"recovered": 0,
+			"deaths": 1900,
+			"country": "Angola",
+			"population": 29784193,
+			"sq_km_area": 1246700,
+			"life_expectancy": "38.3",
+			"elevation_in_meters": "1,112",
+			"continent": "Africa",
+			"abbreviation": "AO",
+			"location": "Central Africa",
+			"iso": 24,
+			"capital_city": "Luanda",
+			"lat": "-11.2027",
+			"long": "17.8739",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Antarctica": {
+		"All": {
+			"confirmed": 11,
+			"recovered": 0,
+			"deaths": 0,
+			"country": "Antarctica",
+			"population": null,
+			"sq_km_area": 13120000,
+			"life_expectancy": null,
+			"elevation_in_meters": "2,300",
+			"continent": "Antarctica",
+			"abbreviation": "AQ",
+			"location": "Antarctica",
+			"iso": 10,
+			"capital_city": null,
+			"lat": "-71.9499",
+			"long": "23.346999999999998",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Antigua and Barbuda": {
+		"All": {
+			"confirmed": 7473,
+			"recovered": 0,
+			"deaths": 135,
+			"country": "Antigua and Barbuda",
+			"population": 102012,
+			"sq_km_area": 442,
+			"life_expectancy": "70.5",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "AG",
+			"location": "Caribbean",
+			"iso": 28,
+			"capital_city": "Saint John's",
+			"lat": "17.0608",
+			"long": "-61.7964",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Argentina": {
+		"All": {
+			"confirmed": 9016057,
+			"recovered": 0,
+			"deaths": 127675,
+			"country": "Argentina",
+			"population": 44271041,
+			"sq_km_area": 2780400,
+			"life_expectancy": "75.1",
+			"elevation_in_meters": 595,
+			"continent": "South America",
+			"abbreviation": "AR",
+			"location": "South America",
+			"iso": 32,
+			"capital_city": "Buenos Aires",
+			"lat": "-38.4161",
+			"long": "-63.6167",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Armenia": {
+		"All": {
+			"confirmed": 422354,
+			"recovered": 0,
+			"deaths": 8601,
+			"country": "Armenia",
+			"population": 2930450,
+			"sq_km_area": 29800,
+			"life_expectancy": "66.4",
+			"elevation_in_meters": "1,792",
+			"continent": "Asia",
+			"abbreviation": "AM",
+			"location": "Middle East",
+			"iso": 51,
+			"capital_city": "Yerevan",
+			"lat": "40.0691",
+			"long": "45.0382",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Australia": {
+		"All": {
+			"confirmed": 4053987,
+			"recovered": 0,
+			"deaths": 5786,
+			"country": "Australia",
+			"population": 24450561,
+			"sq_km_area": 7741220,
+			"life_expectancy": "79.8",
+			"elevation_in_meters": 330,
+			"continent": "Oceania",
+			"abbreviation": "AU",
+			"location": "Australia and New Zealand",
+			"iso": 36,
+			"capital_city": "Canberra"
+		},
+		"Australian Capital Territory": {
+			"lat": "-35.4735",
+			"long": "149.0124",
+			"confirmed": 69571,
+			"recovered": 0,
+			"deaths": 38,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New South Wales": {
+			"lat": "-33.8688",
+			"long": "151.2093",
+			"confirmed": 1647233,
+			"recovered": 0,
+			"deaths": 2034,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Northern Territory": {
+			"lat": "-12.4634",
+			"long": "130.8456",
+			"confirmed": 47004,
+			"recovered": 0,
+			"deaths": 32,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Queensland": {
+			"lat": "-27.4698",
+			"long": "153.0251",
+			"confirmed": 691564,
+			"recovered": 0,
+			"deaths": 700,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"South Australia": {
+			"lat": "-34.9285",
+			"long": "138.6007",
+			"confirmed": 211753,
+			"recovered": 0,
+			"deaths": 238,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tasmania": {
+			"lat": "-42.8821",
+			"long": "147.3272",
+			"confirmed": 73342,
+			"recovered": 0,
+			"deaths": 28,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Victoria": {
+			"lat": "-37.8136",
+			"long": "144.9631",
+			"confirmed": 1205650,
+			"recovered": 0,
+			"deaths": 2693,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Western Australia": {
+			"lat": "-31.9505",
+			"long": "115.8605",
+			"confirmed": 107870,
+			"recovered": 0,
+			"deaths": 23,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Austria": {
+		"All": {
+			"confirmed": 3532415,
+			"recovered": 0,
+			"deaths": 15487,
+			"country": "Austria",
+			"population": 8735453,
+			"sq_km_area": 83859,
+			"life_expectancy": "77.7",
+			"elevation_in_meters": 910,
+			"continent": "Europe",
+			"abbreviation": "AT",
+			"location": "Western Europe",
+			"iso": 40,
+			"capital_city": "Wien",
+			"lat": "47.5162",
+			"long": "14.5501",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Azerbaijan": {
+		"All": {
+			"confirmed": 791545,
+			"recovered": 0,
+			"deaths": 9666,
+			"country": "Azerbaijan",
+			"population": 9827589,
+			"sq_km_area": 86600,
+			"life_expectancy": "62.9",
+			"elevation_in_meters": 384,
+			"continent": "Asia",
+			"abbreviation": "AZ",
+			"location": "Middle East",
+			"iso": 31,
+			"capital_city": "Baku",
+			"lat": "40.1431",
+			"long": "47.5769",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bahamas": {
+		"All": {
+			"confirmed": 33235,
+			"recovered": 0,
+			"deaths": 787,
+			"country": "Bahamas",
+			"population": 395361,
+			"sq_km_area": 13878,
+			"life_expectancy": "71.1",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "BS",
+			"location": "Caribbean",
+			"iso": 44,
+			"capital_city": "Nassau",
+			"lat": "25.025885",
+			"long": "-78.035889",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bahrain": {
+		"All": {
+			"confirmed": 546896,
+			"recovered": 0,
+			"deaths": 1466,
+			"country": "Bahrain",
+			"population": 1492584,
+			"sq_km_area": 694,
+			"life_expectancy": 73,
+			"elevation_in_meters": null,
+			"continent": "Asia",
+			"abbreviation": "BH",
+			"location": "Middle East",
+			"iso": 48,
+			"capital_city": "al-Manama",
+			"lat": "26.0275",
+			"long": "50.55",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bangladesh": {
+		"All": {
+			"confirmed": 1950846,
+			"recovered": 0,
+			"deaths": 29117,
+			"country": "Bangladesh",
+			"population": 164669751,
+			"sq_km_area": 143998,
+			"life_expectancy": "60.2",
+			"elevation_in_meters": 85,
+			"continent": "Asia",
+			"abbreviation": "BD",
+			"location": "Southern and Central Asia",
+			"iso": 50,
+			"capital_city": "Dhaka",
+			"lat": "23.685",
+			"long": "90.3563",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Barbados": {
+		"All": {
+			"confirmed": 57903,
+			"recovered": 0,
+			"deaths": 329,
+			"country": "Barbados",
+			"population": 285719,
+			"sq_km_area": 430,
+			"life_expectancy": 73,
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "BB",
+			"location": "Caribbean",
+			"iso": 52,
+			"capital_city": "Bridgetown",
+			"lat": "13.1939",
+			"long": "-59.5432",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Belarus": {
+		"All": {
+			"confirmed": 952254,
+			"recovered": 0,
+			"deaths": 6737,
+			"country": "Belarus",
+			"population": 9468338,
+			"sq_km_area": 207600,
+			"life_expectancy": 68,
+			"elevation_in_meters": 160,
+			"continent": "Europe",
+			"abbreviation": "BY",
+			"location": "Eastern Europe",
+			"iso": 112,
+			"capital_city": "Minsk",
+			"lat": "53.7098",
+			"long": "27.9534",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Belgium": {
+		"All": {
+			"confirmed": 3741614,
+			"recovered": 0,
+			"deaths": 30605,
+			"country": "Belgium",
+			"population": 11429336,
+			"sq_km_area": 30518,
+			"life_expectancy": "77.8",
+			"elevation_in_meters": 181,
+			"continent": "Europe",
+			"abbreviation": "BE",
+			"location": "Western Europe",
+			"iso": 56,
+			"capital_city": "Bruxelles [Brussel]"
+		},
+		"Antwerp": {
+			"lat": "51.2195",
+			"long": "4.4024",
+			"confirmed": 582726,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Brussels": {
+			"lat": "50.8503",
+			"long": "4.3517",
+			"confirmed": 422422,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"East Flanders": {
+			"lat": "51.0362",
+			"long": "3.7373",
+			"confirmed": 486588,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Flemish Brabant": {
+			"lat": "50.9167",
+			"long": "4.5833",
+			"confirmed": 350848,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hainaut": {
+			"lat": "50.5257",
+			"long": "4.0621",
+			"confirmed": 425332,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Liege": {
+			"lat": "50.4496",
+			"long": "5.8492",
+			"confirmed": 352827,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Limburg": {
+			"lat": "50.9739",
+			"long": "5.3420000000000005",
+			"confirmed": 273973,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Luxembourg": {
+			"lat": "50.0547",
+			"long": "5.4677",
+			"confirmed": 97590,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Namur": {
+			"lat": "50.331",
+			"long": "4.8221",
+			"confirmed": 164960,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 54508,
+			"recovered": 0,
+			"deaths": 30605,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Walloon Brabant": {
+			"lat": "50.4",
+			"long": "4.35",
+			"confirmed": 138898,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"West Flanders": {
+			"lat": "51.0536",
+			"long": "3.1458",
+			"confirmed": 390942,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Belize": {
+		"All": {
+			"confirmed": 57191,
+			"recovered": 0,
+			"deaths": 654,
+			"country": "Belize",
+			"population": 374681,
+			"sq_km_area": 22696,
+			"life_expectancy": "70.9",
+			"elevation_in_meters": 173,
+			"continent": "North America",
+			"abbreviation": "BZ",
+			"location": "Central America",
+			"iso": 84,
+			"capital_city": "Belmopan",
+			"lat": "17.1899",
+			"long": "-88.4976",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Benin": {
+		"All": {
+			"confirmed": 26952,
+			"recovered": 0,
+			"deaths": 163,
+			"country": "Benin",
+			"population": 11175692,
+			"sq_km_area": 112622,
+			"life_expectancy": "50.2",
+			"elevation_in_meters": 273,
+			"continent": "Africa",
+			"abbreviation": "BJ",
+			"location": "Western Africa",
+			"iso": 204,
+			"capital_city": "Porto-Novo",
+			"lat": "9.3077",
+			"long": "2.3158",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bhutan": {
+		"All": {
+			"confirmed": 22625,
+			"recovered": 0,
+			"deaths": 9,
+			"country": "Bhutan",
+			"population": 807610,
+			"sq_km_area": 47000,
+			"life_expectancy": "52.4",
+			"elevation_in_meters": "3,280",
+			"continent": "Asia",
+			"abbreviation": "BT",
+			"location": "Southern and Central Asia",
+			"iso": 64,
+			"capital_city": "Thimphu",
+			"lat": "27.5142",
+			"long": "90.4336",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bolivia": {
+		"All": {
+			"confirmed": 899999,
+			"recovered": 0,
+			"deaths": 21483,
+			"country": "Bolivia",
+			"population": 11051600,
+			"sq_km_area": 1098581,
+			"life_expectancy": "63.7",
+			"elevation_in_meters": "1,192",
+			"continent": "South America",
+			"abbreviation": "BO",
+			"location": "South America",
+			"iso": 68,
+			"capital_city": "La Paz",
+			"lat": "-16.2902",
+			"long": "-63.5887",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bosnia and Herzegovina": {
+		"All": {
+			"confirmed": 374426,
+			"recovered": 0,
+			"deaths": 15685,
+			"country": "Bosnia and Herzegovina",
+			"population": 3507017,
+			"sq_km_area": 51197,
+			"life_expectancy": "71.5",
+			"elevation_in_meters": 500,
+			"continent": "Europe",
+			"abbreviation": "BA",
+			"location": "Southern Europe",
+			"iso": 70,
+			"capital_city": "Sarajevo",
+			"lat": "43.9159",
+			"long": "17.6791",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Botswana": {
+		"All": {
+			"confirmed": 263950,
+			"recovered": 0,
+			"deaths": 2619,
+			"country": "Botswana",
+			"population": 2291661,
+			"sq_km_area": 581730,
+			"life_expectancy": "39.3",
+			"elevation_in_meters": "1,013",
+			"continent": "Africa",
+			"abbreviation": "BW",
+			"location": "Southern Africa",
+			"iso": 72,
+			"capital_city": "Gaborone",
+			"lat": "-22.3285",
+			"long": "24.6849",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Brazil": {
+		"All": {
+			"confirmed": 29691641,
+			"recovered": 0,
+			"deaths": 658005,
+			"country": "Brazil",
+			"population": 209288278,
+			"sq_km_area": 8547403,
+			"life_expectancy": "62.9",
+			"elevation_in_meters": 320,
+			"continent": "South America",
+			"abbreviation": "BR",
+			"location": "South America",
+			"iso": 76,
+			"capital_city": "Brasília"
+		},
+		"Acre": {
+			"lat": "-9.0238",
+			"long": "-70.812",
+			"confirmed": 123710,
+			"recovered": 0,
+			"deaths": 1990,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Alagoas": {
+			"lat": "-9.5713",
+			"long": "-36.782",
+			"confirmed": 295419,
+			"recovered": 0,
+			"deaths": 6855,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Amapa": {
+			"lat": "0.902",
+			"long": "-52.003",
+			"confirmed": 160275,
+			"recovered": 0,
+			"deaths": 2122,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Amazonas": {
+			"lat": "-3.4168",
+			"long": "-65.8561",
+			"confirmed": 580846,
+			"recovered": 0,
+			"deaths": 14148,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bahia": {
+			"lat": "-12.5797",
+			"long": "-41.7007",
+			"confirmed": 1525657,
+			"recovered": 0,
+			"deaths": 29626,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ceara": {
+			"lat": "-5.4984",
+			"long": "-39.3206",
+			"confirmed": 1236907,
+			"recovered": 0,
+			"deaths": 26677,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Distrito Federal": {
+			"lat": "-15.7998",
+			"long": "-47.8645",
+			"confirmed": 690413,
+			"recovered": 0,
+			"deaths": 11562,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Espirito Santo": {
+			"lat": "-19.1834",
+			"long": "-40.3089",
+			"confirmed": 1035434,
+			"recovered": 0,
+			"deaths": 14311,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Goias": {
+			"lat": "-15.827",
+			"long": "-49.8362",
+			"confirmed": 1256581,
+			"recovered": 0,
+			"deaths": 26159,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Maranhao": {
+			"lat": "-4.9609",
+			"long": "-45.2744",
+			"confirmed": 422628,
+			"recovered": 0,
+			"deaths": 10861,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mato Grosso": {
+			"lat": "-12.6819",
+			"long": "-56.9211",
+			"confirmed": 722344,
+			"recovered": 0,
+			"deaths": 14851,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mato Grosso do Sul": {
+			"lat": "-20.7722",
+			"long": "-54.7852",
+			"confirmed": 521327,
+			"recovered": 0,
+			"deaths": 10469,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Minas Gerais": {
+			"lat": "-18.5122",
+			"long": "-44.555",
+			"confirmed": 3301643,
+			"recovered": 0,
+			"deaths": 60601,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Para": {
+			"lat": "-1.9981",
+			"long": "-54.9306",
+			"confirmed": 747304,
+			"recovered": 0,
+			"deaths": 18058,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Paraiba": {
+			"lat": "-7.24",
+			"long": "-36.782",
+			"confirmed": 592401,
+			"recovered": 0,
+			"deaths": 10178,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Parana": {
+			"lat": "-25.2521",
+			"long": "-52.0215",
+			"confirmed": 2399887,
+			"recovered": 0,
+			"deaths": 42830,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pernambuco": {
+			"lat": "-8.8137",
+			"long": "-36.9541",
+			"confirmed": 882753,
+			"recovered": 0,
+			"deaths": 21305,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Piaui": {
+			"lat": "-7.7183",
+			"long": "-42.7289",
+			"confirmed": 367308,
+			"recovered": 0,
+			"deaths": 7718,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rio Grande do Norte": {
+			"lat": "-5.4026",
+			"long": "-36.9541",
+			"confirmed": 493375,
+			"recovered": 0,
+			"deaths": 8116,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rio Grande do Sul": {
+			"lat": "-30.0346",
+			"long": "-51.2177",
+			"confirmed": 2245192,
+			"recovered": 0,
+			"deaths": 38917,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rio de Janeiro": {
+			"lat": "-22.9068",
+			"long": "-43.1729",
+			"confirmed": 2063668,
+			"recovered": 0,
+			"deaths": 72534,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rondonia": {
+			"lat": "-11.5057",
+			"long": "-63.5806",
+			"confirmed": 388501,
+			"recovered": 0,
+			"deaths": 7153,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Roraima": {
+			"lat": "-2.7376",
+			"long": "-62.0751",
+			"confirmed": 154862,
+			"recovered": 0,
+			"deaths": 2144,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Santa Catarina": {
+			"lat": "-27.2423",
+			"long": "-50.2189",
+			"confirmed": 1663084,
+			"recovered": 0,
+			"deaths": 21632,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sao Paulo": {
+			"lat": "-23.5505",
+			"long": "-46.6333",
+			"confirmed": 5193619,
+			"recovered": 0,
+			"deaths": 166746,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sergipe": {
+			"lat": "-10.5741",
+			"long": "-37.3857",
+			"confirmed": 324337,
+			"recovered": 0,
+			"deaths": 6301,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tocantins": {
+			"lat": "-10.1753",
+			"long": "-48.2982",
+			"confirmed": 302166,
+			"recovered": 0,
+			"deaths": 4141,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Brunei": {
+		"All": {
+			"confirmed": 127300,
+			"recovered": 0,
+			"deaths": 196,
+			"country": "Brunei",
+			"population": 428697,
+			"sq_km_area": 5765,
+			"life_expectancy": "73.6",
+			"elevation_in_meters": 478,
+			"continent": "Asia",
+			"abbreviation": "BN",
+			"location": "Southeast Asia",
+			"iso": 96,
+			"capital_city": "Bandar Seri Begawan",
+			"lat": "4.5353",
+			"long": "114.7277",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Bulgaria": {
+		"All": {
+			"confirmed": 1128089,
+			"recovered": 0,
+			"deaths": 36350,
+			"country": "Bulgaria",
+			"population": 7084571,
+			"sq_km_area": 110994,
+			"life_expectancy": "70.9",
+			"elevation_in_meters": 472,
+			"continent": "Europe",
+			"abbreviation": "BG",
+			"location": "Eastern Europe",
+			"iso": 100,
+			"capital_city": "Sofia",
+			"lat": "42.7339",
+			"long": "25.4858",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Burkina Faso": {
+		"All": {
+			"confirmed": 20813,
+			"recovered": 0,
+			"deaths": 379,
+			"country": "Burkina Faso",
+			"population": 19193382,
+			"sq_km_area": 274000,
+			"life_expectancy": "46.7",
+			"elevation_in_meters": 297,
+			"continent": "Africa",
+			"abbreviation": "BF",
+			"location": "Western Africa",
+			"iso": 854,
+			"capital_city": "Ouagadougou",
+			"lat": "12.2383",
+			"long": "-1.5616",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Burma": {
+		"All": {
+			"confirmed": 609648,
+			"recovered": 0,
+			"deaths": 19427,
+			"lat": "21.9162",
+			"long": "95.956",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Burundi": {
+		"All": {
+			"confirmed": 38372,
+			"recovered": 0,
+			"deaths": 38,
+			"country": "Burundi",
+			"population": 10864245,
+			"sq_km_area": 27834,
+			"life_expectancy": "46.2",
+			"elevation_in_meters": "1,504",
+			"continent": "Africa",
+			"abbreviation": "BI",
+			"location": "Eastern Africa",
+			"iso": 108,
+			"capital_city": "Bujumbura",
+			"lat": "-3.3731",
+			"long": "29.9189",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cabo Verde": {
+		"All": {
+			"confirmed": 55931,
+			"recovered": 0,
+			"deaths": 401,
+			"lat": "16.5388",
+			"long": "-23.0418",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cambodia": {
+		"All": {
+			"confirmed": 135158,
+			"recovered": 0,
+			"deaths": 3052,
+			"country": "Cambodia",
+			"population": 16005373,
+			"sq_km_area": 181035,
+			"life_expectancy": "56.5",
+			"elevation_in_meters": 126,
+			"continent": "Asia",
+			"abbreviation": "KH",
+			"location": "Southeast Asia",
+			"iso": 116,
+			"capital_city": "Phnom Penh",
+			"lat": "11.55",
+			"long": "104.9167",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cameroon": {
+		"All": {
+			"confirmed": 119544,
+			"recovered": 0,
+			"deaths": 1927,
+			"country": "Cameroon",
+			"population": 24053727,
+			"sq_km_area": 475442,
+			"life_expectancy": "54.8",
+			"elevation_in_meters": 667,
+			"continent": "Africa",
+			"abbreviation": "CM",
+			"location": "Central Africa",
+			"iso": 120,
+			"capital_city": "Yaound",
+			"lat": "3.8480000000000003",
+			"long": "11.5021",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Canada": {
+		"All": {
+			"confirmed": 3422583,
+			"recovered": 0,
+			"deaths": 37289,
+			"country": "Canada",
+			"population": 36624199,
+			"sq_km_area": 9970610,
+			"life_expectancy": "79.4",
+			"elevation_in_meters": 487,
+			"continent": "North America",
+			"abbreviation": "CA",
+			"location": "North America",
+			"iso": 124,
+			"capital_city": "Ottawa"
+		},
+		"Alberta": {
+			"lat": "53.9333",
+			"long": "-116.5765",
+			"confirmed": 534285,
+			"recovered": 0,
+			"deaths": 4023,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"British Columbia": {
+			"lat": "53.7267",
+			"long": "-127.6476",
+			"confirmed": 354334,
+			"recovered": 0,
+			"deaths": 2974,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Diamond Princess": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2020-12-21 13:27:30"
+		},
+		"Grand Princess": {
+			"lat": "",
+			"long": "",
+			"confirmed": 13,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2020-12-21 13:27:30"
+		},
+		"Manitoba": {
+			"lat": "53.7609",
+			"long": "-98.8139",
+			"confirmed": 134417,
+			"recovered": 0,
+			"deaths": 1731,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New Brunswick": {
+			"lat": "46.5653",
+			"long": "-66.4619",
+			"confirmed": 45101,
+			"recovered": 0,
+			"deaths": 336,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Newfoundland and Labrador": {
+			"lat": "53.1355",
+			"long": "-57.6604",
+			"confirmed": 34607,
+			"recovered": 0,
+			"deaths": 87,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Northwest Territories": {
+			"lat": "64.8255",
+			"long": "-124.8457",
+			"confirmed": 10005,
+			"recovered": 0,
+			"deaths": 21,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nova Scotia": {
+			"lat": "44.681999999999995",
+			"long": "-63.7443",
+			"confirmed": 51359,
+			"recovered": 0,
+			"deaths": 232,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nunavut": {
+			"lat": "70.2998",
+			"long": "-83.1076",
+			"confirmed": 3400,
+			"recovered": 0,
+			"deaths": 5,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ontario": {
+			"lat": "51.2538",
+			"long": "-85.3232",
+			"confirmed": 1151014,
+			"recovered": 0,
+			"deaths": 12391,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Prince Edward Island": {
+			"lat": "46.5107",
+			"long": "-63.4168",
+			"confirmed": 23345,
+			"recovered": 0,
+			"deaths": 16,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Quebec": {
+			"lat": "52.9399",
+			"long": "-73.5491",
+			"confirmed": 946886,
+			"recovered": 0,
+			"deaths": 14272,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Repatriated Travellers": {
+			"lat": "",
+			"long": "",
+			"confirmed": 13,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saskatchewan": {
+			"lat": "52.9399",
+			"long": "-106.4509",
+			"confirmed": 130133,
+			"recovered": 0,
+			"deaths": 1176,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yukon": {
+			"lat": "64.2823",
+			"long": "-135.0",
+			"confirmed": 3671,
+			"recovered": 0,
+			"deaths": 24,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Central African Republic": {
+		"All": {
+			"confirmed": 14649,
+			"recovered": 0,
+			"deaths": 113,
+			"country": "Central African Republic",
+			"population": 4659080,
+			"sq_km_area": 622984,
+			"life_expectancy": 44,
+			"elevation_in_meters": 635,
+			"continent": "Africa",
+			"abbreviation": "CF",
+			"location": "Central Africa",
+			"iso": 140,
+			"capital_city": "Bangui",
+			"lat": "6.6111",
+			"long": "20.9394",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Chad": {
+		"All": {
+			"confirmed": 7288,
+			"recovered": 0,
+			"deaths": 190,
+			"country": "Chad",
+			"population": 14899994,
+			"sq_km_area": 1284000,
+			"life_expectancy": "50.5",
+			"elevation_in_meters": 543,
+			"continent": "Africa",
+			"abbreviation": "TD",
+			"location": "Central Africa",
+			"iso": 148,
+			"capital_city": "N'Djam",
+			"lat": "15.4542",
+			"long": "18.7322",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Chile": {
+		"All": {
+			"confirmed": 3406540,
+			"recovered": 0,
+			"deaths": 55976,
+			"country": "Chile",
+			"population": 18054726,
+			"sq_km_area": 756626,
+			"life_expectancy": "75.7",
+			"elevation_in_meters": "1,871",
+			"continent": "South America",
+			"abbreviation": "CL",
+			"location": "South America",
+			"iso": 152,
+			"capital_city": "Santiago de Chile"
+		},
+		"Antofagasta": {
+			"lat": "-23.6509",
+			"long": "-70.3975",
+			"confirmed": 119423,
+			"recovered": 0,
+			"deaths": 1729,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Araucania": {
+			"lat": "-38.9489",
+			"long": "-72.3311",
+			"confirmed": 207921,
+			"recovered": 0,
+			"deaths": 2457,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arica y Parinacota": {
+			"lat": "-18.594",
+			"long": "-69.4785",
+			"confirmed": 54290,
+			"recovered": 0,
+			"deaths": 802,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Atacama": {
+			"lat": "-27.5661",
+			"long": "-70.0503",
+			"confirmed": 63353,
+			"recovered": 0,
+			"deaths": 561,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Aysen": {
+			"lat": "-45.9864",
+			"long": "-73.7669",
+			"confirmed": 23965,
+			"recovered": 0,
+			"deaths": 169,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Biobio": {
+			"lat": "-37.4464",
+			"long": "-72.1416",
+			"confirmed": 337077,
+			"recovered": 0,
+			"deaths": 4087,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Coquimbo": {
+			"lat": "-29.959",
+			"long": "-71.3389",
+			"confirmed": 120320,
+			"recovered": 0,
+			"deaths": 1610,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Los Lagos": {
+			"lat": "-41.9198",
+			"long": "-72.1416",
+			"confirmed": 188271,
+			"recovered": 0,
+			"deaths": 2228,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Los Rios": {
+			"lat": "-40.231",
+			"long": "-72.3311",
+			"confirmed": 102958,
+			"recovered": 0,
+			"deaths": 1161,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Magallanes": {
+			"lat": "-52.368",
+			"long": "-70.9863",
+			"confirmed": 49674,
+			"recovered": 0,
+			"deaths": 692,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Maule": {
+			"lat": "-35.5183",
+			"long": "-71.6885",
+			"confirmed": 228483,
+			"recovered": 0,
+			"deaths": 2749,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Metropolitana": {
+			"lat": "-33.4376",
+			"long": "-70.6505",
+			"confirmed": 1302508,
+			"recovered": 0,
+			"deaths": 27757,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nuble": {
+			"lat": "-36.7226",
+			"long": "-71.7622",
+			"confirmed": 95490,
+			"recovered": 0,
+			"deaths": 1044,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"OHiggins": {
+			"lat": "-34.5755",
+			"long": "-71.0022",
+			"confirmed": 143156,
+			"recovered": 0,
+			"deaths": 2433,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tarapaca": {
+			"lat": "-19.9232",
+			"long": "-69.5132",
+			"confirmed": 78451,
+			"recovered": 0,
+			"deaths": 1074,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 43,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Valparaiso": {
+			"lat": "-33.0472",
+			"long": "-71.6127",
+			"confirmed": 291157,
+			"recovered": 0,
+			"deaths": 5421,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"China": {
+		"All": {
+			"confirmed": 1213223,
+			"recovered": 0,
+			"deaths": 11002,
+			"country": "China",
+			"population": 1409517397,
+			"sq_km_area": 9572900,
+			"life_expectancy": "71.4",
+			"elevation_in_meters": "1,840",
+			"continent": "Asia",
+			"abbreviation": "CN",
+			"location": "Eastern Asia",
+			"iso": 156,
+			"capital_city": "Peking"
+		},
+		"Anhui": {
+			"lat": "31.8257",
+			"long": "117.2264",
+			"confirmed": 1024,
+			"recovered": 0,
+			"deaths": 6,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Beijing": {
+			"lat": "40.1824",
+			"long": "116.4142",
+			"confirmed": 1738,
+			"recovered": 0,
+			"deaths": 9,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chongqing": {
+			"lat": "30.0572",
+			"long": "107.874",
+			"confirmed": 687,
+			"recovered": 0,
+			"deaths": 6,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Fujian": {
+			"lat": "26.0789",
+			"long": "117.9874",
+			"confirmed": 2638,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gansu": {
+			"lat": "35.7518",
+			"long": "104.2861",
+			"confirmed": 663,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guangdong": {
+			"lat": "23.3417",
+			"long": "113.4244",
+			"confirmed": 6484,
+			"recovered": 0,
+			"deaths": 8,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guangxi": {
+			"lat": "23.8298",
+			"long": "108.7881",
+			"confirmed": 1395,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guizhou": {
+			"lat": "26.8154",
+			"long": "106.8748",
+			"confirmed": 171,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hainan": {
+			"lat": "19.1959",
+			"long": "109.7453",
+			"confirmed": 193,
+			"recovered": 0,
+			"deaths": 6,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hebei": {
+			"lat": "37.8957",
+			"long": "114.9042",
+			"confirmed": 1867,
+			"recovered": 0,
+			"deaths": 7,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Heilongjiang": {
+			"lat": "47.861999999999995",
+			"long": "127.7615",
+			"confirmed": 2302,
+			"recovered": 0,
+			"deaths": 13,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Henan": {
+			"lat": "33.882",
+			"long": "113.61399999999999",
+			"confirmed": 2738,
+			"recovered": 0,
+			"deaths": 22,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hong Kong": {
+			"lat": "22.3",
+			"long": "114.2",
+			"confirmed": 1075910,
+			"recovered": 0,
+			"deaths": 6364,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hubei": {
+			"lat": "30.9756",
+			"long": "112.2707",
+			"confirmed": 68391,
+			"recovered": 0,
+			"deaths": 4512,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hunan": {
+			"lat": "27.6104",
+			"long": "111.7088",
+			"confirmed": 1301,
+			"recovered": 0,
+			"deaths": 4,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Inner Mongolia": {
+			"lat": "44.0935",
+			"long": "113.9448",
+			"confirmed": 1677,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jiangsu": {
+			"lat": "32.9711",
+			"long": "119.455",
+			"confirmed": 1983,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jiangxi": {
+			"lat": "27.614",
+			"long": "115.7221",
+			"confirmed": 992,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jilin": {
+			"lat": "43.6661",
+			"long": "126.1923",
+			"confirmed": 19315,
+			"recovered": 0,
+			"deaths": 5,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Liaoning": {
+			"lat": "41.2956",
+			"long": "122.6085",
+			"confirmed": 1484,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Macau": {
+			"lat": "22.1667",
+			"long": "113.55",
+			"confirmed": 82,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ningxia": {
+			"lat": "37.2692",
+			"long": "106.1655",
+			"confirmed": 122,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Qinghai": {
+			"lat": "35.7452",
+			"long": "95.9956",
+			"confirmed": 32,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shaanxi": {
+			"lat": "35.1917",
+			"long": "108.8701",
+			"confirmed": 3208,
+			"recovered": 0,
+			"deaths": 3,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shandong": {
+			"lat": "36.3427",
+			"long": "118.1498",
+			"confirmed": 2506,
+			"recovered": 0,
+			"deaths": 7,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shanghai": {
+			"lat": "31.201999999999998",
+			"long": "121.4491",
+			"confirmed": 5080,
+			"recovered": 0,
+			"deaths": 7,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shanxi": {
+			"lat": "37.5777",
+			"long": "112.2922",
+			"confirmed": 297,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sichuan": {
+			"lat": "30.6171",
+			"long": "102.7103",
+			"confirmed": 1606,
+			"recovered": 0,
+			"deaths": 3,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tianjin": {
+			"lat": "39.3054",
+			"long": "117.323",
+			"confirmed": 1659,
+			"recovered": 0,
+			"deaths": 3,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tibet": {
+			"lat": "31.6927",
+			"long": "88.0924",
+			"confirmed": 1,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Xinjiang": {
+			"lat": "41.1129",
+			"long": "85.2401",
+			"confirmed": 996,
+			"recovered": 0,
+			"deaths": 3,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yunnan": {
+			"lat": "24.974",
+			"long": "101.48700000000001",
+			"confirmed": 2051,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Zhejiang": {
+			"lat": "29.1832",
+			"long": "120.0934",
+			"confirmed": 2630,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Colombia": {
+		"All": {
+			"confirmed": 6081933,
+			"recovered": 0,
+			"deaths": 139489,
+			"country": "Colombia",
+			"population": 49065615,
+			"sq_km_area": 1138914,
+			"life_expectancy": "70.3",
+			"elevation_in_meters": 593,
+			"continent": "South America",
+			"abbreviation": "CO",
+			"location": "South America",
+			"iso": 170,
+			"capital_city": "Santaf"
+		},
+		"Amazonas": {
+			"lat": "-1.4429",
+			"long": "-71.5724",
+			"confirmed": 7563,
+			"recovered": 0,
+			"deaths": 264,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Antioquia": {
+			"lat": "7.1986",
+			"long": "-75.3412",
+			"confirmed": 917505,
+			"recovered": 0,
+			"deaths": 18227,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arauca": {
+			"lat": "7.0762",
+			"long": "-70.7105",
+			"confirmed": 16286,
+			"recovered": 0,
+			"deaths": 528,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Atlantico": {
+			"lat": "10.6966",
+			"long": "-74.8741",
+			"confirmed": 401940,
+			"recovered": 0,
+			"deaths": 10122,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bolivar": {
+			"lat": "8.6704",
+			"long": "-74.03",
+			"confirmed": 197074,
+			"recovered": 0,
+			"deaths": 3238,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Boyaca": {
+			"lat": "5.4545",
+			"long": "-73.362",
+			"confirmed": 125086,
+			"recovered": 0,
+			"deaths": 2776,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Caldas": {
+			"lat": "5.2983",
+			"long": "-75.2479",
+			"confirmed": 116872,
+			"recovered": 0,
+			"deaths": 2525,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Capital District": {
+			"lat": "4.711",
+			"long": "-74.0721",
+			"confirmed": 1764774,
+			"recovered": 0,
+			"deaths": 29310,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Caqueta": {
+			"lat": "0.8699",
+			"long": "-73.8419",
+			"confirmed": 24942,
+			"recovered": 0,
+			"deaths": 1023,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Casanare": {
+			"lat": "5.7589",
+			"long": "-71.5724",
+			"confirmed": 41609,
+			"recovered": 0,
+			"deaths": 996,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cauca": {
+			"lat": "2.705",
+			"long": "-76.82600000000002",
+			"confirmed": 72178,
+			"recovered": 0,
+			"deaths": 1786,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cesar": {
+			"lat": "9.3373",
+			"long": "-73.6536",
+			"confirmed": 106345,
+			"recovered": 0,
+			"deaths": 2667,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Choco": {
+			"lat": "5.2528",
+			"long": "-76.82600000000002",
+			"confirmed": 18582,
+			"recovered": 0,
+			"deaths": 426,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cordoba": {
+			"lat": "8.0493",
+			"long": "-75.574",
+			"confirmed": 118968,
+			"recovered": 0,
+			"deaths": 3929,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cundinamarca": {
+			"lat": "5.026",
+			"long": "-74.03",
+			"confirmed": 317824,
+			"recovered": 0,
+			"deaths": 7270,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guainia": {
+			"lat": "2.5854",
+			"long": "-68.5247",
+			"confirmed": 2757,
+			"recovered": 0,
+			"deaths": 37,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guaviare": {
+			"lat": "1.0654",
+			"long": "-73.2603",
+			"confirmed": 5585,
+			"recovered": 0,
+			"deaths": 105,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Huila": {
+			"lat": "2.5359",
+			"long": "-75.5277",
+			"confirmed": 100256,
+			"recovered": 0,
+			"deaths": 3508,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"La Guajira": {
+			"lat": "11.3548",
+			"long": "-72.5205",
+			"confirmed": 56250,
+			"recovered": 0,
+			"deaths": 1523,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Magdalena": {
+			"lat": "10.4113",
+			"long": "-74.4057",
+			"confirmed": 114774,
+			"recovered": 0,
+			"deaths": 3620,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Meta": {
+			"lat": "3.272",
+			"long": "-73.0877",
+			"confirmed": 104914,
+			"recovered": 0,
+			"deaths": 2536,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Narino": {
+			"lat": "1.2892",
+			"long": "-77.3579",
+			"confirmed": 104388,
+			"recovered": 0,
+			"deaths": 3305,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Norte de Santander": {
+			"lat": "7.9463",
+			"long": "-72.8988",
+			"confirmed": 119573,
+			"recovered": 0,
+			"deaths": 5077,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Putumayo": {
+			"lat": "0.436",
+			"long": "-75.5277",
+			"confirmed": 20468,
+			"recovered": 0,
+			"deaths": 772,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Quindio": {
+			"lat": "4.461",
+			"long": "-75.6674",
+			"confirmed": 70779,
+			"recovered": 0,
+			"deaths": 2053,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Risaralda": {
+			"lat": "5.3158",
+			"long": "-75.9928",
+			"confirmed": 106273,
+			"recovered": 0,
+			"deaths": 2467,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"San Andres y Providencia": {
+			"lat": "12.5567",
+			"long": "-81.7185",
+			"confirmed": 10182,
+			"recovered": 0,
+			"deaths": 154,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Santander": {
+			"lat": "6.6437",
+			"long": "-73.6536",
+			"confirmed": 282923,
+			"recovered": 0,
+			"deaths": 8151,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sucre": {
+			"lat": "8.814",
+			"long": "-74.7233",
+			"confirmed": 65636,
+			"recovered": 0,
+			"deaths": 1714,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tolima": {
+			"lat": "4.0925",
+			"long": "-75.1545",
+			"confirmed": 124270,
+			"recovered": 0,
+			"deaths": 3997,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 304,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Valle del Cauca": {
+			"lat": "3.8009",
+			"long": "-76.6413",
+			"confirmed": 540076,
+			"recovered": 0,
+			"deaths": 14999,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vaupes": {
+			"lat": "0.8554",
+			"long": "-70.812",
+			"confirmed": 1887,
+			"recovered": 0,
+			"deaths": 19,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vichada": {
+			"lat": "4.4234",
+			"long": "-69.2878",
+			"confirmed": 3394,
+			"recovered": 0,
+			"deaths": 61,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Comoros": {
+		"All": {
+			"confirmed": 8078,
+			"recovered": 0,
+			"deaths": 160,
+			"country": "Comoros",
+			"population": 813912,
+			"sq_km_area": 1862,
+			"life_expectancy": 60,
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "KM",
+			"location": "Eastern Africa",
+			"iso": 174,
+			"capital_city": "Moroni",
+			"lat": "-11.6455",
+			"long": "43.3333",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Congo (Brazzaville)": {
+		"All": {
+			"confirmed": 24062,
+			"recovered": 0,
+			"deaths": 384,
+			"lat": "-0.228",
+			"long": "15.8277",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Congo (Kinshasa)": {
+		"All": {
+			"confirmed": 86509,
+			"recovered": 0,
+			"deaths": 1335,
+			"lat": "-4.0383",
+			"long": "21.7587",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Costa Rica": {
+		"All": {
+			"confirmed": 832054,
+			"recovered": 0,
+			"deaths": 8256,
+			"country": "Costa Rica",
+			"population": 4905769,
+			"sq_km_area": 51100,
+			"life_expectancy": "75.8",
+			"elevation_in_meters": 746,
+			"continent": "North America",
+			"abbreviation": "CR",
+			"location": "Central America",
+			"iso": 188,
+			"capital_city": "San Jos",
+			"lat": "9.7489",
+			"long": "-83.7534",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cote d'Ivoire": {
+		"All": {
+			"confirmed": 81671,
+			"recovered": 0,
+			"deaths": 796,
+			"country": "Cote d'Ivoire",
+			"population": 24294750,
+			"sq_km_area": 322463,
+			"life_expectancy": "45.2",
+			"elevation_in_meters": 250,
+			"continent": "Africa",
+			"abbreviation": "CI",
+			"location": "Western Africa",
+			"iso": 384,
+			"capital_city": "Yamoussoukro",
+			"lat": "7.54",
+			"long": "-5.5471",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Croatia": {
+		"All": {
+			"confirmed": 1085558,
+			"recovered": 0,
+			"deaths": 15463,
+			"country": "Croatia",
+			"population": 4189353,
+			"sq_km_area": 56538,
+			"life_expectancy": "73.7",
+			"elevation_in_meters": 331,
+			"continent": "Europe",
+			"abbreviation": "HR",
+			"location": "Southern Europe",
+			"iso": 191,
+			"capital_city": "Zagreb",
+			"lat": "45.1",
+			"long": "15.2",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cuba": {
+		"All": {
+			"confirmed": 1082880,
+			"recovered": 0,
+			"deaths": 8508,
+			"country": "Cuba",
+			"population": 11484636,
+			"sq_km_area": 110861,
+			"life_expectancy": "76.2",
+			"elevation_in_meters": 108,
+			"continent": "North America",
+			"abbreviation": "CU",
+			"location": "Caribbean",
+			"iso": 192,
+			"capital_city": "La Habana",
+			"lat": "21.521757",
+			"long": "-77.78116700000002",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Cyprus": {
+		"All": {
+			"confirmed": 387315,
+			"recovered": 0,
+			"deaths": 923,
+			"country": "Cyprus",
+			"population": 1179551,
+			"sq_km_area": 9251,
+			"life_expectancy": "76.7",
+			"elevation_in_meters": 91,
+			"continent": "Asia",
+			"abbreviation": "CY",
+			"location": "Middle East",
+			"iso": 196,
+			"capital_city": "Nicosia",
+			"lat": "35.1264",
+			"long": "33.4299",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Czechia": {
+		"All": {
+			"confirmed": 3750636,
+			"recovered": 0,
+			"deaths": 39418,
+			"country": "Czechia",
+			"population": 10618303,
+			"sq_km_area": 78866,
+			"life_expectancy": "74.5",
+			"elevation_in_meters": 433,
+			"continent": "Europe",
+			"abbreviation": "CZ",
+			"location": "Eastern Europe",
+			"iso": 203,
+			"capital_city": "Praha",
+			"lat": "49.8175",
+			"long": "15.472999999999999",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Denmark": {
+		"All": {
+			"confirmed": 3017529,
+			"recovered": 0,
+			"deaths": 5460,
+			"country": "Denmark",
+			"population": 5733551,
+			"sq_km_area": 43094,
+			"life_expectancy": "76.5",
+			"elevation_in_meters": 34,
+			"continent": "Europe",
+			"abbreviation": "DK",
+			"location": "Nordic Countries",
+			"iso": 208,
+			"capital_city": "Copenhagen",
+			"lat": "56.2639",
+			"long": "9.5018",
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Faroe Islands": {
+			"lat": "61.8926",
+			"long": "-6.9118",
+			"confirmed": 34658,
+			"recovered": 0,
+			"deaths": 28,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Greenland": {
+			"lat": "71.7069",
+			"long": "-42.6043",
+			"confirmed": 11951,
+			"recovered": 0,
+			"deaths": 21,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Diamond Princess": {
+		"All": {
+			"confirmed": 712,
+			"recovered": 0,
+			"deaths": 13,
+			"lat": "",
+			"long": "",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Djibouti": {
+		"All": {
+			"confirmed": 15574,
+			"recovered": 0,
+			"deaths": 189,
+			"country": "Djibouti",
+			"population": 956985,
+			"sq_km_area": 23200,
+			"life_expectancy": "50.8",
+			"elevation_in_meters": 430,
+			"continent": "Africa",
+			"abbreviation": "DJ",
+			"location": "Eastern Africa",
+			"iso": 262,
+			"capital_city": "Djibouti",
+			"lat": "11.8251",
+			"long": "42.5903",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Dominica": {
+		"All": {
+			"confirmed": 11777,
+			"recovered": 0,
+			"deaths": 63,
+			"country": "Dominica",
+			"population": 73925,
+			"sq_km_area": 751,
+			"life_expectancy": "73.4",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "DM",
+			"location": "Caribbean",
+			"iso": 212,
+			"capital_city": "Roseau",
+			"lat": "15.415",
+			"long": "-61.371",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Dominican Republic": {
+		"All": {
+			"confirmed": 577476,
+			"recovered": 0,
+			"deaths": 4375,
+			"country": "Dominican Republic",
+			"population": 10766998,
+			"sq_km_area": 48511,
+			"life_expectancy": "73.2",
+			"elevation_in_meters": 424,
+			"continent": "North America",
+			"abbreviation": "DO",
+			"location": "Caribbean",
+			"iso": 214,
+			"capital_city": "Santo Domingo de Guzm",
+			"lat": "18.7357",
+			"long": "-70.1627",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Ecuador": {
+		"All": {
+			"confirmed": 854252,
+			"recovered": 0,
+			"deaths": 35410,
+			"country": "Ecuador",
+			"population": 16624858,
+			"sq_km_area": 283561,
+			"life_expectancy": "71.1",
+			"elevation_in_meters": "1,117",
+			"continent": "South America",
+			"abbreviation": "EC",
+			"location": "South America",
+			"iso": 218,
+			"capital_city": "Quito",
+			"lat": "-1.8312",
+			"long": "-78.1834",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Egypt": {
+		"All": {
+			"confirmed": 500889,
+			"recovered": 0,
+			"deaths": 24361,
+			"country": "Egypt",
+			"population": 97553151,
+			"sq_km_area": 1001449,
+			"life_expectancy": "63.3",
+			"elevation_in_meters": 321,
+			"continent": "Africa",
+			"abbreviation": "EG",
+			"location": "Northern Africa",
+			"iso": 818,
+			"capital_city": "Cairo",
+			"lat": "26.820553000000004",
+			"long": "30.802497999999996",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"El Salvador": {
+		"All": {
+			"confirmed": 161052,
+			"recovered": 0,
+			"deaths": 4113,
+			"country": "El Salvador",
+			"population": 6377853,
+			"sq_km_area": 21041,
+			"life_expectancy": "69.7",
+			"elevation_in_meters": 442,
+			"continent": "North America",
+			"abbreviation": "SV",
+			"location": "Central America",
+			"iso": 222,
+			"capital_city": "San Salvador",
+			"lat": "13.7942",
+			"long": "-88.8965",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Equatorial Guinea": {
+		"All": {
+			"confirmed": 15902,
+			"recovered": 0,
+			"deaths": 183,
+			"country": "Equatorial Guinea",
+			"population": 1267689,
+			"sq_km_area": 28051,
+			"life_expectancy": "53.6",
+			"elevation_in_meters": 577,
+			"continent": "Africa",
+			"abbreviation": "GQ",
+			"location": "Central Africa",
+			"iso": 226,
+			"capital_city": "Malabo",
+			"lat": "1.6508",
+			"long": "10.2679",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Eritrea": {
+		"All": {
+			"confirmed": 9723,
+			"recovered": 0,
+			"deaths": 103,
+			"country": "Eritrea",
+			"population": 5068831,
+			"sq_km_area": 117600,
+			"life_expectancy": "55.8",
+			"elevation_in_meters": 853,
+			"continent": "Africa",
+			"abbreviation": "ER",
+			"location": "Eastern Africa",
+			"iso": 232,
+			"capital_city": "Asmara",
+			"lat": "15.1794",
+			"long": "39.7823",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Estonia": {
+		"All": {
+			"confirmed": 545057,
+			"recovered": 0,
+			"deaths": 2399,
+			"country": "Estonia",
+			"population": 1309632,
+			"sq_km_area": 45227,
+			"life_expectancy": "69.5",
+			"elevation_in_meters": 61,
+			"continent": "Europe",
+			"abbreviation": "EE",
+			"location": "Baltic Countries",
+			"iso": 233,
+			"capital_city": "Tallinn",
+			"lat": "58.5953",
+			"long": "25.0136",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Eswatini": {
+		"All": {
+			"confirmed": 69597,
+			"recovered": 0,
+			"deaths": 1392,
+			"lat": "-26.5225",
+			"long": "31.4659",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Ethiopia": {
+		"All": {
+			"confirmed": 469494,
+			"recovered": 0,
+			"deaths": 7489,
+			"country": "Ethiopia",
+			"population": 104957438,
+			"sq_km_area": 1104300,
+			"life_expectancy": "45.2",
+			"elevation_in_meters": "1,330",
+			"continent": "Africa",
+			"abbreviation": "ET",
+			"location": "Eastern Africa",
+			"iso": 231,
+			"capital_city": "Addis Abeba",
+			"lat": "9.145",
+			"long": "40.4897",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Fiji": {
+		"All": {
+			"confirmed": 64327,
+			"recovered": 0,
+			"deaths": 834,
+			"country": "Fiji",
+			"population": 905502,
+			"sq_km_area": 18274,
+			"life_expectancy": "67.9",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "FJ",
+			"location": "Melanesia",
+			"iso": null,
+			"capital_city": "Suva",
+			"lat": "-17.7134",
+			"long": "178.065",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Finland": {
+		"All": {
+			"confirmed": 812224,
+			"recovered": 0,
+			"deaths": 2881,
+			"country": "Finland",
+			"population": 5523231,
+			"sq_km_area": 338145,
+			"life_expectancy": "77.4",
+			"elevation_in_meters": 164,
+			"continent": "Europe",
+			"abbreviation": "FI",
+			"location": "Nordic Countries",
+			"iso": 246,
+			"capital_city": "Helsinki [Helsingfors]",
+			"lat": "61.92411",
+			"long": "25.748151",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"France": {
+		"All": {
+			"confirmed": 23676973,
+			"recovered": 0,
+			"deaths": 138111,
+			"country": "France",
+			"population": 64979548,
+			"sq_km_area": 551500,
+			"life_expectancy": "78.8",
+			"elevation_in_meters": 375,
+			"continent": "Europe",
+			"abbreviation": "FR",
+			"location": "Western Europe",
+			"iso": 250,
+			"capital_city": "Paris",
+			"lat": "46.2276",
+			"long": "2.2137",
+			"updated": "2022-03-23 04:20:48"
+		},
+		"French Guiana": {
+			"lat": "4.0",
+			"long": "-53.0",
+			"confirmed": 78326,
+			"recovered": 0,
+			"deaths": 394,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"French Polynesia": {
+			"lat": "-17.6797",
+			"long": "-149.4068",
+			"confirmed": 71673,
+			"recovered": 0,
+			"deaths": 646,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guadeloupe": {
+			"lat": "16.265",
+			"long": "-61.551",
+			"confirmed": 132359,
+			"recovered": 0,
+			"deaths": 928,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Martinique": {
+			"lat": "14.6415",
+			"long": "-61.0242",
+			"confirmed": 138039,
+			"recovered": 0,
+			"deaths": 909,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mayotte": {
+			"lat": "-12.8275",
+			"long": "45.166244",
+			"confirmed": 36800,
+			"recovered": 0,
+			"deaths": 187,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New Caledonia": {
+			"lat": "-20.904304999999997",
+			"long": "165.618042",
+			"confirmed": 60113,
+			"recovered": 0,
+			"deaths": 307,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Reunion": {
+			"lat": "-21.1151",
+			"long": "55.5364",
+			"confirmed": 318695,
+			"recovered": 0,
+			"deaths": 689,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saint Barthelemy": {
+			"lat": "17.9",
+			"long": "-62.8333",
+			"confirmed": 3805,
+			"recovered": 0,
+			"deaths": 6,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saint Pierre and Miquelon": {
+			"lat": "46.8852",
+			"long": "-56.3159",
+			"confirmed": 1781,
+			"recovered": 0,
+			"deaths": 1,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"St Martin": {
+			"lat": "18.0708",
+			"long": "-63.0501",
+			"confirmed": 9939,
+			"recovered": 0,
+			"deaths": 63,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Wallis and Futuna": {
+			"lat": "-14.2938",
+			"long": "-178.1165",
+			"confirmed": 454,
+			"recovered": 0,
+			"deaths": 7,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Gabon": {
+		"All": {
+			"confirmed": 47581,
+			"recovered": 0,
+			"deaths": 303,
+			"country": "Gabon",
+			"population": 2025137,
+			"sq_km_area": 267668,
+			"life_expectancy": "50.1",
+			"elevation_in_meters": 377,
+			"continent": "Africa",
+			"abbreviation": "GA",
+			"location": "Central Africa",
+			"iso": 266,
+			"capital_city": "Libreville",
+			"lat": "-0.8037",
+			"long": "11.6094",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Gambia": {
+		"All": {
+			"confirmed": 11978,
+			"recovered": 0,
+			"deaths": 365,
+			"country": "Gambia",
+			"population": 2100568,
+			"sq_km_area": 11295,
+			"life_expectancy": "53.2",
+			"elevation_in_meters": 34,
+			"continent": "Africa",
+			"abbreviation": "GM",
+			"location": "Western Africa",
+			"iso": 270,
+			"capital_city": "Banjul",
+			"lat": "13.4432",
+			"long": "-15.3101",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Georgia": {
+		"All": {
+			"confirmed": 1643295,
+			"recovered": 0,
+			"deaths": 16678,
+			"country": "Georgia",
+			"population": 3912061,
+			"sq_km_area": 69700,
+			"life_expectancy": "64.5",
+			"elevation_in_meters": "1,432",
+			"continent": "Asia",
+			"abbreviation": "GE",
+			"location": "Middle East",
+			"iso": 268,
+			"capital_city": "Tbilisi",
+			"lat": "42.3154",
+			"long": "43.3569",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Germany": {
+		"All": {
+			"confirmed": 19058757,
+			"recovered": 0,
+			"deaths": 127214,
+			"country": "Germany",
+			"population": 82114224,
+			"sq_km_area": 357022,
+			"life_expectancy": "77.4",
+			"elevation_in_meters": 263,
+			"continent": "Europe",
+			"abbreviation": "DE",
+			"location": "Western Europe",
+			"iso": 276,
+			"capital_city": "Berlin"
+		},
+		"Baden-Wurttemberg": {
+			"lat": "48.6616",
+			"long": "9.3501",
+			"confirmed": 2787655,
+			"recovered": 0,
+			"deaths": 14846,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bayern": {
+			"lat": "48.7904",
+			"long": "11.4979",
+			"confirmed": 3642250,
+			"recovered": 0,
+			"deaths": 22213,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Berlin": {
+			"lat": "52.52",
+			"long": "13.405",
+			"confirmed": 858503,
+			"recovered": 0,
+			"deaths": 4332,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Brandenburg": {
+			"lat": "52.4125",
+			"long": "12.5316",
+			"confirmed": 644679,
+			"recovered": 0,
+			"deaths": 5366,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bremen": {
+			"lat": "53.0793",
+			"long": "8.8017",
+			"confirmed": 138449,
+			"recovered": 0,
+			"deaths": 709,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hamburg": {
+			"lat": "53.5511",
+			"long": "9.9937",
+			"confirmed": 408055,
+			"recovered": 0,
+			"deaths": 2358,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hessen": {
+			"lat": "50.6521",
+			"long": "9.1624",
+			"confirmed": 1313157,
+			"recovered": 0,
+			"deaths": 9517,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mecklenburg-Vorpommern": {
+			"lat": "53.6127",
+			"long": "12.4296",
+			"confirmed": 353597,
+			"recovered": 0,
+			"deaths": 1921,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Niedersachsen": {
+			"lat": "52.6367",
+			"long": "9.8451",
+			"confirmed": 1420058,
+			"recovered": 0,
+			"deaths": 7798,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nordrhein-Westfalen": {
+			"lat": "51.4332",
+			"long": "7.6616",
+			"confirmed": 3807191,
+			"recovered": 0,
+			"deaths": 23126,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rheinland-Pfalz": {
+			"lat": "50.1183",
+			"long": "7.309",
+			"confirmed": 759480,
+			"recovered": 0,
+			"deaths": 5151,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saarland": {
+			"lat": "49.3964",
+			"long": "7.023",
+			"confirmed": 213507,
+			"recovered": 0,
+			"deaths": 1477,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sachsen": {
+			"lat": "51.1045",
+			"long": "13.2017",
+			"confirmed": 1174030,
+			"recovered": 0,
+			"deaths": 14540,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sachsen-Anhalt": {
+			"lat": "51.9503",
+			"long": "11.6923",
+			"confirmed": 537449,
+			"recovered": 0,
+			"deaths": 4911,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Schleswig-Holstein": {
+			"lat": "54.2194",
+			"long": "9.6961",
+			"confirmed": 432426,
+			"recovered": 0,
+			"deaths": 2223,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Thuringen": {
+			"lat": "51.011",
+			"long": "10.8453",
+			"confirmed": 530619,
+			"recovered": 0,
+			"deaths": 6726,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 37652,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-19 23:20:51"
+		}
+	},
+	"Ghana": {
+		"All": {
+			"confirmed": 160870,
+			"recovered": 0,
+			"deaths": 1445,
+			"country": "Ghana",
+			"population": 28833629,
+			"sq_km_area": 238533,
+			"life_expectancy": "57.4",
+			"elevation_in_meters": 190,
+			"continent": "Africa",
+			"abbreviation": "GH",
+			"location": "Western Africa",
+			"iso": 288,
+			"capital_city": "Accra",
+			"lat": "7.9465",
+			"long": "-1.0232",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Greece": {
+		"All": {
+			"confirmed": 2838891,
+			"recovered": 0,
+			"deaths": 27029,
+			"country": "Greece",
+			"population": 11159773,
+			"sq_km_area": 131626,
+			"life_expectancy": "78.4",
+			"elevation_in_meters": 498,
+			"continent": "Europe",
+			"abbreviation": "GR",
+			"location": "Southern Europe",
+			"iso": 300,
+			"capital_city": "Athenai",
+			"lat": "39.0742",
+			"long": "21.8243",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Grenada": {
+		"All": {
+			"confirmed": 13954,
+			"recovered": 0,
+			"deaths": 218,
+			"country": "Grenada",
+			"population": 107825,
+			"sq_km_area": 344,
+			"life_expectancy": "64.5",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "GD",
+			"location": "Caribbean",
+			"iso": 308,
+			"capital_city": "Saint George's",
+			"lat": "12.1165",
+			"long": "-61.678999999999995",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Guatemala": {
+		"All": {
+			"confirmed": 818454,
+			"recovered": 0,
+			"deaths": 17253,
+			"country": "Guatemala",
+			"population": 16913503,
+			"sq_km_area": 108889,
+			"life_expectancy": "66.2",
+			"elevation_in_meters": 759,
+			"continent": "North America",
+			"abbreviation": "GT",
+			"location": "Central America",
+			"iso": 320,
+			"capital_city": "Ciudad de Guatemala",
+			"lat": "15.7835",
+			"long": "-90.2308",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Guinea": {
+		"All": {
+			"confirmed": 36459,
+			"recovered": 0,
+			"deaths": 440,
+			"country": "Guinea",
+			"population": 12717176,
+			"sq_km_area": 245857,
+			"life_expectancy": "45.6",
+			"elevation_in_meters": 472,
+			"continent": "Africa",
+			"abbreviation": "GN",
+			"location": "Western Africa",
+			"iso": 324,
+			"capital_city": "Conakry",
+			"lat": "9.9456",
+			"long": "-9.6966",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Guinea-Bissau": {
+		"All": {
+			"confirmed": 8124,
+			"recovered": 0,
+			"deaths": 169,
+			"country": "Guinea-Bissau",
+			"population": 1861283,
+			"sq_km_area": 36125,
+			"life_expectancy": 49,
+			"elevation_in_meters": 70,
+			"continent": "Africa",
+			"abbreviation": "GW",
+			"location": "Western Africa",
+			"iso": 624,
+			"capital_city": "Bissau",
+			"lat": "11.8037",
+			"long": "-15.1804",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Guyana": {
+		"All": {
+			"confirmed": 63202,
+			"recovered": 0,
+			"deaths": 1226,
+			"country": "Guyana",
+			"population": 777859,
+			"sq_km_area": 214969,
+			"life_expectancy": 64,
+			"elevation_in_meters": 207,
+			"continent": "South America",
+			"abbreviation": "GY",
+			"location": "South America",
+			"iso": 328,
+			"capital_city": "Georgetown",
+			"lat": "4.860416000000002",
+			"long": "-58.93018000000001",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Haiti": {
+		"All": {
+			"confirmed": 30511,
+			"recovered": 0,
+			"deaths": 827,
+			"country": "Haiti",
+			"population": 10981229,
+			"sq_km_area": 27750,
+			"life_expectancy": "49.2",
+			"elevation_in_meters": 470,
+			"continent": "North America",
+			"abbreviation": "HT",
+			"location": "Caribbean",
+			"iso": 332,
+			"capital_city": "Port-au-Prince",
+			"lat": "18.9712",
+			"long": "-72.2852",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Holy See": {
+		"All": {
+			"confirmed": 29,
+			"recovered": 0,
+			"deaths": 0,
+			"country": "Holy See",
+			"population": 1000,
+			"sq_km_area": 0.4,
+			"life_expectancy": null,
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "VA",
+			"location": "Southern Europe",
+			"iso": null,
+			"capital_city": "Citt",
+			"lat": "41.9029",
+			"long": "12.4534",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Honduras": {
+		"All": {
+			"confirmed": 418460,
+			"recovered": 0,
+			"deaths": 10863,
+			"country": "Honduras",
+			"population": 9265067,
+			"sq_km_area": 112088,
+			"life_expectancy": "69.9",
+			"elevation_in_meters": 684,
+			"continent": "North America",
+			"abbreviation": "HN",
+			"location": "Central America",
+			"iso": 340,
+			"capital_city": "Tegucigalpa",
+			"lat": "15.2",
+			"long": "-86.2419",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Hungary": {
+		"All": {
+			"confirmed": 1831423,
+			"recovered": 0,
+			"deaths": 45143,
+			"country": "Hungary",
+			"population": 9721559,
+			"sq_km_area": 93030,
+			"life_expectancy": "71.4",
+			"elevation_in_meters": 143,
+			"continent": "Europe",
+			"abbreviation": "HU",
+			"location": "Eastern Europe",
+			"iso": 348,
+			"capital_city": "Budapest",
+			"lat": "47.1625",
+			"long": "19.5033",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Iceland": {
+		"All": {
+			"confirmed": 175329,
+			"recovered": 0,
+			"deaths": 93,
+			"country": "Iceland",
+			"population": 335025,
+			"sq_km_area": 103000,
+			"life_expectancy": "79.4",
+			"elevation_in_meters": 557,
+			"continent": "Europe",
+			"abbreviation": "IS",
+			"location": "Nordic Countries",
+			"iso": 352,
+			"capital_city": "Reykjav",
+			"lat": "64.9631",
+			"long": "-19.0208",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"India": {
+		"All": {
+			"confirmed": 43012749,
+			"recovered": 0,
+			"deaths": 516605,
+			"country": "India",
+			"population": 1339180127,
+			"sq_km_area": 3287263,
+			"life_expectancy": "62.5",
+			"elevation_in_meters": 160,
+			"continent": "Asia",
+			"abbreviation": "IN",
+			"location": "Southern and Central Asia",
+			"iso": 356,
+			"capital_city": "New Delhi"
+		},
+		"Andaman and Nicobar Islands": {
+			"lat": "11.225999",
+			"long": "92.96817800000001",
+			"confirmed": 10031,
+			"recovered": 0,
+			"deaths": 129,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Andhra Pradesh": {
+			"lat": "15.9129",
+			"long": "79.74",
+			"confirmed": 2319297,
+			"recovered": 0,
+			"deaths": 14730,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arunachal Pradesh": {
+			"lat": "27.768456",
+			"long": "96.384277",
+			"confirmed": 64484,
+			"recovered": 0,
+			"deaths": 296,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Assam": {
+			"lat": "26.357149",
+			"long": "92.83044100000001",
+			"confirmed": 724193,
+			"recovered": 0,
+			"deaths": 6639,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bihar": {
+			"lat": "25.679658",
+			"long": "85.60484",
+			"confirmed": 830428,
+			"recovered": 0,
+			"deaths": 12256,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chandigarh": {
+			"lat": "30.733839",
+			"long": "76.76827800000002",
+			"confirmed": 91892,
+			"recovered": 0,
+			"deaths": 1165,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chhattisgarh": {
+			"lat": "21.264705",
+			"long": "82.035366",
+			"confirmed": 1151965,
+			"recovered": 0,
+			"deaths": 14034,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Dadra and Nagar Haveli and Daman and Diu": {
+			"lat": "20.194742",
+			"long": "73.080901",
+			"confirmed": 11441,
+			"recovered": 0,
+			"deaths": 4,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Delhi": {
+			"lat": "28.646519",
+			"long": "77.10898",
+			"confirmed": 1864003,
+			"recovered": 0,
+			"deaths": 26148,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Goa": {
+			"lat": "15.359682000000001",
+			"long": "74.057396",
+			"confirmed": 245258,
+			"recovered": 0,
+			"deaths": 3830,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gujarat": {
+			"lat": "22.694884",
+			"long": "71.590923",
+			"confirmed": 1223790,
+			"recovered": 0,
+			"deaths": 10942,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Haryana": {
+			"lat": "29.20004",
+			"long": "76.332824",
+			"confirmed": 984703,
+			"recovered": 0,
+			"deaths": 10600,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Himachal Pradesh": {
+			"lat": "31.927213000000002",
+			"long": "77.233081",
+			"confirmed": 284383,
+			"recovered": 0,
+			"deaths": 4132,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jammu and Kashmir": {
+			"lat": "33.75943",
+			"long": "76.612638",
+			"confirmed": 453569,
+			"recovered": 0,
+			"deaths": 4750,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jharkhand": {
+			"lat": "23.654536",
+			"long": "85.557631",
+			"confirmed": 435060,
+			"recovered": 0,
+			"deaths": 5315,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Karnataka": {
+			"lat": "14.705179999999999",
+			"long": "76.166436",
+			"confirmed": 3944877,
+			"recovered": 0,
+			"deaths": 40041,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kerala": {
+			"lat": "10.450898",
+			"long": "76.405749",
+			"confirmed": 6528347,
+			"recovered": 0,
+			"deaths": 67415,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ladakh": {
+			"lat": "34.1526",
+			"long": "77.5771",
+			"confirmed": 28213,
+			"recovered": 0,
+			"deaths": 228,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lakshadweep": {
+			"lat": "13.699997199999999",
+			"long": "72.18333259999999",
+			"confirmed": 11402,
+			"recovered": 0,
+			"deaths": 52,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Madhya Pradesh": {
+			"lat": "23.541513000000002",
+			"long": "78.289633",
+			"confirmed": 1040914,
+			"recovered": 0,
+			"deaths": 10734,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Maharashtra": {
+			"lat": "19.449759",
+			"long": "76.108221",
+			"confirmed": 7872668,
+			"recovered": 0,
+			"deaths": 143767,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Manipur": {
+			"lat": "24.738975",
+			"long": "93.882541",
+			"confirmed": 137051,
+			"recovered": 0,
+			"deaths": 2120,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Meghalaya": {
+			"lat": "25.536934",
+			"long": "91.278882",
+			"confirmed": 93730,
+			"recovered": 0,
+			"deaths": 1591,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mizoram": {
+			"lat": "23.309381",
+			"long": "92.83821999999999",
+			"confirmed": 223152,
+			"recovered": 0,
+			"deaths": 678,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nagaland": {
+			"lat": "26.06702",
+			"long": "94.470302",
+			"confirmed": 35467,
+			"recovered": 0,
+			"deaths": 758,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Odisha": {
+			"lat": "20.505428",
+			"long": "84.418059",
+			"confirmed": 1287225,
+			"recovered": 0,
+			"deaths": 9116,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Puducherry": {
+			"lat": "11.882658000000001",
+			"long": "78.86498",
+			"confirmed": 165772,
+			"recovered": 0,
+			"deaths": 1962,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Punjab": {
+			"lat": "30.841465000000003",
+			"long": "75.40879",
+			"confirmed": 758963,
+			"recovered": 0,
+			"deaths": 17738,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rajasthan": {
+			"lat": "26.583423",
+			"long": "73.847973",
+			"confirmed": 1282690,
+			"recovered": 0,
+			"deaths": 9551,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sikkim": {
+			"lat": "27.571671000000002",
+			"long": "88.472712",
+			"confirmed": 39128,
+			"recovered": 0,
+			"deaths": 450,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tamil Nadu": {
+			"lat": "11.006091",
+			"long": "78.400624",
+			"confirmed": 3452490,
+			"recovered": 0,
+			"deaths": 38025,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Telangana": {
+			"lat": "18.1124",
+			"long": "79.0193",
+			"confirmed": 790917,
+			"recovered": 0,
+			"deaths": 4111,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tripura": {
+			"lat": "23.746782999999997",
+			"long": "91.743565",
+			"confirmed": 100871,
+			"recovered": 0,
+			"deaths": 919,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Uttar Pradesh": {
+			"lat": "26.925425",
+			"long": "80.560982",
+			"confirmed": 2070380,
+			"recovered": 0,
+			"deaths": 23492,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Uttarakhand": {
+			"lat": "30.156446999999996",
+			"long": "79.197608",
+			"confirmed": 437078,
+			"recovered": 0,
+			"deaths": 7690,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"West Bengal": {
+			"lat": "23.814082",
+			"long": "87.979803",
+			"confirmed": 2016917,
+			"recovered": 0,
+			"deaths": 21197,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Indonesia": {
+		"All": {
+			"confirmed": 5974646,
+			"recovered": 0,
+			"deaths": 154062,
+			"country": "Indonesia",
+			"population": 263991379,
+			"sq_km_area": 1904569,
+			"life_expectancy": "70.1",
+			"elevation_in_meters": 367,
+			"continent": "Asia",
+			"abbreviation": "ID",
+			"location": "Southeast Asia",
+			"iso": 360,
+			"capital_city": "Jakarta",
+			"lat": "-0.7893",
+			"long": "113.9213",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Iran": {
+		"All": {
+			"confirmed": 7143409,
+			"recovered": 0,
+			"deaths": 139735,
+			"country": "Iran",
+			"population": 81162788,
+			"sq_km_area": 1648195,
+			"life_expectancy": "69.7",
+			"elevation_in_meters": "1,305",
+			"continent": "Asia",
+			"abbreviation": "IR",
+			"location": "Southern and Central Asia",
+			"iso": 364,
+			"capital_city": "Tehran",
+			"lat": "32.427908",
+			"long": "53.68804599999999",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Iraq": {
+		"All": {
+			"confirmed": 2316493,
+			"recovered": 0,
+			"deaths": 25132,
+			"country": "Iraq",
+			"population": 38274618,
+			"sq_km_area": 438317,
+			"life_expectancy": "66.5",
+			"elevation_in_meters": 312,
+			"continent": "Asia",
+			"abbreviation": "IQ",
+			"location": "Middle East",
+			"iso": 368,
+			"capital_city": "Baghdad",
+			"lat": "33.223191",
+			"long": "43.679291",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Ireland": {
+		"All": {
+			"confirmed": 1397885,
+			"recovered": 0,
+			"deaths": 6680,
+			"country": "Ireland",
+			"population": 4761657,
+			"sq_km_area": 70273,
+			"life_expectancy": "76.8",
+			"elevation_in_meters": 118,
+			"continent": "Europe",
+			"abbreviation": "IE",
+			"location": "British Isles",
+			"iso": 372,
+			"capital_city": "Dublin",
+			"lat": "53.1424",
+			"long": "-7.6921",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Israel": {
+		"All": {
+			"confirmed": 3801627,
+			"recovered": 0,
+			"deaths": 10449,
+			"country": "Israel",
+			"population": 8321570,
+			"sq_km_area": 21056,
+			"life_expectancy": "78.6",
+			"elevation_in_meters": 508,
+			"continent": "Asia",
+			"abbreviation": "IL",
+			"location": "Middle East",
+			"iso": 376,
+			"capital_city": "Jerusalem",
+			"lat": "31.046051000000002",
+			"long": "34.851612",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Italy": {
+		"All": {
+			"confirmed": 13992092,
+			"recovered": 0,
+			"deaths": 158101,
+			"country": "Italy",
+			"population": 59359900,
+			"sq_km_area": 301316,
+			"life_expectancy": 79,
+			"elevation_in_meters": 538,
+			"continent": "Europe",
+			"abbreviation": "IT",
+			"location": "Southern Europe",
+			"iso": 380,
+			"capital_city": "Roma"
+		},
+		"Abruzzo": {
+			"lat": "42.35122196",
+			"long": "13.39843823",
+			"confirmed": 295233,
+			"recovered": 0,
+			"deaths": 3049,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Basilicata": {
+			"lat": "40.63947052",
+			"long": "15.80514834",
+			"confirmed": 98183,
+			"recovered": 0,
+			"deaths": 814,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Calabria": {
+			"lat": "38.90597598",
+			"long": "16.59440194",
+			"confirmed": 270331,
+			"recovered": 0,
+			"deaths": 2234,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Campania": {
+			"lat": "40.83956555",
+			"long": "14.25084984",
+			"confirmed": 1326811,
+			"recovered": 0,
+			"deaths": 9956,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Emilia-Romagna": {
+			"lat": "44.49436681",
+			"long": "11.341720800000001",
+			"confirmed": 1244354,
+			"recovered": 0,
+			"deaths": 16171,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Friuli Venezia Giulia": {
+			"lat": "45.6494354",
+			"long": "13.76813649",
+			"confirmed": 324697,
+			"recovered": 0,
+			"deaths": 4871,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lazio": {
+			"lat": "41.89277044",
+			"long": "12.48366722",
+			"confirmed": 1210649,
+			"recovered": 0,
+			"deaths": 10671,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Liguria": {
+			"lat": "44.41149315",
+			"long": "8.9326992",
+			"confirmed": 372050,
+			"recovered": 0,
+			"deaths": 5180,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lombardia": {
+			"lat": "45.46679409",
+			"long": "9.190347404",
+			"confirmed": 2460913,
+			"recovered": 0,
+			"deaths": 39092,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Marche": {
+			"lat": "43.61675973",
+			"long": "13.5188753",
+			"confirmed": 369535,
+			"recovered": 0,
+			"deaths": 3672,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Molise": {
+			"lat": "41.55774754",
+			"long": "14.65916051",
+			"confirmed": 45450,
+			"recovered": 0,
+			"deaths": 585,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"P.A. Bolzano": {
+			"lat": "46.49933453",
+			"long": "11.35662422",
+			"confirmed": 200494,
+			"recovered": 0,
+			"deaths": 1436,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"P.A. Trento": {
+			"lat": "46.06893511",
+			"long": "11.12123097",
+			"confirmed": 145771,
+			"recovered": 0,
+			"deaths": 1536,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Piemonte": {
+			"lat": "45.0732745",
+			"long": "7.680687483",
+			"confirmed": 1025050,
+			"recovered": 0,
+			"deaths": 13166,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Puglia": {
+			"lat": "41.12559576",
+			"long": "16.86736689",
+			"confirmed": 851832,
+			"recovered": 0,
+			"deaths": 7875,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sardegna": {
+			"lat": "39.21531192",
+			"long": "9.110616306",
+			"confirmed": 212579,
+			"recovered": 0,
+			"deaths": 2167,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sicilia": {
+			"lat": "38.11569725",
+			"long": "13.362356699999998",
+			"confirmed": 917055,
+			"recovered": 0,
+			"deaths": 9898,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Toscana": {
+			"lat": "43.76923077",
+			"long": "11.25588885",
+			"confirmed": 940354,
+			"recovered": 0,
+			"deaths": 9365,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Umbria": {
+			"lat": "43.10675841",
+			"long": "12.38824698",
+			"confirmed": 218750,
+			"recovered": 0,
+			"deaths": 1778,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Valle d'Aosta": {
+			"lat": "45.73750286",
+			"long": "7.320149366",
+			"confirmed": 32063,
+			"recovered": 0,
+			"deaths": 523,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Veneto": {
+			"lat": "45.43490485",
+			"long": "12.33845213",
+			"confirmed": 1429938,
+			"recovered": 0,
+			"deaths": 14062,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Jamaica": {
+		"All": {
+			"confirmed": 128565,
+			"recovered": 0,
+			"deaths": 2869,
+			"country": "Jamaica",
+			"population": 2890299,
+			"sq_km_area": 10990,
+			"life_expectancy": "75.2",
+			"elevation_in_meters": 18,
+			"continent": "North America",
+			"abbreviation": "JM",
+			"location": "Caribbean",
+			"iso": 388,
+			"capital_city": "Kingston",
+			"lat": "18.1096",
+			"long": "-77.2975",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Japan": {
+		"All": {
+			"confirmed": 6148049,
+			"recovered": 0,
+			"deaths": 27251,
+			"country": "Japan",
+			"population": 127484450,
+			"sq_km_area": 377829,
+			"life_expectancy": "80.7",
+			"elevation_in_meters": 438,
+			"continent": "Asia",
+			"abbreviation": "JP",
+			"location": "Eastern Asia",
+			"iso": 392,
+			"capital_city": "Tokyo"
+		},
+		"Aichi": {
+			"lat": "35.035551",
+			"long": "137.211621",
+			"confirmed": 390735,
+			"recovered": 0,
+			"deaths": 1918,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Akita": {
+			"lat": "39.748678999999996",
+			"long": "140.408228",
+			"confirmed": 13970,
+			"recovered": 0,
+			"deaths": 44,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Aomori": {
+			"lat": "40.781541",
+			"long": "140.828896",
+			"confirmed": 31780,
+			"recovered": 0,
+			"deaths": 81,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chiba": {
+			"lat": "35.510141",
+			"long": "140.198917",
+			"confirmed": 334860,
+			"recovered": 0,
+			"deaths": 1606,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ehime": {
+			"lat": "33.624835",
+			"long": "132.856842",
+			"confirmed": 22457,
+			"recovered": 0,
+			"deaths": 126,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Fukui": {
+			"lat": "35.846614",
+			"long": "136.22465400000002",
+			"confirmed": 19741,
+			"recovered": 0,
+			"deaths": 41,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Fukuoka": {
+			"lat": "33.526032",
+			"long": "130.666949",
+			"confirmed": 283340,
+			"recovered": 0,
+			"deaths": 1094,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Fukushima": {
+			"lat": "37.378867",
+			"long": "140.223295",
+			"confirmed": 32136,
+			"recovered": 0,
+			"deaths": 190,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gifu": {
+			"lat": "35.778671",
+			"long": "137.055925",
+			"confirmed": 63297,
+			"recovered": 0,
+			"deaths": 306,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gunma": {
+			"lat": "36.504478999999996",
+			"long": "138.985605",
+			"confirmed": 64591,
+			"recovered": 0,
+			"deaths": 277,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hiroshima": {
+			"lat": "34.605309000000005",
+			"long": "132.788719",
+			"confirmed": 89138,
+			"recovered": 0,
+			"deaths": 442,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hokkaido": {
+			"lat": "43.385711",
+			"long": "142.55231799999999",
+			"confirmed": 207760,
+			"recovered": 0,
+			"deaths": 1904,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hyogo": {
+			"lat": "35.039913",
+			"long": "134.828057",
+			"confirmed": 316820,
+			"recovered": 0,
+			"deaths": 2046,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ibaraki": {
+			"lat": "36.303588",
+			"long": "140.319591",
+			"confirmed": 103560,
+			"recovered": 0,
+			"deaths": 363,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ishikawa": {
+			"lat": "36.769464",
+			"long": "136.771027",
+			"confirmed": 32536,
+			"recovered": 0,
+			"deaths": 181,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Iwate": {
+			"lat": "39.593287",
+			"long": "141.361777",
+			"confirmed": 16192,
+			"recovered": 0,
+			"deaths": 72,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kagawa": {
+			"lat": "34.217292",
+			"long": "133.969047",
+			"confirmed": 26671,
+			"recovered": 0,
+			"deaths": 102,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kagoshima": {
+			"lat": "31.009484000000004",
+			"long": "130.430665",
+			"confirmed": 38809,
+			"recovered": 0,
+			"deaths": 164,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kanagawa": {
+			"lat": "35.415312",
+			"long": "139.338983",
+			"confirmed": 568149,
+			"recovered": 0,
+			"deaths": 1960,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kochi": {
+			"lat": "33.422519",
+			"long": "133.367307",
+			"confirmed": 15750,
+			"recovered": 0,
+			"deaths": 97,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kumamoto": {
+			"lat": "32.608154",
+			"long": "130.74523100000002",
+			"confirmed": 60699,
+			"recovered": 0,
+			"deaths": 266,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kyoto": {
+			"lat": "35.253815",
+			"long": "135.443341",
+			"confirmed": 147434,
+			"recovered": 0,
+			"deaths": 612,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mie": {
+			"lat": "34.508018",
+			"long": "136.376013",
+			"confirmed": 51266,
+			"recovered": 0,
+			"deaths": 262,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Miyagi": {
+			"lat": "38.446859",
+			"long": "140.927086",
+			"confirmed": 53047,
+			"recovered": 0,
+			"deaths": 170,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Miyazaki": {
+			"lat": "32.193203999999994",
+			"long": "131.299374",
+			"confirmed": 23206,
+			"recovered": 0,
+			"deaths": 116,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nagano": {
+			"lat": "36.132134",
+			"long": "138.045528",
+			"confirmed": 39560,
+			"recovered": 0,
+			"deaths": 160,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nagasaki": {
+			"lat": "33.235712",
+			"long": "129.608033",
+			"confirmed": 32177,
+			"recovered": 0,
+			"deaths": 116,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nara": {
+			"lat": "34.317451",
+			"long": "135.871644",
+			"confirmed": 69968,
+			"recovered": 0,
+			"deaths": 336,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Niigata": {
+			"lat": "37.521819",
+			"long": "138.918647",
+			"confirmed": 37957,
+			"recovered": 0,
+			"deaths": 87,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Oita": {
+			"lat": "33.200697",
+			"long": "131.43323999999998",
+			"confirmed": 29466,
+			"recovered": 0,
+			"deaths": 129,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Okayama": {
+			"lat": "34.89246",
+			"long": "133.826252",
+			"confirmed": 58934,
+			"recovered": 0,
+			"deaths": 221,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Okinawa": {
+			"lat": "25.768923",
+			"long": "126.668016",
+			"confirmed": 114407,
+			"recovered": 0,
+			"deaths": 437,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Osaka": {
+			"lat": "34.620965000000005",
+			"long": "135.507481",
+			"confirmed": 760910,
+			"recovered": 0,
+			"deaths": 4498,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Port Quarantine": {
+			"lat": "",
+			"long": "",
+			"confirmed": 4463,
+			"recovered": 0,
+			"deaths": 4,
+			"updated": "2021-11-10 23:21:44"
+		},
+		"Saga": {
+			"lat": "33.286977",
+			"long": "130.115738",
+			"confirmed": 29405,
+			"recovered": 0,
+			"deaths": 78,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saitama": {
+			"lat": "35.997101",
+			"long": "139.347635",
+			"confirmed": 396305,
+			"recovered": 0,
+			"deaths": 1306,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shiga": {
+			"lat": "35.21582700000001",
+			"long": "136.13806399999999",
+			"confirmed": 64205,
+			"recovered": 0,
+			"deaths": 185,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shimane": {
+			"lat": "35.07076",
+			"long": "132.55406399999998",
+			"confirmed": 8420,
+			"recovered": 0,
+			"deaths": 9,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Shizuoka": {
+			"lat": "34.916975",
+			"long": "138.40778400000002",
+			"confirmed": 113522,
+			"recovered": 0,
+			"deaths": 373,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tochigi": {
+			"lat": "36.689912",
+			"long": "139.819213",
+			"confirmed": 57026,
+			"recovered": 0,
+			"deaths": 233,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tokushima": {
+			"lat": "33.919178",
+			"long": "134.242091",
+			"confirmed": 15188,
+			"recovered": 0,
+			"deaths": 78,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tokyo": {
+			"lat": "35.711343",
+			"long": "139.446921",
+			"confirmed": 1182871,
+			"recovered": 0,
+			"deaths": 4073,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tottori": {
+			"lat": "35.359069",
+			"long": "133.863619",
+			"confirmed": 8587,
+			"recovered": 0,
+			"deaths": 11,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Toyama": {
+			"lat": "36.637464",
+			"long": "137.26934599999998",
+			"confirmed": 25691,
+			"recovered": 0,
+			"deaths": 71,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 8,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2021-11-10 23:21:44"
+		},
+		"Wakayama": {
+			"lat": "33.911879",
+			"long": "135.505446",
+			"confirmed": 26782,
+			"recovered": 0,
+			"deaths": 107,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yamagata": {
+			"lat": "38.448396",
+			"long": "140.102154",
+			"confirmed": 15960,
+			"recovered": 0,
+			"deaths": 77,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yamaguchi": {
+			"lat": "34.201190000000004",
+			"long": "131.573293",
+			"confirmed": 26978,
+			"recovered": 0,
+			"deaths": 161,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yamanashi": {
+			"lat": "35.612364",
+			"long": "138.61148899999998",
+			"confirmed": 21315,
+			"recovered": 0,
+			"deaths": 61,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Jordan": {
+		"All": {
+			"confirmed": 1689314,
+			"recovered": 0,
+			"deaths": 14003,
+			"country": "Jordan",
+			"population": 9702353,
+			"sq_km_area": 88946,
+			"life_expectancy": "77.4",
+			"elevation_in_meters": 812,
+			"continent": "Asia",
+			"abbreviation": "JO",
+			"location": "Middle East",
+			"iso": 400,
+			"capital_city": "Amman",
+			"lat": "31.24",
+			"long": "36.51",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kazakhstan": {
+		"All": {
+			"confirmed": 1393492,
+			"recovered": 0,
+			"deaths": 19005,
+			"country": "Kazakhstan",
+			"population": 18204499,
+			"sq_km_area": 2724900,
+			"life_expectancy": "63.2",
+			"elevation_in_meters": null,
+			"continent": "Asia",
+			"abbreviation": "KZ",
+			"location": "Southern and Central Asia",
+			"iso": null,
+			"capital_city": "Astana",
+			"lat": "48.0196",
+			"long": "66.9237",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kenya": {
+		"All": {
+			"confirmed": 323306,
+			"recovered": 0,
+			"deaths": 5647,
+			"country": "Kenya",
+			"population": 49699862,
+			"sq_km_area": 580367,
+			"life_expectancy": 48,
+			"elevation_in_meters": 762,
+			"continent": "Africa",
+			"abbreviation": "KE",
+			"location": "Eastern Africa",
+			"iso": 404,
+			"capital_city": "Nairobi",
+			"lat": "-0.0236",
+			"long": "37.9062",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kiribati": {
+		"All": {
+			"confirmed": 3057,
+			"recovered": 0,
+			"deaths": 13,
+			"country": "Kiribati",
+			"population": 116398,
+			"sq_km_area": 726,
+			"life_expectancy": "59.8",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "KI",
+			"location": "Micronesia",
+			"iso": 296,
+			"capital_city": "Bairiki",
+			"lat": "-3.3704",
+			"long": "-168.734",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Korea, South": {
+		"All": {
+			"confirmed": 10427247,
+			"recovered": 0,
+			"deaths": 13432,
+			"country": "Korea, South",
+			"population": 50982212,
+			"sq_km_area": 99434,
+			"life_expectancy": "74.4",
+			"elevation_in_meters": 282,
+			"continent": "Asia",
+			"abbreviation": "KR",
+			"location": "Eastern Asia",
+			"iso": 410,
+			"capital_city": "Seoul",
+			"lat": "35.90775700000001",
+			"long": "127.766922",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kosovo": {
+		"All": {
+			"confirmed": 227191,
+			"recovered": 0,
+			"deaths": 3130,
+			"lat": "42.602636",
+			"long": "20.902977",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kuwait": {
+		"All": {
+			"confirmed": 627753,
+			"recovered": 0,
+			"deaths": 2553,
+			"country": "Kuwait",
+			"population": 4136528,
+			"sq_km_area": 17818,
+			"life_expectancy": "76.1",
+			"elevation_in_meters": 108,
+			"continent": "Asia",
+			"abbreviation": "KW",
+			"location": "Middle East",
+			"iso": 414,
+			"capital_city": "Kuwait",
+			"lat": "29.311659999999996",
+			"long": "47.481766",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Kyrgyzstan": {
+		"All": {
+			"confirmed": 200826,
+			"recovered": 0,
+			"deaths": 2981,
+			"country": "Kyrgyzstan",
+			"population": 6045117,
+			"sq_km_area": 199900,
+			"life_expectancy": "63.4",
+			"elevation_in_meters": "2,988",
+			"continent": "Asia",
+			"abbreviation": "KG",
+			"location": "Southern and Central Asia",
+			"iso": 417,
+			"capital_city": "Bishkek",
+			"lat": "41.20438",
+			"long": "74.766098",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Laos": {
+		"All": {
+			"confirmed": 156422,
+			"recovered": 0,
+			"deaths": 651,
+			"country": "Laos",
+			"population": 6858160,
+			"sq_km_area": 236800,
+			"life_expectancy": "53.1",
+			"elevation_in_meters": 710,
+			"continent": "Asia",
+			"abbreviation": "LA",
+			"location": "Southeast Asia",
+			"iso": 418,
+			"capital_city": "Vientiane",
+			"lat": "19.856270000000002",
+			"long": "102.495496",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Latvia": {
+		"All": {
+			"confirmed": 777201,
+			"recovered": 0,
+			"deaths": 5525,
+			"country": "Latvia",
+			"population": 1949670,
+			"sq_km_area": 64589,
+			"life_expectancy": "68.4",
+			"elevation_in_meters": 87,
+			"continent": "Europe",
+			"abbreviation": "LV",
+			"location": "Baltic Countries",
+			"iso": 428,
+			"capital_city": "Riga",
+			"lat": "56.8796",
+			"long": "24.6032",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Lebanon": {
+		"All": {
+			"confirmed": 1089005,
+			"recovered": 0,
+			"deaths": 10258,
+			"country": "Lebanon",
+			"population": 6082357,
+			"sq_km_area": 10400,
+			"life_expectancy": "71.3",
+			"elevation_in_meters": "1,250",
+			"continent": "Asia",
+			"abbreviation": "LB",
+			"location": "Middle East",
+			"iso": 422,
+			"capital_city": "Beirut",
+			"lat": "33.8547",
+			"long": "35.8623",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Lesotho": {
+		"All": {
+			"confirmed": 32880,
+			"recovered": 0,
+			"deaths": 697,
+			"country": "Lesotho",
+			"population": 2233339,
+			"sq_km_area": 30355,
+			"life_expectancy": "50.8",
+			"elevation_in_meters": "2,161",
+			"continent": "Africa",
+			"abbreviation": "LS",
+			"location": "Southern Africa",
+			"iso": 426,
+			"capital_city": "Maseru",
+			"lat": "-29.61",
+			"long": "28.2336",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Liberia": {
+		"All": {
+			"confirmed": 7397,
+			"recovered": 0,
+			"deaths": 294,
+			"country": "Liberia",
+			"population": 4731906,
+			"sq_km_area": 111369,
+			"life_expectancy": 51,
+			"elevation_in_meters": 243,
+			"continent": "Africa",
+			"abbreviation": "LR",
+			"location": "Western Africa",
+			"iso": 430,
+			"capital_city": "Monrovia",
+			"lat": "6.4280550000000005",
+			"long": "-9.429499",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Libya": {
+		"All": {
+			"confirmed": 501211,
+			"recovered": 0,
+			"deaths": 6382,
+			"country": "Libya",
+			"population": 5605000,
+			"sq_km_area": 1759540,
+			"life_expectancy": "75.5",
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "LY",
+			"location": "Northern Africa",
+			"iso": null,
+			"capital_city": "Tripoli",
+			"lat": "26.3351",
+			"long": "17.228331",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Liechtenstein": {
+		"All": {
+			"confirmed": 15497,
+			"recovered": 0,
+			"deaths": 83,
+			"country": "Liechtenstein",
+			"population": 37922,
+			"sq_km_area": 160,
+			"life_expectancy": "78.8",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "LI",
+			"location": "Western Europe",
+			"iso": 438,
+			"capital_city": "Vaduz",
+			"lat": "47.14",
+			"long": "9.55",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Lithuania": {
+		"All": {
+			"confirmed": 997690,
+			"recovered": 0,
+			"deaths": 8751,
+			"country": "Lithuania",
+			"population": 2890297,
+			"sq_km_area": 65301,
+			"life_expectancy": "69.1",
+			"elevation_in_meters": 110,
+			"continent": "Europe",
+			"abbreviation": "LT",
+			"location": "Baltic Countries",
+			"iso": 440,
+			"capital_city": "Vilnius",
+			"lat": "55.1694",
+			"long": "23.8813",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Luxembourg": {
+		"All": {
+			"confirmed": 202577,
+			"recovered": 0,
+			"deaths": 1019,
+			"country": "Luxembourg",
+			"population": 583455,
+			"sq_km_area": 2586,
+			"life_expectancy": "77.1",
+			"elevation_in_meters": 325,
+			"continent": "Europe",
+			"abbreviation": "LU",
+			"location": "Western Europe",
+			"iso": 442,
+			"capital_city": "Luxembourg [Luxemburg/L",
+			"lat": "49.8153",
+			"long": "6.1296",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"MS Zaandam": {
+		"All": {
+			"confirmed": 9,
+			"recovered": 0,
+			"deaths": 2,
+			"lat": "",
+			"long": "",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Madagascar": {
+		"All": {
+			"confirmed": 63928,
+			"recovered": 0,
+			"deaths": 1380,
+			"country": "Madagascar",
+			"population": 25570895,
+			"sq_km_area": 587041,
+			"life_expectancy": 55,
+			"elevation_in_meters": 615,
+			"continent": "Africa",
+			"abbreviation": "MG",
+			"location": "Eastern Africa",
+			"iso": 450,
+			"capital_city": "Antananarivo",
+			"lat": "-18.766947000000002",
+			"long": "46.869107",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Malawi": {
+		"All": {
+			"confirmed": 85566,
+			"recovered": 0,
+			"deaths": 2626,
+			"country": "Malawi",
+			"population": 18622104,
+			"sq_km_area": 118484,
+			"life_expectancy": "37.6",
+			"elevation_in_meters": 779,
+			"continent": "Africa",
+			"abbreviation": "MW",
+			"location": "Eastern Africa",
+			"iso": 454,
+			"capital_city": "Lilongwe",
+			"lat": "-13.2543",
+			"long": "34.3015",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Malaysia": {
+		"All": {
+			"confirmed": 4032435,
+			"recovered": 0,
+			"deaths": 34535,
+			"country": "Malaysia",
+			"population": 31624264,
+			"sq_km_area": 329758,
+			"life_expectancy": "70.8",
+			"elevation_in_meters": 538,
+			"continent": "Asia",
+			"abbreviation": "MY",
+			"location": "Southeast Asia",
+			"iso": 458,
+			"capital_city": "Kuala Lumpur"
+		},
+		"Johor": {
+			"lat": "1.4854",
+			"long": "103.7618",
+			"confirmed": 364388,
+			"recovered": 0,
+			"deaths": 4362,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kedah": {
+			"lat": "6.1184",
+			"long": "100.3685",
+			"confirmed": 284193,
+			"recovered": 0,
+			"deaths": 2510,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kelantan": {
+			"lat": "6.1254",
+			"long": "102.2381",
+			"confirmed": 241778,
+			"recovered": 0,
+			"deaths": 1397,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Melaka": {
+			"lat": "2.1896",
+			"long": "102.2501",
+			"confirmed": 112449,
+			"recovered": 0,
+			"deaths": 1066,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Negeri Sembilan": {
+			"lat": "2.7258",
+			"long": "101.9424",
+			"confirmed": 181326,
+			"recovered": 0,
+			"deaths": 1425,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pahang": {
+			"lat": "3.8126",
+			"long": "103.3256",
+			"confirmed": 160716,
+			"recovered": 0,
+			"deaths": 919,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Perak": {
+			"lat": "4.5921",
+			"long": "101.0901",
+			"confirmed": 180980,
+			"recovered": 0,
+			"deaths": 1758,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Perlis": {
+			"lat": "6.4449",
+			"long": "100.2048",
+			"confirmed": 16145,
+			"recovered": 0,
+			"deaths": 171,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pulau Pinang": {
+			"lat": "5.4141",
+			"long": "100.3288",
+			"confirmed": 258643,
+			"recovered": 0,
+			"deaths": 1918,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sabah": {
+			"lat": "5.9788",
+			"long": "116.0753",
+			"confirmed": 364727,
+			"recovered": 0,
+			"deaths": 3097,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sarawak": {
+			"lat": "1.5533",
+			"long": "110.3592",
+			"confirmed": 290207,
+			"recovered": 0,
+			"deaths": 1663,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Selangor": {
+			"lat": "3.0738",
+			"long": "101.5183",
+			"confirmed": 1108304,
+			"recovered": 0,
+			"deaths": 10457,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Terengganu": {
+			"lat": "5.3117",
+			"long": "103.1324",
+			"confirmed": 117789,
+			"recovered": 0,
+			"deaths": 832,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"W.P. Kuala Lumpur": {
+			"lat": "3.139",
+			"long": "101.6869",
+			"confirmed": 313100,
+			"recovered": 0,
+			"deaths": 2775,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"W.P. Labuan": {
+			"lat": "5.2831",
+			"long": "115.2308",
+			"confirmed": 20334,
+			"recovered": 0,
+			"deaths": 153,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"W.P. Putrajaya": {
+			"lat": "2.9264",
+			"long": "101.6964",
+			"confirmed": 17356,
+			"recovered": 0,
+			"deaths": 32,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Maldives": {
+		"All": {
+			"confirmed": 174658,
+			"recovered": 0,
+			"deaths": 297,
+			"country": "Maldives",
+			"population": 436330,
+			"sq_km_area": 298,
+			"life_expectancy": "62.2",
+			"elevation_in_meters": "1.8",
+			"continent": "Asia",
+			"abbreviation": "MV",
+			"location": "Southern and Central Asia",
+			"iso": 462,
+			"capital_city": "Male",
+			"lat": "3.2028",
+			"long": "73.2207",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mali": {
+		"All": {
+			"confirmed": 30458,
+			"recovered": 0,
+			"deaths": 727,
+			"country": "Mali",
+			"population": 18541980,
+			"sq_km_area": 1240192,
+			"life_expectancy": "46.7",
+			"elevation_in_meters": 343,
+			"continent": "Africa",
+			"abbreviation": "ML",
+			"location": "Western Africa",
+			"iso": 466,
+			"capital_city": "Bamako",
+			"lat": "17.570692",
+			"long": "-3.996166000000001",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Malta": {
+		"All": {
+			"confirmed": 75102,
+			"recovered": 0,
+			"deaths": 624,
+			"country": "Malta",
+			"population": 430835,
+			"sq_km_area": 316,
+			"life_expectancy": "77.9",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "MT",
+			"location": "Southern Europe",
+			"iso": 470,
+			"capital_city": "Valletta",
+			"lat": "35.9375",
+			"long": "14.3754",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Marshall Islands": {
+		"All": {
+			"confirmed": 7,
+			"recovered": 0,
+			"deaths": 0,
+			"country": "Marshall Islands",
+			"population": 53127,
+			"sq_km_area": 181,
+			"life_expectancy": "65.5",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "MH",
+			"location": "Micronesia",
+			"iso": 584,
+			"capital_city": "Dalap-Uliga-Darrit",
+			"lat": "7.1315",
+			"long": "171.1845",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mauritania": {
+		"All": {
+			"confirmed": 58665,
+			"recovered": 0,
+			"deaths": 981,
+			"country": "Mauritania",
+			"population": 4420184,
+			"sq_km_area": 1025520,
+			"life_expectancy": "50.8",
+			"elevation_in_meters": 276,
+			"continent": "Africa",
+			"abbreviation": "MR",
+			"location": "Western Africa",
+			"iso": 478,
+			"capital_city": "Nouakchott",
+			"lat": "21.0079",
+			"long": "-10.9408",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mauritius": {
+		"All": {
+			"confirmed": 192558,
+			"recovered": 0,
+			"deaths": 934,
+			"country": "Mauritius",
+			"population": 1265138,
+			"sq_km_area": 2040,
+			"life_expectancy": 71,
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "MU",
+			"location": "Eastern Africa",
+			"iso": 480,
+			"capital_city": "Port-Louis",
+			"lat": "-20.348404000000002",
+			"long": "57.552152",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mexico": {
+		"All": {
+			"confirmed": 5635500,
+			"recovered": 0,
+			"deaths": 322107,
+			"country": "Mexico",
+			"population": 129163276,
+			"sq_km_area": 1958201,
+			"life_expectancy": "71.5",
+			"elevation_in_meters": "1,111",
+			"continent": "North America",
+			"abbreviation": "MX",
+			"location": "Central America",
+			"iso": 484,
+			"capital_city": "Ciudad de M",
+			"lat": "19.4969",
+			"long": "-99.7233"
+		},
+		"Aguascalientes": {
+			"lat": "21.8853",
+			"long": "-102.2916",
+			"confirmed": 63293,
+			"recovered": 0,
+			"deaths": 3482,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Baja California": {
+			"lat": "30.8406",
+			"long": "-115.2838",
+			"confirmed": 131463,
+			"recovered": 0,
+			"deaths": 12180,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Baja California Sur": {
+			"lat": "26.0444",
+			"long": "-111.6661",
+			"confirmed": 102330,
+			"recovered": 0,
+			"deaths": 2639,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Campeche": {
+			"lat": "19.8301",
+			"long": "-90.5349",
+			"confirmed": 33794,
+			"recovered": 0,
+			"deaths": 2234,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chiapas": {
+			"lat": "16.7569",
+			"long": "-93.1292",
+			"confirmed": 36241,
+			"recovered": 0,
+			"deaths": 2398,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chihuahua": {
+			"lat": "28.63300000000001",
+			"long": "-106.0691",
+			"confirmed": 129494,
+			"recovered": 0,
+			"deaths": 9894,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ciudad de Mexico": {
+			"lat": "19.4326",
+			"long": "-99.1332",
+			"confirmed": 1380314,
+			"recovered": 0,
+			"deaths": 42539,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Coahuila": {
+			"lat": "27.0587",
+			"long": "-101.7068",
+			"confirmed": 144168,
+			"recovered": 0,
+			"deaths": 8766,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Colima": {
+			"lat": "19.1223",
+			"long": "-104.0072",
+			"confirmed": 54405,
+			"recovered": 0,
+			"deaths": 2183,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Durango": {
+			"lat": "24.5593",
+			"long": "-104.6588",
+			"confirmed": 67875,
+			"recovered": 0,
+			"deaths": 3580,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guanajuato": {
+			"lat": "21.019000000000002",
+			"long": "-101.2574",
+			"confirmed": 280257,
+			"recovered": 0,
+			"deaths": 14835,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guerrero": {
+			"lat": "17.4392",
+			"long": "-99.5451",
+			"confirmed": 98164,
+			"recovered": 0,
+			"deaths": 6699,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hidalgo": {
+			"lat": "20.0911",
+			"long": "-98.7624",
+			"confirmed": 91375,
+			"recovered": 0,
+			"deaths": 8357,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jalisco": {
+			"lat": "20.6595",
+			"long": "-103.3494",
+			"confirmed": 238379,
+			"recovered": 0,
+			"deaths": 19337,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mexico": {
+			"lat": "19.4969",
+			"long": "-99.7233",
+			"confirmed": 536257,
+			"recovered": 0,
+			"deaths": 47006,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Michoacan": {
+			"lat": "19.5665",
+			"long": "-101.7068",
+			"confirmed": 93639,
+			"recovered": 0,
+			"deaths": 8784,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Morelos": {
+			"lat": "18.6813",
+			"long": "-99.1013",
+			"confirmed": 68444,
+			"recovered": 0,
+			"deaths": 5204,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nayarit": {
+			"lat": "21.7514",
+			"long": "-104.8455",
+			"confirmed": 57900,
+			"recovered": 0,
+			"deaths": 3161,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nuevo Leon": {
+			"lat": "25.5922",
+			"long": "-99.9962",
+			"confirmed": 311935,
+			"recovered": 0,
+			"deaths": 14916,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Oaxaca": {
+			"lat": "17.0732",
+			"long": "-96.7266",
+			"confirmed": 119085,
+			"recovered": 0,
+			"deaths": 6123,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Puebla": {
+			"lat": "19.0414",
+			"long": "-98.2063",
+			"confirmed": 168295,
+			"recovered": 0,
+			"deaths": 16380,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Queretaro": {
+			"lat": "20.5888",
+			"long": "-100.3899",
+			"confirmed": 140769,
+			"recovered": 0,
+			"deaths": 6173,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Quintana Roo": {
+			"lat": "19.1817",
+			"long": "-88.4791",
+			"confirmed": 91239,
+			"recovered": 0,
+			"deaths": 4374,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"San Luis Potosi": {
+			"lat": "22.1565",
+			"long": "-100.9855",
+			"confirmed": 183456,
+			"recovered": 0,
+			"deaths": 7448,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sinaloa": {
+			"lat": "25.1721",
+			"long": "-107.4795",
+			"confirmed": 121082,
+			"recovered": 0,
+			"deaths": 9622,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sonora": {
+			"lat": "29.2972",
+			"long": "-110.3309",
+			"confirmed": 163789,
+			"recovered": 0,
+			"deaths": 10053,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tabasco": {
+			"lat": "17.8409",
+			"long": "-92.6189",
+			"confirmed": 189599,
+			"recovered": 0,
+			"deaths": 6027,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tamaulipas": {
+			"lat": "24.2669",
+			"long": "-98.8363",
+			"confirmed": 142243,
+			"recovered": 0,
+			"deaths": 7952,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tlaxcala": {
+			"lat": "19.3139",
+			"long": "-98.2404",
+			"confirmed": 43515,
+			"recovered": 0,
+			"deaths": 3063,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Veracruz": {
+			"lat": "19.1738",
+			"long": "-96.1342",
+			"confirmed": 176640,
+			"recovered": 0,
+			"deaths": 16172,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yucatan": {
+			"lat": "20.7099",
+			"long": "-89.0943",
+			"confirmed": 108705,
+			"recovered": 0,
+			"deaths": 6687,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Zacatecas": {
+			"lat": "22.7709",
+			"long": "-102.5832",
+			"confirmed": 67356,
+			"recovered": 0,
+			"deaths": 3839,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Micronesia": {
+		"All": {
+			"confirmed": 1,
+			"recovered": 0,
+			"deaths": 0,
+			"lat": "7.4256",
+			"long": "150.5508",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Moldova": {
+		"All": {
+			"confirmed": 510973,
+			"recovered": 0,
+			"deaths": 11392,
+			"country": "Moldova",
+			"population": 4051212,
+			"sq_km_area": 33851,
+			"life_expectancy": "64.5",
+			"elevation_in_meters": 139,
+			"continent": "Europe",
+			"abbreviation": "MD",
+			"location": "Eastern Europe",
+			"iso": 498,
+			"capital_city": "Chisinau",
+			"lat": "47.4116",
+			"long": "28.3699",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Monaco": {
+		"All": {
+			"confirmed": 10272,
+			"recovered": 0,
+			"deaths": 54,
+			"country": "Monaco",
+			"population": 38695,
+			"sq_km_area": 1.5,
+			"life_expectancy": "78.8",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "MC",
+			"location": "Western Europe",
+			"iso": 492,
+			"capital_city": "Monaco-Ville",
+			"lat": "43.7333",
+			"long": "7.4167",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mongolia": {
+		"All": {
+			"confirmed": 917213,
+			"recovered": 0,
+			"deaths": 2177,
+			"country": "Mongolia",
+			"population": 3075647,
+			"sq_km_area": 1566500,
+			"life_expectancy": "67.3",
+			"elevation_in_meters": "1,528",
+			"continent": "Asia",
+			"abbreviation": "MN",
+			"location": "Eastern Asia",
+			"iso": 496,
+			"capital_city": "Ulan Bator",
+			"lat": "46.8625",
+			"long": "103.8467",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Montenegro": {
+		"All": {
+			"confirmed": 232376,
+			"recovered": 0,
+			"deaths": 2696,
+			"lat": "42.708678000000006",
+			"long": "19.37439",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Morocco": {
+		"All": {
+			"confirmed": 1162626,
+			"recovered": 0,
+			"deaths": 16053,
+			"country": "Morocco",
+			"population": 35739580,
+			"sq_km_area": 446550,
+			"life_expectancy": "69.1",
+			"elevation_in_meters": 909,
+			"continent": "Africa",
+			"abbreviation": "MA",
+			"location": "Northern Africa",
+			"iso": 504,
+			"capital_city": "Rabat",
+			"lat": "31.7917",
+			"long": "-7.0926",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Mozambique": {
+		"All": {
+			"confirmed": 225215,
+			"recovered": 0,
+			"deaths": 2200,
+			"country": "Mozambique",
+			"population": 29668834,
+			"sq_km_area": 801590,
+			"life_expectancy": "37.5",
+			"elevation_in_meters": 345,
+			"continent": "Africa",
+			"abbreviation": "MZ",
+			"location": "Eastern Africa",
+			"iso": 508,
+			"capital_city": "Maputo",
+			"lat": "-18.665695",
+			"long": "35.529562",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Namibia": {
+		"All": {
+			"confirmed": 157545,
+			"recovered": 0,
+			"deaths": 4016,
+			"country": "Namibia",
+			"population": 2533794,
+			"sq_km_area": 824292,
+			"life_expectancy": "42.5",
+			"elevation_in_meters": "1,141",
+			"continent": "Africa",
+			"abbreviation": "NA",
+			"location": "Southern Africa",
+			"iso": 516,
+			"capital_city": "Windhoek",
+			"lat": "-22.9576",
+			"long": "18.4904",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Nepal": {
+		"All": {
+			"confirmed": 978231,
+			"recovered": 0,
+			"deaths": 11951,
+			"country": "Nepal",
+			"population": 29304998,
+			"sq_km_area": 147181,
+			"life_expectancy": "57.8",
+			"elevation_in_meters": "3,265",
+			"continent": "Asia",
+			"abbreviation": "NP",
+			"location": "Southern and Central Asia",
+			"iso": 524,
+			"capital_city": "Kathmandu",
+			"lat": "28.1667",
+			"long": "84.25",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Netherlands": {
+		"All": {
+			"confirmed": 7759372,
+			"recovered": 0,
+			"deaths": 22435,
+			"country": "Netherlands",
+			"population": 17035938,
+			"sq_km_area": 41526,
+			"life_expectancy": "78.3",
+			"elevation_in_meters": 30,
+			"continent": "Europe",
+			"abbreviation": "NL",
+			"location": "Western Europe",
+			"iso": 528,
+			"capital_city": "Amsterdam"
+		},
+		"Aruba": {
+			"lat": "12.5211",
+			"long": "-69.9683",
+			"confirmed": 33843,
+			"recovered": 0,
+			"deaths": 212,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bonaire, Sint Eustatius and Saba": {
+			"lat": "12.1784",
+			"long": "-68.2385",
+			"confirmed": 8039,
+			"recovered": 0,
+			"deaths": 31,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Curacao": {
+			"lat": "12.1696",
+			"long": "-68.99",
+			"confirmed": 39853,
+			"recovered": 0,
+			"deaths": 265,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Drenthe": {
+			"lat": "52.862485",
+			"long": "6.6184350000000025",
+			"confirmed": 185043,
+			"recovered": 0,
+			"deaths": 442,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Flevoland": {
+			"lat": "52.550383",
+			"long": "5.515162",
+			"confirmed": 172253,
+			"recovered": 0,
+			"deaths": 324,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Friesland": {
+			"lat": "53.087337",
+			"long": "5.7925",
+			"confirmed": 260339,
+			"recovered": 0,
+			"deaths": 610,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gelderland": {
+			"lat": "52.061738",
+			"long": "5.939114",
+			"confirmed": 917821,
+			"recovered": 0,
+			"deaths": 2726,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Groningen": {
+			"lat": "53.217921999999994",
+			"long": "6.741514",
+			"confirmed": 227802,
+			"recovered": 0,
+			"deaths": 344,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Limburg": {
+			"lat": "51.209227",
+			"long": "5.93387",
+			"confirmed": 505954,
+			"recovered": 0,
+			"deaths": 2126,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Noord-Brabant": {
+			"lat": "51.561174",
+			"long": "5.1849419999999995",
+			"confirmed": 1183513,
+			"recovered": 0,
+			"deaths": 3639,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Noord-Holland": {
+			"lat": "52.60090600000001",
+			"long": "4.9186879999999995",
+			"confirmed": 1240910,
+			"recovered": 0,
+			"deaths": 3296,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Overijssel": {
+			"lat": "52.444557999999994",
+			"long": "6.441722",
+			"confirmed": 525697,
+			"recovered": 0,
+			"deaths": 1388,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sint Maarten": {
+			"lat": "18.0425",
+			"long": "-63.0548",
+			"confirmed": 9665,
+			"recovered": 0,
+			"deaths": 86,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 84139,
+			"recovered": 0,
+			"deaths": 21,
+			"updated": "2022-02-28 23:21:00"
+		},
+		"Utrecht": {
+			"lat": "52.084251",
+			"long": "5.163824",
+			"confirmed": 620922,
+			"recovered": 0,
+			"deaths": 1514,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Zeeland": {
+			"lat": "51.47936",
+			"long": "3.8615589999999997",
+			"confirmed": 157120,
+			"recovered": 0,
+			"deaths": 376,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Zuid-Holland": {
+			"lat": "51.937835",
+			"long": "4.462114",
+			"confirmed": 1586459,
+			"recovered": 0,
+			"deaths": 5035,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"New Zealand": {
+		"All": {
+			"confirmed": 538839,
+			"recovered": 0,
+			"deaths": 184,
+			"country": "New Zealand",
+			"population": 4705818,
+			"sq_km_area": 270534,
+			"life_expectancy": "77.8",
+			"elevation_in_meters": 388,
+			"continent": "Oceania",
+			"abbreviation": "NZ",
+			"location": "Australia and New Zealand",
+			"iso": 554,
+			"capital_city": "Wellington",
+			"lat": "-40.9006",
+			"long": "174.886",
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cook Islands": {
+			"lat": "-21.2367",
+			"long": "-159.7777",
+			"confirmed": 948,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Nicaragua": {
+		"All": {
+			"confirmed": 18365,
+			"recovered": 0,
+			"deaths": 228,
+			"country": "Nicaragua",
+			"population": 6217581,
+			"sq_km_area": 130000,
+			"life_expectancy": "68.7",
+			"elevation_in_meters": 298,
+			"continent": "North America",
+			"abbreviation": "NI",
+			"location": "Central America",
+			"iso": 558,
+			"capital_city": "Managua",
+			"lat": "12.865416",
+			"long": "-85.207229",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Niger": {
+		"All": {
+			"confirmed": 8797,
+			"recovered": 0,
+			"deaths": 308,
+			"country": "Niger",
+			"population": 21477348,
+			"sq_km_area": 1267000,
+			"life_expectancy": "41.3",
+			"elevation_in_meters": 474,
+			"continent": "Africa",
+			"abbreviation": "NE",
+			"location": "Western Africa",
+			"iso": 562,
+			"capital_city": "Niamey",
+			"lat": "17.607789",
+			"long": "8.081666",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Nigeria": {
+		"All": {
+			"confirmed": 255190,
+			"recovered": 0,
+			"deaths": 3142,
+			"country": "Nigeria",
+			"population": 190886311,
+			"sq_km_area": 923768,
+			"life_expectancy": "51.6",
+			"elevation_in_meters": 380,
+			"continent": "Africa",
+			"abbreviation": "NG",
+			"location": "Western Africa",
+			"iso": 566,
+			"capital_city": "Abuja",
+			"lat": "9.082",
+			"long": "8.6753",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"North Macedonia": {
+		"All": {
+			"confirmed": 303728,
+			"recovered": 0,
+			"deaths": 9187,
+			"country": "North Macedonia",
+			"population": 2024000,
+			"sq_km_area": 25713,
+			"life_expectancy": "73.8",
+			"elevation_in_meters": 741,
+			"continent": "Europe",
+			"abbreviation": "MK",
+			"location": "Southern Europe",
+			"iso": 807,
+			"capital_city": "Skopje",
+			"lat": "41.6086",
+			"long": "21.7453",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Norway": {
+		"All": {
+			"confirmed": 1387034,
+			"recovered": 0,
+			"deaths": 2169,
+			"country": "Norway",
+			"population": 5305383,
+			"sq_km_area": 323877,
+			"life_expectancy": "78.7",
+			"elevation_in_meters": 460,
+			"continent": "Europe",
+			"abbreviation": "NO",
+			"location": "Nordic Countries",
+			"iso": 578,
+			"capital_city": "Oslo",
+			"lat": "60.472",
+			"long": "8.4689",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Oman": {
+		"All": {
+			"confirmed": 387730,
+			"recovered": 0,
+			"deaths": 4250,
+			"country": "Oman",
+			"population": 4636262,
+			"sq_km_area": 309500,
+			"life_expectancy": "71.8",
+			"elevation_in_meters": 310,
+			"continent": "Asia",
+			"abbreviation": "OM",
+			"location": "Middle East",
+			"iso": 512,
+			"capital_city": "Masqat",
+			"lat": "21.512583",
+			"long": "55.92325500000001",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Pakistan": {
+		"All": {
+			"confirmed": 1522862,
+			"recovered": 0,
+			"deaths": 30333,
+			"country": "Pakistan",
+			"population": 197015955,
+			"sq_km_area": 796095,
+			"life_expectancy": "61.1",
+			"elevation_in_meters": 900,
+			"continent": "Asia",
+			"abbreviation": "PK",
+			"location": "Southern and Central Asia",
+			"iso": 586,
+			"capital_city": "Islamabad"
+		},
+		"Azad Jammu and Kashmir": {
+			"lat": "34.027401",
+			"long": "73.947253",
+			"confirmed": 43227,
+			"recovered": 0,
+			"deaths": 792,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Balochistan": {
+			"lat": "28.328491999999997",
+			"long": "65.898403",
+			"confirmed": 35460,
+			"recovered": 0,
+			"deaths": 378,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gilgit-Baltistan": {
+			"lat": "35.792146",
+			"long": "74.982138",
+			"confirmed": 11673,
+			"recovered": 0,
+			"deaths": 191,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Islamabad": {
+			"lat": "33.665087",
+			"long": "73.121219",
+			"confirmed": 134991,
+			"recovered": 0,
+			"deaths": 1022,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Khyber Pakhtunkhwa": {
+			"lat": "34.485332",
+			"long": "72.09169",
+			"confirmed": 218777,
+			"recovered": 0,
+			"deaths": 6307,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Punjab": {
+			"lat": "30.811346",
+			"long": "72.13913199999998",
+			"confirmed": 504577,
+			"recovered": 0,
+			"deaths": 13551,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sindh": {
+			"lat": "26.009446",
+			"long": "68.77680699999999",
+			"confirmed": 574157,
+			"recovered": 0,
+			"deaths": 8092,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Palau": {
+		"All": {
+			"confirmed": 3966,
+			"recovered": 0,
+			"deaths": 6,
+			"country": "Palau",
+			"population": 21729,
+			"sq_km_area": 459,
+			"life_expectancy": "68.6",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "PW",
+			"location": "Micronesia",
+			"iso": 585,
+			"capital_city": "Koror",
+			"lat": "7.515",
+			"long": "134.5825",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Panama": {
+		"All": {
+			"confirmed": 762008,
+			"recovered": 0,
+			"deaths": 8159,
+			"country": "Panama",
+			"population": 4098587,
+			"sq_km_area": 75517,
+			"life_expectancy": "75.5",
+			"elevation_in_meters": 360,
+			"continent": "North America",
+			"abbreviation": "PA",
+			"location": "Central America",
+			"iso": 591,
+			"capital_city": "Ciudad de Panam",
+			"lat": "8.538",
+			"long": "-80.7821",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Papua New Guinea": {
+		"All": {
+			"confirmed": 41533,
+			"recovered": 0,
+			"deaths": 639,
+			"country": "Papua New Guinea",
+			"population": 8251162,
+			"sq_km_area": 462840,
+			"life_expectancy": "63.1",
+			"elevation_in_meters": 667,
+			"continent": "Oceania",
+			"abbreviation": "PG",
+			"location": "Melanesia",
+			"iso": 598,
+			"capital_city": "Port Moresby",
+			"lat": "-6.314993",
+			"long": "143.95555",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Paraguay": {
+		"All": {
+			"confirmed": 647428,
+			"recovered": 0,
+			"deaths": 18603,
+			"country": "Paraguay",
+			"population": 6811297,
+			"sq_km_area": 406752,
+			"life_expectancy": "73.7",
+			"elevation_in_meters": 178,
+			"continent": "South America",
+			"abbreviation": "PY",
+			"location": "South America",
+			"iso": 600,
+			"capital_city": "Asunci",
+			"lat": "-23.4425",
+			"long": "-58.4438",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Peru": {
+		"All": {
+			"confirmed": 3541994,
+			"recovered": 0,
+			"deaths": 211924,
+			"country": "Peru",
+			"population": 32165485,
+			"sq_km_area": 1285216,
+			"life_expectancy": 70,
+			"elevation_in_meters": "1,555",
+			"continent": "South America",
+			"abbreviation": "PE",
+			"location": "South America",
+			"iso": 604,
+			"capital_city": "Lima"
+		},
+		"Amazonas": {
+			"lat": "-5.077253",
+			"long": "-78.050172",
+			"confirmed": 43918,
+			"recovered": 0,
+			"deaths": 1333,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ancash": {
+			"lat": "-9.407125",
+			"long": "-77.67179499999997",
+			"confirmed": 125591,
+			"recovered": 0,
+			"deaths": 7089,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Apurimac": {
+			"lat": "-14.027713",
+			"long": "-72.975378",
+			"confirmed": 38814,
+			"recovered": 0,
+			"deaths": 1620,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arequipa": {
+			"lat": "-15.843523999999999",
+			"long": "-72.475539",
+			"confirmed": 212325,
+			"recovered": 0,
+			"deaths": 10240,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ayacucho": {
+			"lat": "-14.091648000000001",
+			"long": "-74.08344",
+			"confirmed": 48023,
+			"recovered": 0,
+			"deaths": 2317,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cajamarca": {
+			"lat": "-6.4302839999999994",
+			"long": "-78.74559599999998",
+			"confirmed": 95613,
+			"recovered": 0,
+			"deaths": 4438,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Callao": {
+			"lat": "-11.954609",
+			"long": "-77.136042",
+			"confirmed": 146291,
+			"recovered": 0,
+			"deaths": 10467,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cusco": {
+			"lat": "-13.191068",
+			"long": "-72.153609",
+			"confirmed": 116556,
+			"recovered": 0,
+			"deaths": 5135,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Huancavelica": {
+			"lat": "-13.023888000000001",
+			"long": "-75.00277",
+			"confirmed": 25657,
+			"recovered": 0,
+			"deaths": 1261,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Huanuco": {
+			"lat": "-9.421676",
+			"long": "-76.040642",
+			"confirmed": 51952,
+			"recovered": 0,
+			"deaths": 2875,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ica": {
+			"lat": "-14.235097",
+			"long": "-75.574821",
+			"confirmed": 103402,
+			"recovered": 0,
+			"deaths": 8909,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Junin": {
+			"lat": "-11.541783",
+			"long": "-74.876968",
+			"confirmed": 125608,
+			"recovered": 0,
+			"deaths": 7427,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"La Libertad": {
+			"lat": "-7.92139",
+			"long": "-78.370238",
+			"confirmed": 146263,
+			"recovered": 0,
+			"deaths": 10895,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lambayeque": {
+			"lat": "-6.3530489999999995",
+			"long": "-79.824113",
+			"confirmed": 105370,
+			"recovered": 0,
+			"deaths": 9217,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lima": {
+			"lat": "-11.766533",
+			"long": "-76.60449799999998",
+			"confirmed": 1603068,
+			"recovered": 0,
+			"deaths": 92794,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Loreto": {
+			"lat": "-4.124847",
+			"long": "-74.424115",
+			"confirmed": 57821,
+			"recovered": 0,
+			"deaths": 4374,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Madre de Dios": {
+			"lat": "-11.972699",
+			"long": "-70.53171999999998",
+			"confirmed": 17754,
+			"recovered": 0,
+			"deaths": 844,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Moquegua": {
+			"lat": "-16.860271",
+			"long": "-70.839046",
+			"confirmed": 48285,
+			"recovered": 0,
+			"deaths": 1611,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pasco": {
+			"lat": "-10.39655",
+			"long": "-75.307635",
+			"confirmed": 23878,
+			"recovered": 0,
+			"deaths": 1088,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Piura": {
+			"lat": "-5.133361",
+			"long": "-80.335861",
+			"confirmed": 157643,
+			"recovered": 0,
+			"deaths": 13042,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Puno": {
+			"lat": "-14.995826999999998",
+			"long": "-69.922726",
+			"confirmed": 65433,
+			"recovered": 0,
+			"deaths": 4716,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"San Martin": {
+			"lat": "-7.039531",
+			"long": "-76.729127",
+			"confirmed": 61791,
+			"recovered": 0,
+			"deaths": 3143,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tacna": {
+			"lat": "-17.644160999999997",
+			"long": "-70.27756",
+			"confirmed": 53677,
+			"recovered": 0,
+			"deaths": 2122,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tumbes": {
+			"lat": "-3.857496",
+			"long": "-80.54525500000003",
+			"confirmed": 27285,
+			"recovered": 0,
+			"deaths": 1687,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ucayali": {
+			"lat": "-9.621718",
+			"long": "-73.444929",
+			"confirmed": 39379,
+			"recovered": 0,
+			"deaths": 3221,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 597,
+			"recovered": 0,
+			"deaths": 59,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Philippines": {
+		"All": {
+			"confirmed": 3674983,
+			"recovered": 0,
+			"deaths": 58281,
+			"country": "Philippines",
+			"population": 104918090,
+			"sq_km_area": 300000,
+			"life_expectancy": "67.5",
+			"elevation_in_meters": 442,
+			"continent": "Asia",
+			"abbreviation": "PH",
+			"location": "Southeast Asia",
+			"iso": 608,
+			"capital_city": "Manila",
+			"lat": "12.879721",
+			"long": "121.77401699999999",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Poland": {
+		"All": {
+			"confirmed": 5905463,
+			"recovered": 0,
+			"deaths": 114355,
+			"country": "Poland",
+			"population": 38170712,
+			"sq_km_area": 323250,
+			"life_expectancy": "73.2",
+			"elevation_in_meters": 173,
+			"continent": "Europe",
+			"abbreviation": "PL",
+			"location": "Eastern Europe",
+			"iso": 616,
+			"capital_city": "Warszawa",
+			"lat": "51.9194",
+			"long": "19.1451",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Portugal": {
+		"All": {
+			"confirmed": 3458727,
+			"recovered": 0,
+			"deaths": 21408,
+			"country": "Portugal",
+			"population": 10329506,
+			"sq_km_area": 91982,
+			"life_expectancy": "75.8",
+			"elevation_in_meters": 372,
+			"continent": "Europe",
+			"abbreviation": "PT",
+			"location": "Southern Europe",
+			"iso": 620,
+			"capital_city": "Lisboa",
+			"lat": "39.3999",
+			"long": "-8.2245",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Qatar": {
+		"All": {
+			"confirmed": 360251,
+			"recovered": 0,
+			"deaths": 677,
+			"country": "Qatar",
+			"population": 2639211,
+			"sq_km_area": 11000,
+			"life_expectancy": "72.4",
+			"elevation_in_meters": 28,
+			"continent": "Asia",
+			"abbreviation": "QA",
+			"location": "Middle East",
+			"iso": 634,
+			"capital_city": "Doha",
+			"lat": "25.3548",
+			"long": "51.1839",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Romania": {
+		"All": {
+			"confirmed": 2823415,
+			"recovered": 0,
+			"deaths": 64749,
+			"country": "Romania",
+			"population": 19679306,
+			"sq_km_area": 238391,
+			"life_expectancy": "69.9",
+			"elevation_in_meters": 414,
+			"continent": "Europe",
+			"abbreviation": "RO",
+			"location": "Eastern Europe",
+			"iso": 642,
+			"capital_city": "Bucuresti",
+			"lat": "45.9432",
+			"long": "24.9668",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Russia": {
+		"All": {
+			"confirmed": 17382051,
+			"recovered": 0,
+			"deaths": 358093,
+			"country": "Russia",
+			"population": 143989754,
+			"sq_km_area": 17075400,
+			"life_expectancy": "67.2",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "RU",
+			"location": "Eastern Europe",
+			"iso": null,
+			"capital_city": "Moscow"
+		},
+		"Adygea Republic": {
+			"lat": "44.6939006",
+			"long": "40.1520421",
+			"confirmed": 47719,
+			"recovered": 0,
+			"deaths": 960,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Altai Krai": {
+			"lat": "52.693224300000004",
+			"long": "82.69314240000001",
+			"confirmed": 258307,
+			"recovered": 0,
+			"deaths": 8365,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Altai Republic": {
+			"lat": "50.7114101",
+			"long": "86.8572186",
+			"confirmed": 33482,
+			"recovered": 0,
+			"deaths": 593,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Amur Oblast": {
+			"lat": "52.8032368",
+			"long": "128.437295",
+			"confirmed": 102447,
+			"recovered": 0,
+			"deaths": 742,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arkhangelsk Oblast": {
+			"lat": "63.5589686",
+			"long": "43.1221646",
+			"confirmed": 223357,
+			"recovered": 0,
+			"deaths": 1605,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Astrakhan Oblast": {
+			"lat": "47.1878186",
+			"long": "47.608851",
+			"confirmed": 113872,
+			"recovered": 0,
+			"deaths": 2928,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bashkortostan Republic": {
+			"lat": "54.8573563",
+			"long": "57.1439682",
+			"confirmed": 270831,
+			"recovered": 0,
+			"deaths": 5476,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Belgorod Oblast": {
+			"lat": "50.7080119",
+			"long": "37.5837615",
+			"confirmed": 124666,
+			"recovered": 0,
+			"deaths": 2119,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bryansk Oblast": {
+			"lat": "52.887331499999995",
+			"long": "33.41585300000001",
+			"confirmed": 155440,
+			"recovered": 0,
+			"deaths": 3697,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Buryatia Republic": {
+			"lat": "52.718242599999996",
+			"long": "109.492143",
+			"confirmed": 133140,
+			"recovered": 0,
+			"deaths": 2947,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chechen Republic": {
+			"lat": "43.39761470000001",
+			"long": "45.6985005",
+			"confirmed": 42789,
+			"recovered": 0,
+			"deaths": 1076,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chelyabinsk Oblast": {
+			"lat": "54.4223954",
+			"long": "61.1865846",
+			"confirmed": 311737,
+			"recovered": 0,
+			"deaths": 7325,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chukotka Autonomous Okrug": {
+			"lat": "66.0006475",
+			"long": "169.4900869",
+			"confirmed": 5420,
+			"recovered": 0,
+			"deaths": 41,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Chuvashia Republic": {
+			"lat": "55.4259922",
+			"long": "47.0849429",
+			"confirmed": 76171,
+			"recovered": 0,
+			"deaths": 4525,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Dagestan Republic": {
+			"lat": "43.05749160000001",
+			"long": "47.1332224",
+			"confirmed": 91608,
+			"recovered": 0,
+			"deaths": 3573,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ingushetia Republic": {
+			"lat": "43.11542075",
+			"long": "45.01713552",
+			"confirmed": 40024,
+			"recovered": 0,
+			"deaths": 548,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Irkutsk Oblast": {
+			"lat": "56.6370122",
+			"long": "104.71922099999999",
+			"confirmed": 279296,
+			"recovered": 0,
+			"deaths": 8154,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ivanovo Oblast": {
+			"lat": "56.9167446",
+			"long": "41.43521370000001",
+			"confirmed": 106038,
+			"recovered": 0,
+			"deaths": 2986,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jewish Autonomous Okrug": {
+			"lat": "48.57527615",
+			"long": "132.66307460000002",
+			"confirmed": 17257,
+			"recovered": 0,
+			"deaths": 500,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kabardino-Balkarian Republic": {
+			"lat": "43.480604799999995",
+			"long": "43.5978976",
+			"confirmed": 60403,
+			"recovered": 0,
+			"deaths": 1825,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kaliningrad Oblast": {
+			"lat": "54.7293041",
+			"long": "21.1489473",
+			"confirmed": 161686,
+			"recovered": 0,
+			"deaths": 1749,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kalmykia Republic": {
+			"lat": "46.2313018",
+			"long": "45.3275745",
+			"confirmed": 49555,
+			"recovered": 0,
+			"deaths": 826,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kaluga Oblast": {
+			"lat": "54.438277299999996",
+			"long": "35.5272854",
+			"confirmed": 100063,
+			"recovered": 0,
+			"deaths": 1395,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kamchatka Krai": {
+			"lat": "57.191488199999995",
+			"long": "160.03838190000005",
+			"confirmed": 38806,
+			"recovered": 0,
+			"deaths": 609,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Karachay-Cherkess Republic": {
+			"lat": "43.7368326",
+			"long": "41.7267991",
+			"confirmed": 45024,
+			"recovered": 0,
+			"deaths": 979,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Karelia Republic": {
+			"lat": "62.61940309999999",
+			"long": "33.4920267",
+			"confirmed": 130333,
+			"recovered": 0,
+			"deaths": 1442,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kemerovo Oblast": {
+			"lat": "54.53357809999999",
+			"long": "87.342861",
+			"confirmed": 155059,
+			"recovered": 0,
+			"deaths": 2224,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Khabarovsk Krai": {
+			"lat": "51.6312684",
+			"long": "136.121524",
+			"confirmed": 193895,
+			"recovered": 0,
+			"deaths": 1494,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Khakassia Republic": {
+			"lat": "53.72258845",
+			"long": "91.44293627",
+			"confirmed": 86256,
+			"recovered": 0,
+			"deaths": 2330,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Khanty-Mansi Autonomous Okrug": {
+			"lat": "61.0259025",
+			"long": "69.0982628",
+			"confirmed": 205123,
+			"recovered": 0,
+			"deaths": 2497,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kirov Oblast": {
+			"lat": "57.9665589",
+			"long": "49.4074599",
+			"confirmed": 148150,
+			"recovered": 0,
+			"deaths": 940,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Komi Republic": {
+			"lat": "63.9881421",
+			"long": "54.3326073",
+			"confirmed": 166958,
+			"recovered": 0,
+			"deaths": 3034,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kostroma Oblast": {
+			"lat": "58.424756",
+			"long": "44.253327299999995",
+			"confirmed": 85507,
+			"recovered": 0,
+			"deaths": 1289,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Krasnodar Krai": {
+			"lat": "45.768401399999995",
+			"long": "39.0261044",
+			"confirmed": 246145,
+			"recovered": 0,
+			"deaths": 10611,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Krasnoyarsk Krai": {
+			"lat": "63.3233807",
+			"long": "97.09799740000001",
+			"confirmed": 357193,
+			"recovered": 0,
+			"deaths": 10450,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kurgan Oblast": {
+			"lat": "55.7655302",
+			"long": "64.5632681",
+			"confirmed": 99126,
+			"recovered": 0,
+			"deaths": 1323,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kursk Oblast": {
+			"lat": "51.6568453",
+			"long": "36.4852695",
+			"confirmed": 111894,
+			"recovered": 0,
+			"deaths": 2354,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Leningrad Oblast": {
+			"lat": "60.185329599999996",
+			"long": "32.3925325",
+			"confirmed": 179707,
+			"recovered": 0,
+			"deaths": 3422,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Lipetsk Oblast": {
+			"lat": "52.693517799999995",
+			"long": "39.112266399999996",
+			"confirmed": 140561,
+			"recovered": 0,
+			"deaths": 3467,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Magadan Oblast": {
+			"lat": "62.48858785",
+			"long": "153.9903764",
+			"confirmed": 19450,
+			"recovered": 0,
+			"deaths": 386,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mari El Republic": {
+			"lat": "56.576750399999995",
+			"long": "47.881751200000004",
+			"confirmed": 44139,
+			"recovered": 0,
+			"deaths": 1080,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mordovia Republic": {
+			"lat": "54.4419829",
+			"long": "44.466114399999995",
+			"confirmed": 64362,
+			"recovered": 0,
+			"deaths": 1327,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Moscow": {
+			"lat": "55.7504461",
+			"long": "37.6174943",
+			"confirmed": 2730743,
+			"recovered": 0,
+			"deaths": 42486,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Moscow Oblast": {
+			"lat": "55.50431579999999",
+			"long": "38.0353929",
+			"confirmed": 956176,
+			"recovered": 0,
+			"deaths": 14662,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Murmansk Oblast": {
+			"lat": "68.00004179999999",
+			"long": "33.9999151",
+			"confirmed": 132846,
+			"recovered": 0,
+			"deaths": 3218,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nenets Autonomous Okrug": {
+			"lat": "68.27557185",
+			"long": "57.1686375",
+			"confirmed": 7132,
+			"recovered": 0,
+			"deaths": 99,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nizhny Novgorod Oblast": {
+			"lat": "55.47180329999999",
+			"long": "44.091159399999995",
+			"confirmed": 400367,
+			"recovered": 0,
+			"deaths": 11310,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"North Ossetia - Alania Republic": {
+			"lat": "42.79336110000001",
+			"long": "44.6324493",
+			"confirmed": 40096,
+			"recovered": 0,
+			"deaths": 1236,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Novgorod Oblast": {
+			"lat": "58.2843833",
+			"long": "32.516975699999996",
+			"confirmed": 96268,
+			"recovered": 0,
+			"deaths": 980,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Novosibirsk Oblast": {
+			"lat": "54.9720169",
+			"long": "79.48139240000002",
+			"confirmed": 248695,
+			"recovered": 0,
+			"deaths": 5273,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Omsk Oblast": {
+			"lat": "56.09352629999999",
+			"long": "73.5099936",
+			"confirmed": 201049,
+			"recovered": 0,
+			"deaths": 4084,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Orel Oblast": {
+			"lat": "52.96854329999999",
+			"long": "36.0692477",
+			"confirmed": 106767,
+			"recovered": 0,
+			"deaths": 1805,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Orenburg Oblast": {
+			"lat": "52.02692620000001",
+			"long": "54.7276647",
+			"confirmed": 207917,
+			"recovered": 0,
+			"deaths": 3841,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Penza Oblast": {
+			"lat": "53.1655415",
+			"long": "44.78791810000001",
+			"confirmed": 176021,
+			"recovered": 0,
+			"deaths": 5519,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Perm Krai": {
+			"lat": "58.5951603",
+			"long": "56.3159546",
+			"confirmed": 354740,
+			"recovered": 0,
+			"deaths": 8603,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Primorsky Krai": {
+			"lat": "45.0819456",
+			"long": "134.726645",
+			"confirmed": 167864,
+			"recovered": 0,
+			"deaths": 1877,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pskov Oblast": {
+			"lat": "57.535872899999994",
+			"long": "28.8586826",
+			"confirmed": 105675,
+			"recovered": 0,
+			"deaths": 1693,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rostov Oblast": {
+			"lat": "47.6222451",
+			"long": "40.7957942",
+			"confirmed": 355520,
+			"recovered": 0,
+			"deaths": 10666,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ryazan Oblast": {
+			"lat": "54.42267320000001",
+			"long": "40.57052460000001",
+			"confirmed": 113265,
+			"recovered": 0,
+			"deaths": 3241,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saint Petersburg": {
+			"lat": "59.960673899999996",
+			"long": "30.158655100000004",
+			"confirmed": 1490094,
+			"recovered": 0,
+			"deaths": 32874,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sakha (Yakutiya) Republic": {
+			"lat": "66.941626",
+			"long": "129.642371",
+			"confirmed": 170039,
+			"recovered": 0,
+			"deaths": 2092,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sakhalin Oblast": {
+			"lat": "49.7219665",
+			"long": "143.448533",
+			"confirmed": 63580,
+			"recovered": 0,
+			"deaths": 810,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Samara Oblast": {
+			"lat": "53.2128813",
+			"long": "50.8914633",
+			"confirmed": 370644,
+			"recovered": 0,
+			"deaths": 7454,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saratov Oblast": {
+			"lat": "51.652055499999996",
+			"long": "46.86319520000001",
+			"confirmed": 236082,
+			"recovered": 0,
+			"deaths": 5800,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Smolensk Oblast": {
+			"lat": "55.03434960000001",
+			"long": "33.0192065",
+			"confirmed": 126286,
+			"recovered": 0,
+			"deaths": 2895,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Stavropol Krai": {
+			"lat": "44.86325770000001",
+			"long": "43.4406913",
+			"confirmed": 191183,
+			"recovered": 0,
+			"deaths": 6945,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sverdlovsk Oblast": {
+			"lat": "58.6414755",
+			"long": "61.802154599999994",
+			"confirmed": 415736,
+			"recovered": 0,
+			"deaths": 10498,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tambov Oblast": {
+			"lat": "52.9019574",
+			"long": "41.3578918",
+			"confirmed": 109305,
+			"recovered": 0,
+			"deaths": 2318,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tatarstan Republic": {
+			"lat": "55.7648572",
+			"long": "52.43104273",
+			"confirmed": 134714,
+			"recovered": 0,
+			"deaths": 1824,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tomsk Oblast": {
+			"lat": "58.6124279",
+			"long": "82.04753149999998",
+			"confirmed": 122917,
+			"recovered": 0,
+			"deaths": 780,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tula Oblast": {
+			"lat": "53.9570701",
+			"long": "37.369090899999996",
+			"confirmed": 147748,
+			"recovered": 0,
+			"deaths": 5022,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tver Oblast": {
+			"lat": "57.1134475",
+			"long": "35.174442799999994",
+			"confirmed": 155340,
+			"recovered": 0,
+			"deaths": 2689,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tyumen Oblast": {
+			"lat": "58.8206488",
+			"long": "70.36588370000001",
+			"confirmed": 182910,
+			"recovered": 0,
+			"deaths": 4155,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tyva Republic": {
+			"lat": "51.401714899999995",
+			"long": "93.8582593",
+			"confirmed": 44332,
+			"recovered": 0,
+			"deaths": 344,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Udmurt Republic": {
+			"lat": "57.1961165",
+			"long": "52.69598320000001",
+			"confirmed": 161262,
+			"recovered": 0,
+			"deaths": 3757,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ulyanovsk Oblast": {
+			"lat": "54.146317700000004",
+			"long": "47.2324921",
+			"confirmed": 191475,
+			"recovered": 0,
+			"deaths": 4523,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vladimir Oblast": {
+			"lat": "56.0503336",
+			"long": "40.656163299999996",
+			"confirmed": 145924,
+			"recovered": 0,
+			"deaths": 3320,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Volgograd Oblast": {
+			"lat": "49.604833899999996",
+			"long": "44.29035820000001",
+			"confirmed": 205885,
+			"recovered": 0,
+			"deaths": 6669,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vologda Oblast": {
+			"lat": "60.0391461",
+			"long": "43.1215213",
+			"confirmed": 181793,
+			"recovered": 0,
+			"deaths": 3582,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Voronezh Oblast": {
+			"lat": "50.9800393",
+			"long": "40.15065070000001",
+			"confirmed": 361287,
+			"recovered": 0,
+			"deaths": 8000,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yamalo-Nenets Autonomous Okrug": {
+			"lat": "67.1471631",
+			"long": "74.3415488",
+			"confirmed": 134568,
+			"recovered": 0,
+			"deaths": 1028,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Yaroslavl Oblast": {
+			"lat": "57.77819760000001",
+			"long": "39.002109499999996",
+			"confirmed": 151591,
+			"recovered": 0,
+			"deaths": 2641,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Zabaykalsky Krai": {
+			"lat": "52.248521000000004",
+			"long": "115.956325",
+			"confirmed": 163219,
+			"recovered": 0,
+			"deaths": 2267,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Rwanda": {
+		"All": {
+			"confirmed": 129674,
+			"recovered": 0,
+			"deaths": 1459,
+			"country": "Rwanda",
+			"population": 12208407,
+			"sq_km_area": 26338,
+			"life_expectancy": "39.3",
+			"elevation_in_meters": "1,598",
+			"continent": "Africa",
+			"abbreviation": "RW",
+			"location": "Eastern Africa",
+			"iso": 646,
+			"capital_city": "Kigali",
+			"lat": "-1.9403",
+			"long": "29.8739",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Saint Kitts and Nevis": {
+		"All": {
+			"confirmed": 5548,
+			"recovered": 0,
+			"deaths": 42,
+			"country": "Saint Kitts and Nevis",
+			"population": 55345,
+			"sq_km_area": 261,
+			"life_expectancy": "70.7",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "KN",
+			"location": "Caribbean",
+			"iso": 659,
+			"capital_city": "Basseterre",
+			"lat": "17.357822",
+			"long": "-62.782998",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Saint Lucia": {
+		"All": {
+			"confirmed": 22892,
+			"recovered": 0,
+			"deaths": 365,
+			"country": "Saint Lucia",
+			"population": 178844,
+			"sq_km_area": 622,
+			"life_expectancy": "72.3",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "LC",
+			"location": "Caribbean",
+			"iso": 662,
+			"capital_city": "Castries",
+			"lat": "13.9094",
+			"long": "-60.9789",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Saint Vincent and the Grenadines": {
+		"All": {
+			"confirmed": 8330,
+			"recovered": 0,
+			"deaths": 106,
+			"country": "Saint Vincent and the Grenadines",
+			"population": 109897,
+			"sq_km_area": 388,
+			"life_expectancy": "72.3",
+			"elevation_in_meters": null,
+			"continent": "North America",
+			"abbreviation": "VC",
+			"location": "Caribbean",
+			"iso": 670,
+			"capital_city": "Kingstown",
+			"lat": "12.9843",
+			"long": "-61.2872",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Samoa": {
+		"All": {
+			"confirmed": 295,
+			"recovered": 0,
+			"deaths": 0,
+			"country": "Samoa",
+			"population": 196440,
+			"sq_km_area": 2831,
+			"life_expectancy": "69.2",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "WS",
+			"location": "Polynesia",
+			"iso": 882,
+			"capital_city": "Apia",
+			"lat": "-13.759",
+			"long": "-172.1046",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"San Marino": {
+		"All": {
+			"confirmed": 15034,
+			"recovered": 0,
+			"deaths": 112,
+			"country": "San Marino",
+			"population": 33400,
+			"sq_km_area": 61,
+			"life_expectancy": "81.1",
+			"elevation_in_meters": null,
+			"continent": "Europe",
+			"abbreviation": "SM",
+			"location": "Southern Europe",
+			"iso": 674,
+			"capital_city": "San Marino",
+			"lat": "43.9424",
+			"long": "12.4578",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Sao Tome and Principe": {
+		"All": {
+			"confirmed": 5943,
+			"recovered": 0,
+			"deaths": 73,
+			"country": "Sao Tome and Principe",
+			"population": 204327,
+			"sq_km_area": 964,
+			"life_expectancy": "65.3",
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "ST",
+			"location": "Central Africa",
+			"iso": 678,
+			"capital_city": "S",
+			"lat": "0.1864",
+			"long": "6.6131",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Saudi Arabia": {
+		"All": {
+			"confirmed": 749855,
+			"recovered": 0,
+			"deaths": 9032,
+			"country": "Saudi Arabia",
+			"population": 32938213,
+			"sq_km_area": 2149690,
+			"life_expectancy": "67.8",
+			"elevation_in_meters": 665,
+			"continent": "Asia",
+			"abbreviation": "SA",
+			"location": "Middle East",
+			"iso": 682,
+			"capital_city": "Riyadh",
+			"lat": "23.885942",
+			"long": "45.079162",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Senegal": {
+		"All": {
+			"confirmed": 85832,
+			"recovered": 0,
+			"deaths": 1964,
+			"country": "Senegal",
+			"population": 15850567,
+			"sq_km_area": 196722,
+			"life_expectancy": "62.2",
+			"elevation_in_meters": 69,
+			"continent": "Africa",
+			"abbreviation": "SN",
+			"location": "Western Africa",
+			"iso": 686,
+			"capital_city": "Dakar",
+			"lat": "14.4974",
+			"long": "-14.4524",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Serbia": {
+		"All": {
+			"confirmed": 1959699,
+			"recovered": 0,
+			"deaths": 15706,
+			"lat": "44.0165",
+			"long": "21.0059",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Seychelles": {
+		"All": {
+			"confirmed": 39991,
+			"recovered": 0,
+			"deaths": 163,
+			"country": "Seychelles",
+			"population": 94737,
+			"sq_km_area": 455,
+			"life_expectancy": "70.4",
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "SC",
+			"location": "Eastern Africa",
+			"iso": 690,
+			"capital_city": "Victoria",
+			"lat": "-4.6796",
+			"long": "55.492",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Sierra Leone": {
+		"All": {
+			"confirmed": 7674,
+			"recovered": 0,
+			"deaths": 125,
+			"country": "Sierra Leone",
+			"population": 7557212,
+			"sq_km_area": 71740,
+			"life_expectancy": "45.3",
+			"elevation_in_meters": 279,
+			"continent": "Africa",
+			"abbreviation": "SL",
+			"location": "Western Africa",
+			"iso": 694,
+			"capital_city": "Freetown",
+			"lat": "8.460555000000001",
+			"long": "-11.779889",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Singapore": {
+		"All": {
+			"confirmed": 1035721,
+			"recovered": 0,
+			"deaths": 1214,
+			"country": "Singapore",
+			"population": 5708844,
+			"sq_km_area": 618,
+			"life_expectancy": "80.1",
+			"elevation_in_meters": null,
+			"continent": "Asia",
+			"abbreviation": "SG",
+			"location": "Southeast Asia",
+			"iso": 702,
+			"capital_city": "Singapore",
+			"lat": "1.2833",
+			"long": "103.8333",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Slovakia": {
+		"All": {
+			"confirmed": 2366902,
+			"recovered": 0,
+			"deaths": 19161,
+			"country": "Slovakia",
+			"population": 5447662,
+			"sq_km_area": 49012,
+			"life_expectancy": "73.7",
+			"elevation_in_meters": 458,
+			"continent": "Europe",
+			"abbreviation": "SK",
+			"location": "Eastern Europe",
+			"iso": 703,
+			"capital_city": "Bratislava",
+			"lat": "48.669",
+			"long": "19.699",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Slovenia": {
+		"All": {
+			"confirmed": 942954,
+			"recovered": 0,
+			"deaths": 6451,
+			"country": "Slovenia",
+			"population": 2079976,
+			"sq_km_area": 20256,
+			"life_expectancy": "74.9",
+			"elevation_in_meters": 492,
+			"continent": "Europe",
+			"abbreviation": "SI",
+			"location": "Southern Europe",
+			"iso": 705,
+			"capital_city": "Ljubljana",
+			"lat": "46.1512",
+			"long": "14.9955",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Solomon Islands": {
+		"All": {
+			"confirmed": 10204,
+			"recovered": 0,
+			"deaths": 128,
+			"country": "Solomon Islands",
+			"population": 611343,
+			"sq_km_area": 28896,
+			"life_expectancy": "71.3",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "SB",
+			"location": "Melanesia",
+			"iso": 90,
+			"capital_city": "Honiara",
+			"lat": "-9.6457",
+			"long": "160.1562",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Somalia": {
+		"All": {
+			"confirmed": 26410,
+			"recovered": 0,
+			"deaths": 1361,
+			"country": "Somalia",
+			"population": 14742523,
+			"sq_km_area": 637657,
+			"life_expectancy": "46.2",
+			"elevation_in_meters": 410,
+			"continent": "Africa",
+			"abbreviation": "SO",
+			"location": "Eastern Africa",
+			"iso": 706,
+			"capital_city": "Mogadishu",
+			"lat": "5.152149",
+			"long": "46.199616",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"South Africa": {
+		"All": {
+			"confirmed": 3705696,
+			"recovered": 0,
+			"deaths": 99893,
+			"country": "South Africa",
+			"population": 56717156,
+			"sq_km_area": 1221037,
+			"life_expectancy": "51.1",
+			"elevation_in_meters": "1,034",
+			"continent": "Africa",
+			"abbreviation": "ZA",
+			"location": "Southern Africa",
+			"iso": 710,
+			"capital_city": "Pretoria",
+			"lat": "-30.5595",
+			"long": "22.9375",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"South Sudan": {
+		"All": {
+			"confirmed": 17144,
+			"recovered": 0,
+			"deaths": 138,
+			"country": "South Sudan",
+			"population": 12575714,
+			"sq_km_area": 619745,
+			"life_expectancy": null,
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "SS",
+			"location": "Eastern Africa",
+			"iso": 728,
+			"capital_city": "Juba",
+			"lat": "6.8770000000000024",
+			"long": "31.307",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Spain": {
+		"All": {
+			"confirmed": 11378784,
+			"recovered": 0,
+			"deaths": 102053,
+			"country": "Spain",
+			"population": 46354321,
+			"sq_km_area": 505992,
+			"life_expectancy": "78.8",
+			"elevation_in_meters": 660,
+			"continent": "Europe",
+			"abbreviation": "ES",
+			"location": "Southern Europe",
+			"iso": 724,
+			"capital_city": "Madrid"
+		},
+		"Andalusia": {
+			"lat": "37.5443",
+			"long": "-4.7278",
+			"confirmed": 1381702,
+			"recovered": 0,
+			"deaths": 13091,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Aragon": {
+			"lat": "41.5976",
+			"long": "-0.9057",
+			"confirmed": 405528,
+			"recovered": 0,
+			"deaths": 4983,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Asturias": {
+			"lat": "43.3614",
+			"long": "-5.8593",
+			"confirmed": 201625,
+			"recovered": 0,
+			"deaths": 2578,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Baleares": {
+			"lat": "39.710358",
+			"long": "2.995148",
+			"confirmed": 263208,
+			"recovered": 0,
+			"deaths": 1236,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"C. Valenciana": {
+			"lat": "39.484",
+			"long": "-0.7533",
+			"confirmed": 1328036,
+			"recovered": 0,
+			"deaths": 9114,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Canarias": {
+			"lat": "28.2916",
+			"long": "-16.6291",
+			"confirmed": 321395,
+			"recovered": 0,
+			"deaths": 1623,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cantabria": {
+			"lat": "43.1828",
+			"long": "-3.9878",
+			"confirmed": 128912,
+			"recovered": 0,
+			"deaths": 784,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Castilla - La Mancha": {
+			"lat": "39.2796",
+			"long": "-3.0977",
+			"confirmed": 483243,
+			"recovered": 0,
+			"deaths": 7123,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Castilla y Leon": {
+			"lat": "41.8357",
+			"long": "-4.3976",
+			"confirmed": 671928,
+			"recovered": 0,
+			"deaths": 8357,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Catalonia": {
+			"lat": "41.5912",
+			"long": "1.5209",
+			"confirmed": 2340115,
+			"recovered": 0,
+			"deaths": 18708,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ceuta": {
+			"lat": "35.8894",
+			"long": "-5.3213",
+			"confirmed": 19373,
+			"recovered": 0,
+			"deaths": 146,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Extremadura": {
+			"lat": "39.4937",
+			"long": "-6.0679",
+			"confirmed": 248458,
+			"recovered": 0,
+			"deaths": 2267,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Galicia": {
+			"lat": "42.5751",
+			"long": "-8.1339",
+			"confirmed": 565481,
+			"recovered": 0,
+			"deaths": 3166,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"La Rioja": {
+			"lat": "42.2871",
+			"long": "-2.5396",
+			"confirmed": 91927,
+			"recovered": 0,
+			"deaths": 909,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Madrid": {
+			"lat": "40.4168",
+			"long": "-3.7038",
+			"confirmed": 1625772,
+			"recovered": 0,
+			"deaths": 17803,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Melilla": {
+			"lat": "35.2923",
+			"long": "-2.9381",
+			"confirmed": 20502,
+			"recovered": 0,
+			"deaths": 154,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Murcia": {
+			"lat": "37.9922",
+			"long": "-1.1307",
+			"confirmed": 386990,
+			"recovered": 0,
+			"deaths": 2193,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Navarra": {
+			"lat": "42.6954",
+			"long": "-1.6761",
+			"confirmed": 228522,
+			"recovered": 0,
+			"deaths": 1511,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pais Vasco": {
+			"lat": "42.9896",
+			"long": "-2.6189",
+			"confirmed": 666067,
+			"recovered": 0,
+			"deaths": 6307,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2021-04-25 23:20:49"
+		}
+	},
+	"Sri Lanka": {
+		"All": {
+			"confirmed": 659859,
+			"recovered": 0,
+			"deaths": 16440,
+			"country": "Sri Lanka",
+			"population": 20876917,
+			"life_expectancy": null,
+			"elevation_in_meters": null,
+			"location": null,
+			"iso": null,
+			"capital_city": null,
+			"lat": "7.873054",
+			"long": "80.77179699999998",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Sudan": {
+		"All": {
+			"confirmed": 61853,
+			"recovered": 0,
+			"deaths": 4898,
+			"country": "Sudan",
+			"population": 40533330,
+			"sq_km_area": 1886068,
+			"life_expectancy": "56.6",
+			"elevation_in_meters": 568,
+			"continent": "Africa",
+			"abbreviation": "SD",
+			"location": "Northern Africa",
+			"iso": 729,
+			"capital_city": "Khartum",
+			"lat": "12.8628",
+			"long": "30.2176",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Summer Olympics 2020": {
+		"All": {
+			"confirmed": 865,
+			"recovered": 0,
+			"deaths": 0,
+			"lat": "35.6491",
+			"long": "139.7737",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Suriname": {
+		"All": {
+			"confirmed": 79055,
+			"recovered": 0,
+			"deaths": 1324,
+			"country": "Suriname",
+			"population": 563402,
+			"sq_km_area": 163265,
+			"life_expectancy": "71.4",
+			"elevation_in_meters": 246,
+			"continent": "South America",
+			"abbreviation": "SR",
+			"location": "South America",
+			"iso": 740,
+			"capital_city": "Paramaribo",
+			"lat": "3.9193",
+			"long": "-56.0278",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Sweden": {
+		"All": {
+			"confirmed": 2475687,
+			"recovered": 0,
+			"deaths": 18053,
+			"country": "Sweden",
+			"population": 9910701,
+			"sq_km_area": 449964,
+			"life_expectancy": "79.6",
+			"elevation_in_meters": 320,
+			"continent": "Europe",
+			"abbreviation": "SE",
+			"location": "Nordic Countries",
+			"iso": 752,
+			"capital_city": "Stockholm"
+		},
+		"Blekinge": {
+			"lat": "56.2784",
+			"long": "15.017999999999999",
+			"confirmed": 29321,
+			"recovered": 0,
+			"deaths": 156,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Dalarna": {
+			"lat": "61.0917",
+			"long": "14.6664",
+			"confirmed": 68408,
+			"recovered": 0,
+			"deaths": 440,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gavleborg": {
+			"lat": "61.3012",
+			"long": "16.1534",
+			"confirmed": 73042,
+			"recovered": 0,
+			"deaths": 659,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gotland": {
+			"lat": "57.4684",
+			"long": "18.4867",
+			"confirmed": 11308,
+			"recovered": 0,
+			"deaths": 60,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Halland": {
+			"lat": "56.8967",
+			"long": "12.8034",
+			"confirmed": 103592,
+			"recovered": 0,
+			"deaths": 417,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jamtland Harjedalen": {
+			"lat": "63.1712",
+			"long": "14.9592",
+			"confirmed": 32406,
+			"recovered": 0,
+			"deaths": 167,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jonkoping": {
+			"lat": "57.3708",
+			"long": "14.3439",
+			"confirmed": 85561,
+			"recovered": 0,
+			"deaths": 651,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kalmar": {
+			"lat": "57.235",
+			"long": "16.1849",
+			"confirmed": 59406,
+			"recovered": 0,
+			"deaths": 329,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kronoberg": {
+			"lat": "56.7183",
+			"long": "14.4115",
+			"confirmed": 48755,
+			"recovered": 0,
+			"deaths": 375,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Norrbotten": {
+			"lat": "66.8309",
+			"long": "20.3992",
+			"confirmed": 48039,
+			"recovered": 0,
+			"deaths": 371,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Orebro": {
+			"lat": "59.535",
+			"long": "15.0066",
+			"confirmed": 91134,
+			"recovered": 0,
+			"deaths": 436,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ostergotland": {
+			"lat": "58.3454",
+			"long": "15.5198",
+			"confirmed": 93836,
+			"recovered": 0,
+			"deaths": 787,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Skane": {
+			"lat": "55.9903",
+			"long": "13.5958",
+			"confirmed": 335503,
+			"recovered": 0,
+			"deaths": 2257,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Sormland": {
+			"lat": "59.0336",
+			"long": "16.7519",
+			"confirmed": 62591,
+			"recovered": 0,
+			"deaths": 562,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Stockholm": {
+			"lat": "59.6025",
+			"long": "18.1384",
+			"confirmed": 566471,
+			"recovered": 0,
+			"deaths": 5151,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Uppsala": {
+			"lat": "60.0092",
+			"long": "17.2715",
+			"confirmed": 88251,
+			"recovered": 0,
+			"deaths": 643,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Varmland": {
+			"lat": "59.7294",
+			"long": "13.2354",
+			"confirmed": 63994,
+			"recovered": 0,
+			"deaths": 307,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vasterbotten": {
+			"lat": "65.3337",
+			"long": "16.5162",
+			"confirmed": 55648,
+			"recovered": 0,
+			"deaths": 288,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vasternorrland": {
+			"lat": "63.4276",
+			"long": "17.7292",
+			"confirmed": 52571,
+			"recovered": 0,
+			"deaths": 568,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vastmanland": {
+			"lat": "59.6714",
+			"long": "16.2159",
+			"confirmed": 74872,
+			"recovered": 0,
+			"deaths": 466,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vastra Gotaland": {
+			"lat": "58.2528",
+			"long": "13.0596",
+			"confirmed": 430978,
+			"recovered": 0,
+			"deaths": 2963,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Switzerland": {
+		"All": {
+			"confirmed": 3353754,
+			"recovered": 0,
+			"deaths": 13456,
+			"country": "Switzerland",
+			"population": 8476005,
+			"sq_km_area": 41284,
+			"life_expectancy": "79.6",
+			"elevation_in_meters": "1,350",
+			"continent": "Europe",
+			"abbreviation": "CH",
+			"location": "Western Europe",
+			"iso": 756,
+			"capital_city": "Bern",
+			"lat": "46.8182",
+			"long": "8.2275",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Syria": {
+		"All": {
+			"confirmed": 55577,
+			"recovered": 0,
+			"deaths": 3127,
+			"country": "Syria",
+			"population": 18269868,
+			"sq_km_area": 185180,
+			"life_expectancy": "68.5",
+			"elevation_in_meters": 514,
+			"continent": "Asia",
+			"abbreviation": "SY",
+			"location": "Middle East",
+			"iso": 760,
+			"capital_city": "Damascus",
+			"lat": "34.802075",
+			"long": "38.99681500000001",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Taiwan*": {
+		"All": {
+			"confirmed": 22091,
+			"recovered": 0,
+			"deaths": 853,
+			"lat": "23.7",
+			"long": "121.0",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Tajikistan": {
+		"All": {
+			"confirmed": 17786,
+			"recovered": 0,
+			"deaths": 125,
+			"country": "Tajikistan",
+			"population": 8921343,
+			"sq_km_area": 143100,
+			"life_expectancy": "64.1",
+			"elevation_in_meters": "3,186",
+			"continent": "Asia",
+			"abbreviation": "TJ",
+			"location": "Southern and Central Asia",
+			"iso": 762,
+			"capital_city": "Dushanbe",
+			"lat": "38.861",
+			"long": "71.2761",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Tanzania": {
+		"All": {
+			"confirmed": 33797,
+			"recovered": 0,
+			"deaths": 800,
+			"country": "Tanzania",
+			"population": 57310019,
+			"sq_km_area": 883749,
+			"life_expectancy": "52.3",
+			"elevation_in_meters": "1,018",
+			"continent": "Africa",
+			"abbreviation": "TZ",
+			"location": "Eastern Africa",
+			"iso": 834,
+			"capital_city": "Dodoma",
+			"lat": "-6.369028",
+			"long": "34.888822",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Thailand": {
+		"All": {
+			"confirmed": 3423956,
+			"recovered": 0,
+			"deaths": 24497,
+			"country": "Thailand",
+			"population": 69037513,
+			"sq_km_area": 513115,
+			"life_expectancy": "68.6",
+			"elevation_in_meters": 287,
+			"continent": "Asia",
+			"abbreviation": "TH",
+			"location": "Southeast Asia",
+			"iso": 764,
+			"capital_city": "Bangkok",
+			"lat": "15.870032",
+			"long": "100.992541",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Timor-Leste": {
+		"All": {
+			"confirmed": 22815,
+			"recovered": 0,
+			"deaths": 130,
+			"lat": "-8.874217",
+			"long": "125.727539",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Togo": {
+		"All": {
+			"confirmed": 36896,
+			"recovered": 0,
+			"deaths": 272,
+			"country": "Togo",
+			"population": 7797694,
+			"sq_km_area": 56785,
+			"life_expectancy": "54.7",
+			"elevation_in_meters": 236,
+			"continent": "Africa",
+			"abbreviation": "TG",
+			"location": "Western Africa",
+			"iso": 768,
+			"capital_city": "Lom",
+			"lat": "8.6195",
+			"long": "0.8248",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Tonga": {
+		"All": {
+			"confirmed": 3784,
+			"recovered": 0,
+			"deaths": 2,
+			"country": "Tonga",
+			"population": 108020,
+			"sq_km_area": 650,
+			"life_expectancy": "67.9",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "TO",
+			"location": "Polynesia",
+			"iso": 776,
+			"capital_city": "Nuku'alofa",
+			"lat": "-21.179000000000002",
+			"long": "-175.1982",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Trinidad and Tobago": {
+		"All": {
+			"confirmed": 135579,
+			"recovered": 0,
+			"deaths": 3719,
+			"country": "Trinidad and Tobago",
+			"population": 1369125,
+			"sq_km_area": 5130,
+			"life_expectancy": 68,
+			"elevation_in_meters": 83,
+			"continent": "North America",
+			"abbreviation": "TT",
+			"location": "Caribbean",
+			"iso": 780,
+			"capital_city": "Port-of-Spain",
+			"lat": "10.6918",
+			"long": "-61.2225",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Tunisia": {
+		"All": {
+			"confirmed": 1033731,
+			"recovered": 0,
+			"deaths": 28165,
+			"country": "Tunisia",
+			"population": 11532127,
+			"sq_km_area": 163610,
+			"life_expectancy": "73.7",
+			"elevation_in_meters": 246,
+			"continent": "Africa",
+			"abbreviation": "TN",
+			"location": "Northern Africa",
+			"iso": 788,
+			"capital_city": "Tunis",
+			"lat": "33.886917",
+			"long": "9.537499",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Turkey": {
+		"All": {
+			"confirmed": 14726276,
+			"recovered": 0,
+			"deaths": 97437,
+			"country": "Turkey",
+			"population": 80745020,
+			"sq_km_area": 774815,
+			"life_expectancy": 71,
+			"elevation_in_meters": "1,132",
+			"continent": "Asia",
+			"abbreviation": "TR",
+			"location": "Middle East",
+			"iso": 792,
+			"capital_city": "Ankara",
+			"lat": "38.9637",
+			"long": "35.2433",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"US": {
+		"All": {
+			"confirmed": 79803443,
+			"recovered": 0,
+			"deaths": 973213,
+			"country": "US",
+			"population": 324459463,
+			"sq_km_area": 9363520,
+			"life_expectancy": "77.1",
+			"elevation_in_meters": 760,
+			"continent": "North America",
+			"abbreviation": "US",
+			"location": "North America",
+			"iso": 840,
+			"capital_city": "Washington"
+		},
+		"Alabama": {
+			"lat": "34.15030532",
+			"long": "-87.37325922",
+			"confirmed": 7567,
+			"recovered": 0,
+			"deaths": 128,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Alaska": {
+			"lat": "65.50815459",
+			"long": "-151.39073869999999",
+			"confirmed": 1406,
+			"recovered": 0,
+			"deaths": 9,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"American Samoa": {
+			"lat": "-14.270999999999999",
+			"long": "-170.132",
+			"confirmed": 1556,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arizona": {
+			"lat": "32.76895712",
+			"long": "-113.90666740000002",
+			"confirmed": 62389,
+			"recovered": 0,
+			"deaths": 1147,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Arkansas": {
+			"lat": "35.00292371",
+			"long": "-93.41171338",
+			"confirmed": 6832,
+			"recovered": 0,
+			"deaths": 104,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"California": {
+			"lat": "39.26255932",
+			"long": "-121.35356440000001",
+			"confirmed": 16980,
+			"recovered": 0,
+			"deaths": 117,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Colorado": {
+			"lat": "40.00346839",
+			"long": "-102.4258673",
+			"confirmed": 1858,
+			"recovered": 0,
+			"deaths": 23,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Connecticut": {
+			"lat": "41.82972709",
+			"long": "-71.98182316",
+			"confirmed": 25520,
+			"recovered": 0,
+			"deaths": 297,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Delaware": {
+			"lat": "",
+			"long": "",
+			"confirmed": 921,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Diamond Princess": {
+			"lat": "",
+			"long": "",
+			"confirmed": 49,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2020-08-04 02:27:56"
+		},
+		"District of Columbia": {
+			"lat": "38.90417773",
+			"long": "-77.01655992",
+			"confirmed": 134623,
+			"recovered": 0,
+			"deaths": 1319,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Florida": {
+			"lat": "30.61359259",
+			"long": "-85.66002461",
+			"confirmed": 6617,
+			"recovered": 0,
+			"deaths": 107,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Georgia": {
+			"lat": "31.55162306",
+			"long": "-83.85090513",
+			"confirmed": 4606,
+			"recovered": 0,
+			"deaths": 113,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Grand Princess": {
+			"lat": "",
+			"long": "",
+			"confirmed": 103,
+			"recovered": 0,
+			"deaths": 3,
+			"updated": "2020-08-04 02:27:56"
+		},
+		"Guam": {
+			"lat": "13.4443",
+			"long": "144.7937",
+			"confirmed": 46893,
+			"recovered": 0,
+			"deaths": 341,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Hawaii": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Idaho": {
+			"lat": "44.45275475",
+			"long": "-116.78476880000001",
+			"confirmed": 2367,
+			"recovered": 0,
+			"deaths": 57,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Illinois": {
+			"lat": "40.78579374",
+			"long": "-89.20973757",
+			"confirmed": 10315,
+			"recovered": 0,
+			"deaths": 111,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Indiana": {
+			"lat": "41.13863784",
+			"long": "-85.50791236",
+			"confirmed": 9644,
+			"recovered": 0,
+			"deaths": 80,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Iowa": {
+			"lat": "42.73305373",
+			"long": "-93.73515113",
+			"confirmed": 3607,
+			"recovered": 0,
+			"deaths": 63,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kansas": {
+			"lat": "39.11727348",
+			"long": "-94.76378225",
+			"confirmed": 46725,
+			"recovered": 0,
+			"deaths": 467,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Kentucky": {
+			"lat": "38.04178222",
+			"long": "-84.7417556",
+			"confirmed": 6791,
+			"recovered": 0,
+			"deaths": 48,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Louisiana": {
+			"lat": "31.94449367",
+			"long": "-92.63789413",
+			"confirmed": 4151,
+			"recovered": 0,
+			"deaths": 63,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Maine": {
+			"lat": "43.47808377",
+			"long": "-70.71052375",
+			"confirmed": 39062,
+			"recovered": 0,
+			"deaths": 266,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Maryland": {
+			"lat": "38.21274277",
+			"long": "-75.33200012",
+			"confirmed": 8608,
+			"recovered": 0,
+			"deaths": 154,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Massachusetts": {
+			"lat": "42.35026951",
+			"long": "-71.90493363",
+			"confirmed": 190821,
+			"recovered": 0,
+			"deaths": 2561,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Michigan": {
+			"lat": "44.33853602",
+			"long": "-85.57712739",
+			"confirmed": 7039,
+			"recovered": 0,
+			"deaths": 105,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Minnesota": {
+			"lat": "44.71710183",
+			"long": "-95.86842453",
+			"confirmed": 2522,
+			"recovered": 0,
+			"deaths": 29,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Mississippi": {
+			"lat": "32.77890365",
+			"long": "-90.39656148",
+			"confirmed": 8019,
+			"recovered": 0,
+			"deaths": 106,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Missouri": {
+			"lat": "37.27029221",
+			"long": "-92.46914488",
+			"confirmed": 3824,
+			"recovered": 0,
+			"deaths": 80,
+			"updated": "2022-03-22 23:20:51"
+		},
+		"Montana": {
+			"lat": "45.93955949",
+			"long": "-108.26914860000001",
+			"confirmed": 42756,
+			"recovered": 0,
+			"deaths": 542,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nebraska": {
+			"lat": "40.87272618",
+			"long": "-97.59710186",
+			"confirmed": 3910,
+			"recovered": 0,
+			"deaths": 11,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Nevada": {
+			"lat": "39.44157041",
+			"long": "-114.89996599999999",
+			"confirmed": 1700,
+			"recovered": 0,
+			"deaths": 19,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New Hampshire": {
+			"lat": "",
+			"long": "",
+			"confirmed": 7988,
+			"recovered": 0,
+			"deaths": 27,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New Jersey": {
+			"lat": "40.85951833",
+			"long": "-74.99556527",
+			"confirmed": 23736,
+			"recovered": 0,
+			"deaths": 340,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New Mexico": {
+			"lat": "34.71669834",
+			"long": "-106.8103733",
+			"confirmed": 18484,
+			"recovered": 0,
+			"deaths": 257,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"New York": {
+			"lat": "42.63505484",
+			"long": "-77.10369919",
+			"confirmed": 3336,
+			"recovered": 0,
+			"deaths": 39,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"North Carolina": {
+			"lat": "35.90079156",
+			"long": "-82.31237181",
+			"confirmed": 4981,
+			"recovered": 0,
+			"deaths": 51,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"North Dakota": {
+			"lat": "48.34522353",
+			"long": "-103.4793387",
+			"confirmed": 10452,
+			"recovered": 0,
+			"deaths": 68,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Northern Mariana Islands": {
+			"lat": "15.0979",
+			"long": "145.6739",
+			"confirmed": 10777,
+			"recovered": 0,
+			"deaths": 31,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Ohio": {
+			"lat": "40.84339621",
+			"long": "-83.30734173",
+			"confirmed": 5399,
+			"recovered": 0,
+			"deaths": 103,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Oklahoma": {
+			"lat": "36.42316318",
+			"long": "-99.26283045",
+			"confirmed": 5155,
+			"recovered": 0,
+			"deaths": 73,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Oregon": {
+			"lat": "45.23330449",
+			"long": "-123.3086963",
+			"confirmed": 17679,
+			"recovered": 0,
+			"deaths": 204,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Pennsylvania": {
+			"lat": "39.9210089",
+			"long": "-76.73040131",
+			"confirmed": 118277,
+			"recovered": 0,
+			"deaths": 1475,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Puerto Rico": {
+			"lat": "18.080374",
+			"long": "-66.858814",
+			"confirmed": 3760,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Recovered": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Rhode Island": {
+			"lat": "41.45961631",
+			"long": "-71.61435303",
+			"confirmed": 31732,
+			"recovered": 0,
+			"deaths": 219,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"South Carolina": {
+			"lat": "34.97281497",
+			"long": "-81.18085944",
+			"confirmed": 77410,
+			"recovered": 0,
+			"deaths": 642,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"South Dakota": {
+			"lat": "44.97881876",
+			"long": "-101.6654622",
+			"confirmed": 665,
+			"recovered": 0,
+			"deaths": 11,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Tennessee": {
+			"lat": "36.15496772",
+			"long": "-86.29775884",
+			"confirmed": 41503,
+			"recovered": 0,
+			"deaths": 471,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Texas": {
+			"lat": "28.86617238",
+			"long": "-99.76050829",
+			"confirmed": 4035,
+			"recovered": 0,
+			"deaths": 68,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Utah": {
+			"lat": "41.27116049",
+			"long": "-111.9145117",
+			"confirmed": 73585,
+			"recovered": 0,
+			"deaths": 432,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Vermont": {
+			"lat": "43.58010937",
+			"long": "-72.58595157",
+			"confirmed": 8621,
+			"recovered": 0,
+			"deaths": 50,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Virgin Islands": {
+			"lat": "18.3358",
+			"long": "-64.8963",
+			"confirmed": 15589,
+			"recovered": 0,
+			"deaths": 110,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Virginia": {
+			"lat": "37.24374789",
+			"long": "-76.54412815",
+			"confirmed": 9734,
+			"recovered": 0,
+			"deaths": 104,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Washington": {
+			"lat": "46.45738486",
+			"long": "-120.73801259999999",
+			"confirmed": 71277,
+			"recovered": 0,
+			"deaths": 766,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"West Virginia": {
+			"lat": "37.612327",
+			"long": "-81.54511071",
+			"confirmed": 6957,
+			"recovered": 0,
+			"deaths": 106,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Wisconsin": {
+			"lat": "44.45537896",
+			"long": "-90.04158336",
+			"confirmed": 20810,
+			"recovered": 0,
+			"deaths": 229,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Wyoming": {
+			"lat": "43.83961191",
+			"long": "-104.56748809999999",
+			"confirmed": 1583,
+			"recovered": 0,
+			"deaths": 18,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Uganda": {
+		"All": {
+			"confirmed": 163768,
+			"recovered": 0,
+			"deaths": 3595,
+			"country": "Uganda",
+			"population": 42862958,
+			"sq_km_area": 241038,
+			"life_expectancy": "42.9",
+			"elevation_in_meters": null,
+			"continent": "Africa",
+			"abbreviation": "UG",
+			"location": "Eastern Africa",
+			"iso": 800,
+			"capital_city": "Kampala",
+			"lat": "1.373333",
+			"long": "32.290275",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Ukraine": {
+		"All": {
+			"confirmed": 5040518,
+			"recovered": 0,
+			"deaths": 112459,
+			"country": "Ukraine",
+			"population": 44222947,
+			"sq_km_area": 603700,
+			"life_expectancy": 66,
+			"elevation_in_meters": 175,
+			"continent": "Europe",
+			"abbreviation": "UA",
+			"location": "Eastern Europe",
+			"iso": 804,
+			"capital_city": "Kyiv"
+		},
+		"Cherkasy Oblast": {
+			"lat": "49.4444",
+			"long": "32.0598",
+			"confirmed": 163768,
+			"recovered": 0,
+			"deaths": 2973,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Chernihiv Oblast": {
+			"lat": "51.4982",
+			"long": "31.2893",
+			"confirmed": 126202,
+			"recovered": 0,
+			"deaths": 2751,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Chernivtsi Oblast": {
+			"lat": "48.2917",
+			"long": "25.9352",
+			"confirmed": 150465,
+			"recovered": 0,
+			"deaths": 3290,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Crimea Republic*": {
+			"lat": "45.2835",
+			"long": "34.2008",
+			"confirmed": 157596,
+			"recovered": 0,
+			"deaths": 4866,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Dnipropetrovsk Oblast": {
+			"lat": "48.4647",
+			"long": "35.0462",
+			"confirmed": 303551,
+			"recovered": 0,
+			"deaths": 9454,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Donetsk Oblast": {
+			"lat": "48.0159",
+			"long": "37.8028",
+			"confirmed": 216052,
+			"recovered": 0,
+			"deaths": 5607,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Ivano-Frankivsk Oblast": {
+			"lat": "48.9226",
+			"long": "24.7111",
+			"confirmed": 181629,
+			"recovered": 0,
+			"deaths": 3476,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Kharkiv Oblast": {
+			"lat": "49.9935",
+			"long": "36.2304",
+			"confirmed": 305661,
+			"recovered": 0,
+			"deaths": 6858,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Kherson Oblast": {
+			"lat": "46.6354",
+			"long": "32.6169",
+			"confirmed": 107686,
+			"recovered": 0,
+			"deaths": 2881,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Khmelnytskyi Oblast": {
+			"lat": "49.423",
+			"long": "26.9871",
+			"confirmed": 201270,
+			"recovered": 0,
+			"deaths": 3703,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Kiev": {
+			"lat": "50.4501",
+			"long": "30.5234",
+			"confirmed": 445098,
+			"recovered": 0,
+			"deaths": 8966,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Kiev Oblast": {
+			"lat": "50.053000000000004",
+			"long": "30.7667",
+			"confirmed": 226220,
+			"recovered": 0,
+			"deaths": 5019,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Kirovohrad Oblast": {
+			"lat": "48.5079",
+			"long": "32.2623",
+			"confirmed": 45117,
+			"recovered": 0,
+			"deaths": 1741,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Luhansk Oblast": {
+			"lat": "48.574",
+			"long": "39.3078",
+			"confirmed": 80033,
+			"recovered": 0,
+			"deaths": 2392,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Lviv Oblast": {
+			"lat": "49.8397",
+			"long": "24.0297",
+			"confirmed": 303357,
+			"recovered": 0,
+			"deaths": 6569,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Mykolaiv Oblast": {
+			"lat": "46.975",
+			"long": "31.9946",
+			"confirmed": 146174,
+			"recovered": 0,
+			"deaths": 3530,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Odessa Oblast": {
+			"lat": "46.4846",
+			"long": "30.7326",
+			"confirmed": 325462,
+			"recovered": 0,
+			"deaths": 5917,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Poltava Oblast": {
+			"lat": "49.5883",
+			"long": "34.5514",
+			"confirmed": 179994,
+			"recovered": 0,
+			"deaths": 4181,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Rivne Oblast": {
+			"lat": "50.6199",
+			"long": "26.2516",
+			"confirmed": 171031,
+			"recovered": 0,
+			"deaths": 2530,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Sevastopol*": {
+			"lat": "44.6054",
+			"long": "33.522",
+			"confirmed": 73298,
+			"recovered": 0,
+			"deaths": 2088,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Sumy Oblast": {
+			"lat": "50.9077",
+			"long": "34.7981",
+			"confirmed": 182268,
+			"recovered": 0,
+			"deaths": 3208,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Ternopil Oblast": {
+			"lat": "49.5535",
+			"long": "25.5948",
+			"confirmed": 146363,
+			"recovered": 0,
+			"deaths": 2391,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Vinnytsia Oblast": {
+			"lat": "49.2331",
+			"long": "28.4682",
+			"confirmed": 149845,
+			"recovered": 0,
+			"deaths": 3546,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Volyn Oblast": {
+			"lat": "50.7472",
+			"long": "25.3254",
+			"confirmed": 132045,
+			"recovered": 0,
+			"deaths": 2394,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Zakarpattia Oblast": {
+			"lat": "48.6208",
+			"long": "22.2879",
+			"confirmed": 112462,
+			"recovered": 0,
+			"deaths": 2724,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Zaporizhia Oblast": {
+			"lat": "47.8388",
+			"long": "35.1396",
+			"confirmed": 215070,
+			"recovered": 0,
+			"deaths": 5866,
+			"updated": "2022-03-01 23:21:04"
+		},
+		"Zhytomyr Oblast": {
+			"lat": "50.2547",
+			"long": "28.6587",
+			"confirmed": 192801,
+			"recovered": 0,
+			"deaths": 3538,
+			"updated": "2022-03-01 23:21:04"
+		}
+	},
+	"United Arab Emirates": {
+		"All": {
+			"confirmed": 888386,
+			"recovered": 0,
+			"deaths": 2302,
+			"country": "United Arab Emirates",
+			"population": 9400145,
+			"sq_km_area": 83600,
+			"life_expectancy": "74.1",
+			"elevation_in_meters": 149,
+			"continent": "Asia",
+			"abbreviation": "AE",
+			"location": "Middle East",
+			"iso": 784,
+			"capital_city": "Abu Dhabi",
+			"lat": "23.424076",
+			"long": "53.847818000000004",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"United Kingdom": {
+		"All": {
+			"confirmed": 20566021,
+			"recovered": 0,
+			"deaths": 164516,
+			"country": "United Kingdom",
+			"population": 66181585,
+			"sq_km_area": 242900,
+			"life_expectancy": "77.7",
+			"elevation_in_meters": 162,
+			"continent": "Europe",
+			"abbreviation": "GB",
+			"location": "British Isles",
+			"iso": 826,
+			"capital_city": "London"
+		},
+		"Anguilla": {
+			"lat": "18.2206",
+			"long": "-63.0686",
+			"confirmed": 2633,
+			"recovered": 0,
+			"deaths": 9,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Bermuda": {
+			"lat": "32.3078",
+			"long": "-64.7505",
+			"confirmed": 12231,
+			"recovered": 0,
+			"deaths": 126,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"British Virgin Islands": {
+			"lat": "18.4207",
+			"long": "-64.64",
+			"confirmed": 6104,
+			"recovered": 0,
+			"deaths": 62,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Cayman Islands": {
+			"lat": "19.3133",
+			"long": "-81.2546",
+			"confirmed": 20336,
+			"recovered": 0,
+			"deaths": 23,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Channel Islands": {
+			"lat": "49.3723",
+			"long": "-2.3644",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"England": {
+			"lat": "52.3555",
+			"long": "-1.1743",
+			"confirmed": 17191749,
+			"recovered": 0,
+			"deaths": 142409,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Falkland Islands (Malvinas)": {
+			"lat": "-51.7963",
+			"long": "-59.5236",
+			"confirmed": 119,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Gibraltar": {
+			"lat": "36.1408",
+			"long": "-5.3536",
+			"confirmed": 16436,
+			"recovered": 0,
+			"deaths": 101,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Guernsey": {
+			"lat": "49.448196",
+			"long": "-2.58949",
+			"confirmed": 17849,
+			"recovered": 0,
+			"deaths": 31,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Isle of Man": {
+			"lat": "54.2361",
+			"long": "-4.5481",
+			"confirmed": 26734,
+			"recovered": 0,
+			"deaths": 81,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Jersey": {
+			"lat": "49.2138",
+			"long": "-2.1358",
+			"confirmed": 43796,
+			"recovered": 0,
+			"deaths": 116,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Montserrat": {
+			"lat": "16.742498",
+			"long": "-62.187366000000004",
+			"confirmed": 174,
+			"recovered": 0,
+			"deaths": 2,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Northern Ireland": {
+			"lat": "54.7877",
+			"long": "-6.4923",
+			"confirmed": 671694,
+			"recovered": 0,
+			"deaths": 3282,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Saint Helena, Ascension and Tristan da Cunha": {
+			"lat": "-7.9467",
+			"long": "-14.3559",
+			"confirmed": 4,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Scotland": {
+			"lat": "56.4907",
+			"long": "-4.2026",
+			"confirmed": 1705109,
+			"recovered": 0,
+			"deaths": 11163,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Turks and Caicos Islands": {
+			"lat": "21.69400000000001",
+			"long": "-71.7979",
+			"confirmed": 5874,
+			"recovered": 0,
+			"deaths": 36,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Unknown": {
+			"lat": "",
+			"long": "",
+			"confirmed": 0,
+			"recovered": 0,
+			"deaths": 0,
+			"updated": "2022-03-23 04:20:48"
+		},
+		"Wales": {
+			"lat": "52.1307",
+			"long": "-3.7837",
+			"confirmed": 845179,
+			"recovered": 0,
+			"deaths": 7075,
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Uruguay": {
+		"All": {
+			"confirmed": 877763,
+			"recovered": 0,
+			"deaths": 7142,
+			"country": "Uruguay",
+			"population": 3456750,
+			"sq_km_area": 175016,
+			"life_expectancy": "75.2",
+			"elevation_in_meters": 109,
+			"continent": "South America",
+			"abbreviation": "UY",
+			"location": "South America",
+			"iso": 858,
+			"capital_city": "Montevideo",
+			"lat": "-32.5228",
+			"long": "-55.7658",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Uzbekistan": {
+		"All": {
+			"confirmed": 237520,
+			"recovered": 0,
+			"deaths": 1637,
+			"country": "Uzbekistan",
+			"population": 31910641,
+			"sq_km_area": 447400,
+			"life_expectancy": "63.7",
+			"elevation_in_meters": null,
+			"continent": "Asia",
+			"abbreviation": "UZ",
+			"location": "Southern and Central Asia",
+			"iso": 860,
+			"capital_city": "Toskent",
+			"lat": "41.377491",
+			"long": "64.585262",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Vanuatu": {
+		"All": {
+			"confirmed": 1117,
+			"recovered": 0,
+			"deaths": 1,
+			"country": "Vanuatu",
+			"population": 276244,
+			"sq_km_area": 12189,
+			"life_expectancy": "60.6",
+			"elevation_in_meters": null,
+			"continent": "Oceania",
+			"abbreviation": "VU",
+			"location": "Melanesia",
+			"iso": 548,
+			"capital_city": "Port-Vila",
+			"lat": "-15.3767",
+			"long": "166.9592",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Venezuela": {
+		"All": {
+			"confirmed": 519797,
+			"recovered": 0,
+			"deaths": 5671,
+			"country": "Venezuela",
+			"population": 31977065,
+			"sq_km_area": 912050,
+			"life_expectancy": "73.1",
+			"elevation_in_meters": 450,
+			"continent": "South America",
+			"abbreviation": "VE",
+			"location": "South America",
+			"iso": 862,
+			"capital_city": "Caracas",
+			"lat": "6.4238",
+			"long": "-66.5897",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Vietnam": {
+		"All": {
+			"confirmed": 8338914,
+			"recovered": 0,
+			"deaths": 42014,
+			"country": "Vietnam",
+			"population": 95540800,
+			"sq_km_area": 331689,
+			"life_expectancy": "69.3",
+			"elevation_in_meters": 398,
+			"continent": "Asia",
+			"abbreviation": "VN",
+			"location": "Southeast Asia",
+			"iso": 704,
+			"capital_city": "Hanoi",
+			"lat": "14.058323999999999",
+			"long": "108.277199",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"West Bank and Gaza": {
+		"All": {
+			"confirmed": 654954,
+			"recovered": 0,
+			"deaths": 5641,
+			"lat": "31.9522",
+			"long": "35.2332",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Winter Olympics 2022": {
+		"All": {
+			"confirmed": 535,
+			"recovered": 0,
+			"deaths": 0,
+			"lat": "39.9042",
+			"long": "116.4074",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Yemen": {
+		"All": {
+			"confirmed": 11802,
+			"recovered": 0,
+			"deaths": 2142,
+			"country": "Yemen",
+			"population": 28250420,
+			"sq_km_area": 527968,
+			"life_expectancy": "59.8",
+			"elevation_in_meters": 999,
+			"continent": "Asia",
+			"abbreviation": "YE",
+			"location": "Middle East",
+			"iso": 887,
+			"capital_city": "Sanaa",
+			"lat": "15.552726999999999",
+			"long": "48.516388",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Zambia": {
+		"All": {
+			"confirmed": 316088,
+			"recovered": 0,
+			"deaths": 3963,
+			"country": "Zambia",
+			"population": 17094130,
+			"sq_km_area": 752618,
+			"life_expectancy": "37.2",
+			"elevation_in_meters": "1,138",
+			"continent": "Africa",
+			"abbreviation": "ZM",
+			"location": "Eastern Africa",
+			"iso": 894,
+			"capital_city": "Lusaka",
+			"lat": "-13.133897",
+			"long": "27.849332",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Zimbabwe": {
+		"All": {
+			"confirmed": 244685,
+			"recovered": 0,
+			"deaths": 5429,
+			"country": "Zimbabwe",
+			"population": 16529904,
+			"sq_km_area": 390757,
+			"life_expectancy": "37.8",
+			"elevation_in_meters": 961,
+			"continent": "Africa",
+			"abbreviation": "ZW",
+			"location": "Eastern Africa",
+			"iso": 716,
+			"capital_city": "Harare",
+			"lat": "-19.015438",
+			"long": "29.154857",
+			"updated": "2022-03-23 04:20:48"
+		}
+	},
+	"Global": {
+		"All": {
+			"population": 7444509223,
+			"confirmed": 474114799,
+			"recovered": 0,
+			"deaths": 6098739
+		}
+	}
+}
