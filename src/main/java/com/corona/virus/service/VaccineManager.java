@@ -72,15 +72,18 @@ public class VaccineManager implements IVaccineService {
 	public HashMap<String, Double> calculatePercentageOfVaccinesByContinent() {
 		List<VaccineDTO> caseRecordDTOs = getAllVaccines();
 		HashMap<String, Double> percentageMap = new HashMap<>();
+		Double total = 0.0;
 		for (VaccineDTO caseRecordDTO : caseRecordDTOs) {
 			if (caseRecordDTO.getContinent() != null && !caseRecordDTO.getContinent().equals("")) {
+
 				Double deaths = Double.valueOf(caseRecordDTO.getPeople_vaccinated() != null ? caseRecordDTO.getPeople_vaccinated() : "0");
 				Double population = Double
 						.valueOf(caseRecordDTO.getPopulation() != null ? caseRecordDTO.getPopulation() : "0");
 				if (Double.compare(deaths, 0) > 0 && Double.compare(population, 0) > 0) {
 					double percentage = (deaths / population);
 					String formatted = String.format("%,.4f", percentage);
-					percentageMap.put(caseRecordDTO.getContinent(), Double.valueOf(formatted));
+					total = Double.valueOf(formatted) + total;
+					percentageMap.put(caseRecordDTO.getContinent(), total);
 				}
 			}
 		}
