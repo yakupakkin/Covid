@@ -1,57 +1,64 @@
 package com.corona.virus.entity;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Entity
-@Table
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class CaseRecord {
-	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = "id")
-	private Integer id;
-	@Column(name = "confirmed")
+
+	@SerializedName("confirmed")
+	@Expose
 	private String confirmed;
-	@Column(name = "recovered")
+	@Expose
+	@SerializedName("recovered")
 	private String recovered;
-	@Column(name = "deaths")
-	private String deaths;
-	@Column(name = "country")
+	@Expose
+	@SerializedName("deaths")
+	private Long deaths;
+	@Expose
+	@SerializedName("country")
 	private String country;
-	@Column(name = "population")
-	private String population;
-	@Column(name = "sq_km_area")
+	@Expose
+	@SerializedName("population")
+	private Long population;
+	@Expose
+	@SerializedName("sq_km_area")
 	private String sq_km_area;
-	@Column(name = "life_expectancy")
+	@Expose
+	@SerializedName("life_expectancy")
 	private String life_expectancy;
-	@Column(name = "elevation_in_meters")
+	@Expose
+	@SerializedName("elevation_in_meters")
 	private String elevation_in_meters;
-	@Column(name = "continent")
+	@Expose
+	@SerializedName("continent")
 	private String continent;
-	@Column(name = "abbreviation")
+	@Expose
+	@SerializedName("abbreviation")
 	private String abbreviation;
-	@Column(name = "location")
+	@Expose
+	@SerializedName("location")
 	private String location;
-	@Column(name = "iso")
+	@Expose
+	@SerializedName("iso")
 	private String iso;
-	@Column(name = "capital_city")
+	@Expose
+	@SerializedName("capital_city")
 	private String capital_city;
-	@Column(name = "lat")
+	@Expose
+	@SerializedName("lat")
 	private String lat;
-	@Column(name = "longitude")
+	@Expose
+	@SerializedName("longitude")
 	private String longitude;
-	@Column(name = "updated")
+	@Expose
+	@SerializedName("updated")
 	private String updated;
 
 }

@@ -1,6 +1,5 @@
 package com.corona.virus.controller;
 
-import java.util.HashMap;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.corona.virus.dto.CaseRecordDTO;
 import com.corona.virus.dto.VaccineDTO;
-import com.corona.virus.service.inf.ICorrelationCoefficient;
+import com.corona.virus.service.CorrelationEngine;
 import com.corona.virus.service.inf.ICovidService;
 import com.corona.virus.service.inf.IVaccineService;
 
@@ -22,8 +21,7 @@ public class CovidController {
 	ICovidService covidService;
 	@Autowired
 	IVaccineService vaccineService;
-	@Autowired
-	ICorrelationCoefficient correlationCoefficient;
+
 	@GetMapping("/all-cases")
 	public List<CaseRecordDTO> getAllCases() {
 		return covidService.getAllCases();
@@ -34,18 +32,17 @@ public class CovidController {
 		return vaccineService.getAllVaccines();
 	}
 
-	@GetMapping("/all-percentages")
-	public HashMap<String, Double> getAllPercentages() {
-		return covidService.calculatePercentageOfCasesByCountry();
+	@GetMapping("/get-correlation-by-country")
+	public double getCorrelationByCountry() {
+		CorrelationEngine correlationEngine = new CorrelationEngine(covidService.readCasesData(),
+				vaccineService.readVaccinesData());
+		return correlationEngine.compute();
 	}
 
-	@GetMapping("/all-percentages-by-continent")
-	public HashMap<String, Double> getAllPercentagesByContinent() {
-		return covidService.calculatePercentageOfCasesByContinent();
-	}
-
-	@GetMapping("/get-correlation")
-	public String getCorrelation() {
-		return correlationCoefficient.calculateCorrelation();
+	@GetMapping("/get-correlation-by-country")
+	public double getCorrelationByContinent() {
+		CorrelationEngine correlationEngine = new CorrelationEngine(
+				covidService.readCasesData(), vaccineService.readVaccinesData());
+		return correlationEngine.compute();
 	}
 }

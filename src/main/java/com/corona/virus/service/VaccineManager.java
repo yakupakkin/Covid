@@ -1,28 +1,29 @@
 package com.corona.virus.service;
 
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.json.simple.parser.ParseException;
 import org.springframework.stereotype.Service;
 
-import com.corona.virus.dao.IVaccineDao;
 import com.corona.virus.dto.VaccineDTO;
-import com.corona.virus.dto.VaccineMapper;
 import com.corona.virus.entity.Vaccine;
 import com.corona.virus.service.inf.IVaccineService;
 import com.corona.virus.util.CoronaUtil;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
 
 @Service
 public class VaccineManager implements IVaccineService {
-
-	@Autowired
-	IVaccineDao vaccineDao;
 
 	@Override
 	public List<VaccineDTO> getAllVaccines() {
@@ -54,6 +55,7 @@ public class VaccineManager implements IVaccineService {
 				vaccineDTO.setUpdated(CoronaUtil.toString(getAll.get("updated")));
 				vaccinesByCountries.add(vaccineDTO);
 			}
+			System.out.println(vaccinesByCountries.size());
 			return vaccinesByCountries;
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -62,32 +64,34 @@ public class VaccineManager implements IVaccineService {
 	}
 
 	@Override
-	public void saveVaccine(VaccineDTO vaccineDTO) {
+	public Map<String, Map<String, Vaccine>> readVaccinesData() {
 
-		Vaccine vacc = VaccineMapper.INSTANCE.dtoToEntity(vaccineDTO);
-		vaccineDao.save(vacc);
-	}
+		FileReader reader;
+		try {
+			// JSON parser object to parse read file
+			JSONParser jsonParser = new JSONParser();
 
-	@Override
-	public HashMap<String, Double> calculatePercentageOfVaccinesByContinent() {
-		List<VaccineDTO> caseRecordDTOs = getAllVaccines();
-		HashMap<String, Double> percentageMap = new HashMap<>();
-		Double total = 0.0;
-		for (VaccineDTO caseRecordDTO : caseRecordDTOs) {
-			if (caseRecordDTO.getContinent() != null && !caseRecordDTO.getContinent().equals("")) {
+			reader = new FileReader("src/main/resources/vaccines.json");
+			// Read JSON file
+			Object obj = jsonParser.parse(reader);
 
-				Double deaths = Double.valueOf(caseRecordDTO.getPeople_vaccinated() != null ? caseRecordDTO.getPeople_vaccinated() : "0");
-				Double population = Double
-						.valueOf(caseRecordDTO.getPopulation() != null ? caseRecordDTO.getPopulation() : "0");
-				if (Double.compare(deaths, 0) > 0 && Double.compare(population, 0) > 0) {
-					double percentage = (deaths / population);
-					String formatted = String.format("%,.4f", percentage);
-					total = Double.valueOf(formatted) + total;
-					percentageMap.put(caseRecordDTO.getContinent(), total);
-				}
-			}
+			Type vaccinesType = new TypeToken<Map<String, Map<String, Vaccine>>>() {
+			}.getType();
+			Gson gson = getGsonInstance();
+			return gson.fromJson(obj.toString(), vaccinesType);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ParseException e) {
+			e.printStackTrace();
 		}
-
-		return percentageMap;
+		return null;
 	}
+
+	private Gson getGsonInstance() {
+		return new GsonBuilder().excludeFieldsWithoutExposeAnnotation().create();
+	}
+
 }

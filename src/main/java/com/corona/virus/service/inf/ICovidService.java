@@ -1,18 +1,15 @@
 package com.corona.virus.service.inf;
 
-import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import com.corona.virus.dto.CaseRecordDTO;
+import com.corona.virus.entity.CaseRecord;
 
 public interface ICovidService {
 
 	List<CaseRecordDTO> getAllCases();
 
-	void saveCases(CaseRecordDTO caseRecordDTO);
-
-	HashMap<String, Double> calculatePercentageOfCasesByCountry();
-
-	HashMap<String, Double> calculatePercentageOfCasesByContinent();
+	Map<String, Map<String, CaseRecord>> readCasesData();
 
 }

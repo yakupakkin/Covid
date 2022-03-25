@@ -1,28 +1,30 @@
 package com.corona.virus.service;
 
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.json.simple.parser.ParseException;
 import org.springframework.stereotype.Service;
 
-import com.corona.virus.dao.ICaseDao;
 import com.corona.virus.dto.CaseRecordDTO;
-import com.corona.virus.dto.CaseRecordMapper;
 import com.corona.virus.entity.CaseRecord;
 import com.corona.virus.service.inf.ICovidService;
 import com.corona.virus.util.CoronaUtil;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
 
 @Service
-public class CovidManager implements ICovidService {
+public class CaseManager implements ICovidService {
 
-	@Autowired
-	ICaseDao caseDao;
 
 	@Override
 	public List<CaseRecordDTO> getAllCases() {
@@ -38,6 +40,7 @@ public class CovidManager implements ICovidService {
 				CaseRecordDTO caseByCountry = mapToDTO(jsonObject, countryName);
 				caseByCountries.add(caseByCountry);
 			}
+			System.out.println(caseByCountries.size());
 			return caseByCountries;
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -73,50 +76,34 @@ public class CovidManager implements ICovidService {
 	};
 
 	@Override
-	public void saveCases(CaseRecordDTO caseRecordDTO) {
-		CaseRecord caseRecord = CaseRecordMapper.INSTANCE.dtoToEntity(caseRecordDTO);
-		caseDao.saveAndFlush(caseRecord);
-	}
+	public Map<String, Map<String, CaseRecord>> readCasesData() {
 
-	@Override
-	public HashMap<String, Double> calculatePercentageOfCasesByCountry() {
-		List<CaseRecordDTO> caseRecordDTOs = getAllCases();
-		HashMap<String, Double> percentageMap = new HashMap<>();
-		for (CaseRecordDTO caseRecordDTO : caseRecordDTOs) {
-			if (caseRecordDTO.getCountry() != null && !caseRecordDTO.getCountry().equals("")) {
-				Double deaths = Double.valueOf(caseRecordDTO.getDeaths() != null ? caseRecordDTO.getDeaths() : "0");
-				Double population = Double
-						.valueOf(caseRecordDTO.getPopulation() != null ? caseRecordDTO.getPopulation() : "0");
-				if (Double.compare(deaths, 0) > 0 && Double.compare(population, 0) > 0) {
-					double percentage = (deaths / population) * 100;
-					String formatted = String.format("%,.4f", percentage);
-					percentageMap.put(caseRecordDTO.getContinent(), Double.valueOf(formatted));
-				}
-			}
+		FileReader reader;
+		try {
+			// JSON parser object to parse read file
+			JSONParser jsonParser = new JSONParser();
+
+			reader = new FileReader("src/main/resources/cases.json");
+			// Read JSON file
+			Object obj = jsonParser.parse(reader);
+
+			Type casesType = new TypeToken<Map<String, Map<String, CaseRecord>>>() {
+			}.getType();
+			Gson gson = getGsonInstance();
+			return gson.fromJson(obj.toString(), casesType);
+
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (ParseException e) {
+			e.printStackTrace();
 		}
-		return percentageMap;
+		return null;
 	}
 
-	@Override
-	public HashMap<String, Double> calculatePercentageOfCasesByContinent() {
-		List<CaseRecordDTO> caseRecordDTOs = getAllCases();
-		HashMap<String, Double> percentageMap = new HashMap<>();
-		Double total = 0.0;
-		for (CaseRecordDTO caseRecordDTO : caseRecordDTOs) {
-			if (caseRecordDTO.getContinent() != null && !caseRecordDTO.getContinent().equals("")) {
-
-				Double deaths = Double.valueOf(caseRecordDTO.getDeaths() != null ? caseRecordDTO.getDeaths() : "0");
-				Double population = Double
-						.valueOf(caseRecordDTO.getPopulation() != null ? caseRecordDTO.getPopulation() : "0");
-				if (Double.compare(deaths, 0) > 0 && Double.compare(population, 0) > 0) {
-					double percentage = (deaths / population);
-					String formatted = String.format("%,.4f", percentage);
-					total = Double.valueOf(formatted) + total;
-					percentageMap.put(caseRecordDTO.getContinent(), total);
-				}
-			}
-		}
-
-		return percentageMap;
+	private Gson getGsonInstance() {
+		return new GsonBuilder().excludeFieldsWithoutExposeAnnotation().create();
 	}
+
 }
