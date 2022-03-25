@@ -39,7 +39,7 @@ public class CovidController {
 		return correlationEngine.compute();
 	}
 
-	@GetMapping("/get-correlation-by-country")
+	@GetMapping("/get-correlation-by-continent")
 	public double getCorrelationByContinent() {
 		CorrelationEngine correlationEngine = new CorrelationEngine(
 				covidService.readCasesData(), vaccineService.readVaccinesData());
